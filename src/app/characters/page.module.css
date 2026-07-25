@@ -16,7 +16,7 @@
 }
 
 .kicker,
-.sectionTitle > div > p {
+.sectionEyebrow {
   display: inline-flex;
   align-items: center;
   gap: 8px;
@@ -32,7 +32,7 @@
 }
 
 .kicker::before,
-.sectionTitle > div > p::before {
+.sectionEyebrow::before {
   width: 7px;
   height: 7px;
   border-radius: 50%;
@@ -279,7 +279,7 @@
     linear-gradient(180deg, color-mix(in srgb, var(--surface-pink) 35%, white), var(--surface));
 }
 
-.passportMeta h2 {
+.passportMeta h3 {
   margin: 0;
   overflow-wrap: anywhere;
   font-size: 0.9rem;
@@ -307,8 +307,11 @@
   background: var(--surface-alt);
 }
 
-.noResults h2 {
-  margin-bottom: 8px;
+.noResultsTitle {
+  margin: 0 0 8px;
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+  font-weight: 800;
 }
 
 .noResults p {

@@ -49,7 +49,7 @@ export default function CharactersPage() {
         <div className="container">
           <div className={styles.sectionTitle}>
             <div>
-              <p>Directory A–Z</p>
+              <p className={styles.sectionEyebrow}>Directory A–Z</p>
               <h2>Search and filter all 54 playable characters</h2>
             </div>
             <p>

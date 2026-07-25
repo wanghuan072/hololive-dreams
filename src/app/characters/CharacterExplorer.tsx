@@ -82,7 +82,7 @@ export function CharacterExplorer() {
                   </span>
                 </div>
                 <div className={styles.passportMeta}>
-                  <h2>{holomem.name}</h2>
+                  <h3>{holomem.name}</h3>
                   <p>{holomem.group}</p>
                   <small>Playable character · {holomem.branch}</small>
                 </div>
@@ -92,7 +92,7 @@ export function CharacterExplorer() {
         </div>
       ) : (
         <div className={styles.noResults}>
-          <h2>No roster matches</h2>
+          <p className={styles.noResultsTitle}>No roster matches</p>
           <p>Clear the search or choose another branch to see every playable character.</p>
           <button
             type="button"

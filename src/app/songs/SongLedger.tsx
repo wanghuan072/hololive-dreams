@@ -81,7 +81,7 @@ export function SongLedger() {
                   </span>
                 </div>
                 <div className={styles.jacketMeta}>
-                  <strong>{song.title}</strong>
+                  <h3>{song.title}</h3>
                   <span className={styles.performer}>{song.performer}</span>
                 </div>
               </Link>
@@ -90,7 +90,7 @@ export function SongLedger() {
         </ol>
       ) : (
         <div className={styles.noSongs}>
-          <h2>No songs match</h2>
+          <p className={styles.noSongsTitle}>No songs match</p>
           <p>Try a shorter title, performer, lyricist, or composer name.</p>
           <button
             type="button"

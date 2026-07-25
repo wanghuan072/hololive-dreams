@@ -48,7 +48,7 @@ export default function SongsPage() {
         <div className="container">
           <div className={styles.sectionHeading}>
             <div>
-              <p>Opening set</p>
+              <p className={styles.sectionEyebrow}>Opening set</p>
               <h2>Search all songs</h2>
             </div>
             <p>
