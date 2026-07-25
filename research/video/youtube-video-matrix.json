@@ -1,0 +1,611 @@
+{
+  "metadata": {
+    "flow": "07-video-content-supplement",
+    "reviewedAt": "2026-07-24T00:00:00+08:00",
+    "reviewedCount": 20,
+    "adoptedCount": 7,
+    "deferredCount": 11,
+    "rejectedCount": 2,
+    "method": "yt-dlp metadata review plus official descriptions, thumbnails, limited captions, and official-text cross-checks; no video or audio downloaded",
+    "embedding": "not authorized; external official links only"
+  },
+  "coverage": [
+    {
+      "topic": "Official overview",
+      "queryIds": [
+        "ytq-01",
+        "ytq-02"
+      ],
+      "targetPages": [
+        "/",
+        "/wiki/systems"
+      ],
+      "reviewedIds": [
+        "KWkNV57HJe4",
+        "LQAm-2QHefE",
+        "d2DeHaTUcO8",
+        "J1uOs1pAQMw",
+        "PQlypO5Kz7E",
+        "bL3TP6IiipA"
+      ],
+      "adoptedIds": [
+        "KWkNV57HJe4",
+        "J1uOs1pAQMw"
+      ]
+    },
+    {
+      "topic": "First-session flow",
+      "queryIds": [
+        "ytq-02",
+        "ytq-05"
+      ],
+      "targetPages": [
+        "/guides/getting-started",
+        "/guides/dream-park-progression"
+      ],
+      "reviewedIds": [
+        "J1uOs1pAQMw",
+        "PQlypO5Kz7E",
+        "NFO6iCsyNB8",
+        "9y2hfI9-540",
+        "1a6GDQiTcCg",
+        "_uBs0PpHsOs"
+      ],
+      "adoptedIds": [
+        "J1uOs1pAQMw"
+      ]
+    },
+    {
+      "topic": "Rhythm presentation",
+      "queryIds": [
+        "ytq-03"
+      ],
+      "targetPages": [
+        "/guides/rhythm-timing",
+        "/guides/performance-settings"
+      ],
+      "reviewedIds": [
+        "QGKxCTMnl78",
+        "aXDlaQ6uyX0",
+        "k0iH87--248",
+        "1a6GDQiTcCg"
+      ],
+      "adoptedIds": [
+        "QGKxCTMnl78"
+      ]
+    },
+    {
+      "topic": "Create Chart",
+      "queryIds": [
+        "ytq-04"
+      ],
+      "targetPages": [
+        "/guides/create-chart"
+      ],
+      "reviewedIds": [
+        "KWkNV57HJe4",
+        "QxkalxA-rBA",
+        "bfkVEBw-Kr0",
+        "NFO6iCsyNB8"
+      ],
+      "adoptedIds": [
+        "KWkNV57HJe4"
+      ]
+    },
+    {
+      "topic": "Dream Park and board",
+      "queryIds": [
+        "ytq-05"
+      ],
+      "targetPages": [
+        "/guides/dream-park-progression",
+        "/guides/team-building-holomem-board"
+      ],
+      "reviewedIds": [
+        "KWkNV57HJe4",
+        "J1uOs1pAQMw",
+        "PQlypO5Kz7E",
+        "-3PEJw3ucCI",
+        "9y2hfI9-540"
+      ],
+      "adoptedIds": [
+        "KWkNV57HJe4",
+        "J1uOs1pAQMw"
+      ]
+    },
+    {
+      "topic": "Minigames",
+      "queryIds": [
+        "ytq-06"
+      ],
+      "targetPages": [
+        "/guides/minigames"
+      ],
+      "reviewedIds": [
+        "PQlypO5Kz7E",
+        "u-QXXcO2Wzg",
+        "9OxaIDpEhXo",
+        "-8QISHiERDI",
+        "bL3TP6IiipA"
+      ],
+      "adoptedIds": [
+        "PQlypO5Kz7E",
+        "u-QXXcO2Wzg",
+        "9OxaIDpEhXo",
+        "-8QISHiERDI"
+      ]
+    },
+    {
+      "topic": "Account linking",
+      "queryIds": [
+        "ytq-07"
+      ],
+      "targetPages": [
+        "/help"
+      ],
+      "reviewedIds": [
+        "n5MZS-zGUr4",
+        "NFO6iCsyNB8"
+      ],
+      "adoptedIds": []
+    },
+    {
+      "topic": "Loading and performance",
+      "queryIds": [
+        "ytq-08"
+      ],
+      "targetPages": [
+        "/help",
+        "/system-requirements"
+      ],
+      "reviewedIds": [
+        "NFO6iCsyNB8",
+        "1a6GDQiTcCg",
+        "_uBs0PpHsOs"
+      ],
+      "adoptedIds": []
+    }
+  ],
+  "videos": [
+    {
+      "id": "KWkNV57HJe4",
+      "level": "A",
+      "title": "【完全版】『ホロライブドリームス』ゲームトレーラー / “hololive Dreams” – Full GAME TRAILER",
+      "url": "https://www.youtube.com/watch?v=KWkNV57HJe4",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260416",
+      "durationSeconds": 186,
+      "captionAvailability": {
+        "manual": [
+          "en"
+        ],
+        "automatic": true
+      },
+      "decision": "adopted",
+      "sourceId": "src-020",
+      "targetPages": [
+        "/guides/team-building-holomem-board",
+        "/guides/create-chart"
+      ],
+      "usableIdeas": [
+        "Official visual overview of Dream Park, rhythm, team play, and Create Chart."
+      ],
+      "limitations": [
+        "Broad promotional overview; does not replace detailed official text sources."
+      ]
+    },
+    {
+      "id": "LQAm-2QHefE",
+      "level": "A",
+      "title": "『ホロライブドリームス』ゲームトレーラー/ “hololive Dreams” – OFFICIAL GAME TRAILER",
+      "url": "https://www.youtube.com/watch?v=LQAm-2QHefE",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260306",
+      "durationSeconds": 186,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": false
+      },
+      "decision": "rejected",
+      "usableIdeas": [],
+      "limitations": [
+        "Superseded by the corrected full-trailer reupload KWkNV57HJe4."
+      ]
+    },
+    {
+      "id": "d2DeHaTUcO8",
+      "level": "A",
+      "title": "hololive Dreams 情報解禁ステージ！ 〜ついにホロドリの全貌公開！〜 まとめ動画｜hololive SUPER EXPO 2026",
+      "url": "https://www.youtube.com/watch?v=d2DeHaTUcO8",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260407",
+      "durationSeconds": 286,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": true
+      },
+      "decision": "deferred",
+      "usableIdeas": [
+        "Prelaunch system overview and question discovery."
+      ],
+      "limitations": [
+        "Redundant with the corrected trailer and official site; no unique claim adopted."
+      ]
+    },
+    {
+      "id": "J1uOs1pAQMw",
+      "level": "A",
+      "title": "【#ホロドリ】プレイステージ！①  〜みんなでゲームを遊んでみよう！〜 まとめ動画｜hololive SUPER EXPO 2026",
+      "url": "https://www.youtube.com/watch?v=J1uOs1pAQMw",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260424",
+      "durationSeconds": 354,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": true
+      },
+      "decision": "adopted",
+      "sourceId": "src-021",
+      "targetPages": [
+        "/guides/getting-started",
+        "/guides/dream-park-progression"
+      ],
+      "usableIdeas": [
+        "Official visual demonstration of the first-session park-to-activity flow."
+      ],
+      "limitations": [
+        "Event-stage presentation; exact UI details may differ from release builds."
+      ]
+    },
+    {
+      "id": "PQlypO5Kz7E",
+      "level": "A",
+      "title": "【#ホロドリ】プレイステージ！②  〜みんなでわちゃわちゃバトル！〜 まとめ動画 ｜hololive SUPER EXPO 2026",
+      "url": "https://www.youtube.com/watch?v=PQlypO5Kz7E",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260428",
+      "durationSeconds": 414,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": true
+      },
+      "decision": "adopted",
+      "sourceId": "video-flow07-002",
+      "targetPages": [
+        "/guides/minigames"
+      ],
+      "usableIdeas": [
+        "Cooking asks players to match sets of the same ingredient and finish requested dishes before time expires.",
+        "Hoppin Rope is presented as a shared group activity."
+      ],
+      "limitations": [
+        "Auto-translated captions were noisy; only visually clear mechanics were retained."
+      ]
+    },
+    {
+      "id": "bL3TP6IiipA",
+      "level": "A",
+      "title": "【#ホロドリ】スペシャルステージ！  〜サプライズ情報もあるよ！〜 まとめ動画 ｜hololive SUPER EXPO 2026",
+      "url": "https://www.youtube.com/watch?v=bL3TP6IiipA",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260428",
+      "durationSeconds": 299,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": true
+      },
+      "decision": "deferred",
+      "usableIdeas": [
+        "Broad launch-stage question discovery."
+      ],
+      "limitations": [
+        "No unique stable claim beyond stronger adopted official sources."
+      ]
+    },
+    {
+      "id": "QGKxCTMnl78",
+      "level": "A",
+      "title": "『ホロライブドリームス』リズムゲーム紹介PV /  “hololive Dreams” – Rhythm Game PV",
+      "url": "https://www.youtube.com/watch?v=QGKxCTMnl78",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260108",
+      "durationSeconds": 78,
+      "captionAvailability": {
+        "manual": [
+          "en-US",
+          "ja"
+        ],
+        "automatic": true
+      },
+      "decision": "adopted",
+      "sourceId": "video-flow07-001",
+      "targetPages": [
+        "/guides/rhythm-timing"
+      ],
+      "usableIdeas": [
+        "Official lane-motion and animated-background visual reference."
+      ],
+      "limitations": [
+        "Short promotional clip; timing recommendations remain editorial guidance."
+      ]
+    },
+    {
+      "id": "aXDlaQ6uyX0",
+      "level": "A",
+      "title": "【#ホロドリ】EXPO STAGEまとめ リズムゲーム編｜hololive SUPER EXPO 2026",
+      "url": "https://www.youtube.com/watch?v=aXDlaQ6uyX0",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260502",
+      "durationSeconds": 100,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": true
+      },
+      "decision": "deferred",
+      "usableIdeas": [
+        "Additional rhythm-stage visual context."
+      ],
+      "limitations": [
+        "Redundant with the dedicated official Rhythm Game PV."
+      ]
+    },
+    {
+      "id": "u-QXXcO2Wzg",
+      "level": "A",
+      "title": "【#ホロドリ】EXPO STAGEまとめ ホッピン・ロープ編｜hololive SUPER EXPO 2026",
+      "url": "https://www.youtube.com/watch?v=u-QXXcO2Wzg",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260502",
+      "durationSeconds": 99,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": true
+      },
+      "decision": "adopted",
+      "sourceId": "video-flow07-003",
+      "targetPages": [
+        "/guides/minigames"
+      ],
+      "usableIdeas": [
+        "Official demonstration of group jump timing in Hoppin Rope."
+      ],
+      "limitations": [
+        "Visual reference only; no undocumented scoring rules inferred."
+      ]
+    },
+    {
+      "id": "9OxaIDpEhXo",
+      "level": "A",
+      "title": "【#ホロドリ】EXPO STAGEまとめ そろえてクッキング編｜hololive SUPER EXPO 2026",
+      "url": "https://www.youtube.com/watch?v=9OxaIDpEhXo",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260502",
+      "durationSeconds": 51,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": false
+      },
+      "decision": "adopted",
+      "sourceId": "video-flow07-004",
+      "targetPages": [
+        "/guides/minigames"
+      ],
+      "usableIdeas": [
+        "Official visual confirmation of the ingredient-matching cooking activity."
+      ],
+      "limitations": [
+        "No captions; mechanics were cross-checked against the official stage video."
+      ]
+    },
+    {
+      "id": "-8QISHiERDI",
+      "level": "A",
+      "title": "【#ホロドリ】EXPO STAGEまとめ メガサーキット編｜hololive SUPER EXPO 2026",
+      "url": "https://www.youtube.com/watch?v=-8QISHiERDI",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260502",
+      "durationSeconds": 116,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": false
+      },
+      "decision": "adopted",
+      "sourceId": "video-flow07-005",
+      "targetPages": [
+        "/guides/minigames"
+      ],
+      "usableIdeas": [
+        "Official competitive movement visual for MEGA CIRCUIT."
+      ],
+      "limitations": [
+        "No captions; no undocumented scoring or control claims inferred."
+      ]
+    },
+    {
+      "id": "-3PEJw3ucCI",
+      "level": "A",
+      "title": "新エリアPV「メガスフィア -Into the Mega Fun-」",
+      "url": "https://www.youtube.com/watch?v=-3PEJw3ucCI",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260529",
+      "durationSeconds": 80,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": false
+      },
+      "decision": "deferred",
+      "usableIdeas": [
+        "Potential future Mega Sphere area coverage."
+      ],
+      "limitations": [
+        "New-area announcement is outside the current verified site scope."
+      ]
+    },
+    {
+      "id": "k0iH87--248",
+      "level": "A",
+      "title": "『六兆年と一夜物語』（難易度：EXPERT）【#ホロドリ プレイ動画】",
+      "url": "https://www.youtube.com/watch?v=k0iH87--248",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "uploadDate": "20260723",
+      "durationSeconds": 20,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": true
+      },
+      "decision": "deferred",
+      "usableIdeas": [
+        "Potential future song-detail visual."
+      ],
+      "limitations": [
+        "Published after the catalog snapshot; defer until the song catalog is refreshed."
+      ]
+    },
+    {
+      "id": "NFO6iCsyNB8",
+      "level": "B",
+      "title": "【Pavolia Reine VA Plays】GACHA BUT RHYTHM BUT JUMP ROPE BUT STORY BUT HOLOLIVE【hololive Dreams】",
+      "url": "https://www.youtube.com/watch?v=NFO6iCsyNB8",
+      "channel": "Pavolia Reine Ch. hololive-ID",
+      "uploadDate": "20260723",
+      "durationSeconds": 14224,
+      "captionAvailability": {
+        "manual": [
+          "live_chat"
+        ],
+        "automatic": true
+      },
+      "decision": "deferred",
+      "usableIdeas": [
+        "English-speaking player terminology and launch-session questions."
+      ],
+      "limitations": [
+        "Nearly four-hour talent stream; metadata and description reviewed, not treated as a factual source."
+      ]
+    },
+    {
+      "id": "9y2hfI9-540",
+      "level": "B",
+      "title": "【ホロドリ】ついにリリース！！hololive Dreams初回プレイ🎶【ホロライブ/宝鐘マリン】",
+      "url": "https://www.youtube.com/watch?v=9y2hfI9-540",
+      "channel": "Marine Ch. 宝鐘マリン",
+      "uploadDate": "20260723",
+      "durationSeconds": 13541,
+      "captionAvailability": {
+        "manual": [
+          "live_chat"
+        ],
+        "automatic": true
+      },
+      "decision": "deferred",
+      "usableIdeas": [
+        "Launch-session question discovery."
+      ],
+      "limitations": [
+        "Nearly four-hour talent stream; metadata and description reviewed, not treated as a factual source."
+      ]
+    },
+    {
+      "id": "1a6GDQiTcCg",
+      "level": "B",
+      "title": "【Hololive Dreams】 THE HOLOLIVE GAME IS HERE！ホロドリ来たーーーー！！",
+      "url": "https://www.youtube.com/watch?v=1a6GDQiTcCg",
+      "channel": "IRyS Ch. hololive-EN",
+      "uploadDate": "20260723",
+      "durationSeconds": 8296,
+      "captionAvailability": {
+        "manual": [
+          "live_chat"
+        ],
+        "automatic": true
+      },
+      "decision": "deferred",
+      "usableIdeas": [
+        "English-speaking player terminology and first-session questions."
+      ],
+      "limitations": [
+        "Long talent stream; metadata and description reviewed, not treated as a factual source."
+      ]
+    },
+    {
+      "id": "_uBs0PpHsOs",
+      "level": "B",
+      "title": "【hololive Dreams】IT'S FINALLY HERE!!! GACHA GACHA GACHA!!!!",
+      "url": "https://www.youtube.com/watch?v=_uBs0PpHsOs",
+      "channel": "Raora Panthera Ch. hololive-EN",
+      "uploadDate": "20260723",
+      "durationSeconds": 13297,
+      "captionAvailability": {
+        "manual": [
+          "live_chat"
+        ],
+        "automatic": true
+      },
+      "decision": "deferred",
+      "usableIdeas": [
+        "English-speaking player terminology and first-session questions."
+      ],
+      "limitations": [
+        "Long talent stream; metadata and description reviewed, not treated as a factual source."
+      ]
+    },
+    {
+      "id": "QxkalxA-rBA",
+      "level": "C",
+      "title": "Anya nailed the infamous Fubuki Holodori's CUSTOM CHART !!!!",
+      "url": "https://www.youtube.com/watch?v=QxkalxA-rBA",
+      "channel": "Ninja Zombie ch",
+      "uploadDate": "20260723",
+      "durationSeconds": 194,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": true
+      },
+      "decision": "rejected",
+      "usableIdeas": [],
+      "limitations": [
+        "Derived community clip with weak provenance and a title/description mismatch."
+      ]
+    },
+    {
+      "id": "bfkVEBw-Kr0",
+      "level": "C",
+      "title": "A chart by Fubuki herself?? SUPERNOVA [CREATE] All Perfect Hololive Dreams ホロライブドリームズ",
+      "url": "https://www.youtube.com/watch?v=bfkVEBw-Kr0",
+      "channel": "lemrac",
+      "uploadDate": "20260723",
+      "durationSeconds": 142,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": false
+      },
+      "decision": "deferred",
+      "usableIdeas": [
+        "Community interest in custom-chart clears."
+      ],
+      "limitations": [
+        "Silent community gameplay adds no independently verifiable mechanic."
+      ]
+    },
+    {
+      "id": "n5MZS-zGUr4",
+      "level": "C",
+      "title": "Hololive Dreams How To Link Steam ID & Accounts Linking Guide In Hololive Dreams",
+      "url": "https://www.youtube.com/watch?v=n5MZS-zGUr4",
+      "channel": "AlphaZin",
+      "uploadDate": "20260723",
+      "durationSeconds": 134,
+      "captionAvailability": {
+        "manual": [],
+        "automatic": true
+      },
+      "decision": "deferred",
+      "usableIdeas": [
+        "Confirms account-linking is a user question worth monitoring."
+      ],
+      "limitations": [
+        "Community tutorial without official English text confirmation; no steps adopted."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+.footer {
+  position: relative;
+  margin-top: 72px;
+  overflow: hidden;
+  border-top: 1px solid var(--border);
+  background:
+    radial-gradient(ellipse 520px 220px at 10% 0%, rgba(255, 120, 180, 0.4), transparent 70%),
+    radial-gradient(ellipse 420px 200px at 50% 0%, rgba(255, 200, 87, 0.16), transparent 65%),
+    radial-gradient(ellipse 480px 240px at 90% 20%, rgba(26, 168, 196, 0.24), transparent 65%),
+    linear-gradient(180deg, #fff4fa 0%, #eaf4ff 100%);
+  padding: 52px 0 max(40px, env(safe-area-inset-bottom));
+}
+
+.footer::before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 4px;
+  background: linear-gradient(
+    90deg,
+    var(--accent),
+    var(--stage-gold),
+    #fff,
+    var(--signal),
+    var(--accent-soft)
+  );
+  box-shadow: 0 0 18px rgba(255, 77, 141, 0.35);
+  content: "";
+}
+
+.copyright {
+  width: min(100% - 40px, 1400px);
+  margin: 36px auto 0;
+  border-top: 1px dashed var(--border-strong);
+  padding-top: 18px;
+  color: var(--muted);
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  gap: 36px;
+}
+
+.statement {
+  max-width: 58ch;
+}
+
+.statement img {
+  width: 112px;
+  height: 112px;
+  margin-bottom: 18px;
+  object-fit: contain;
+}
+
+.name {
+  margin-bottom: 12px;
+  font-family: var(--font-display);
+  font-size: 1.7rem;
+  font-weight: 800;
+  line-height: 1.1;
+  color: var(--accent-dark);
+}
+
+.statement p {
+  color: var(--muted);
+}
+
+.links {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 28px 20px;
+}
+
+.links h2 {
+  margin-bottom: 10px;
+  color: var(--text);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.links ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.links li + li {
+  margin-top: 0;
+}
+
+.links a {
+  display: flex;
+  min-height: 44px;
+  align-items: center;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: color 160ms ease, transform 160ms ease;
+}
+
+.links a:hover {
+  color: var(--accent-dark);
+  transform: translateX(3px);
+}
+
+@media (width > 768px) {
+  .links {
+    grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  }
+}
+
+@media (width > 1024px) {
+  .grid {
+    grid-template-columns: minmax(320px, 1fr) minmax(460px, 1.35fr);
+    gap: 64px;
+  }
+}

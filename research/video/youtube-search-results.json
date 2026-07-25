@@ -1,0 +1,924 @@
+{
+  "metadata": {
+    "flow": "07-video-content-supplement",
+    "platform": "YouTube",
+    "retrievedAt": "2026-07-24T00:00:00+08:00",
+    "queryCount": 8,
+    "uniqueResultCount": 44,
+    "method": "yt-dlp flat playlist metadata only; no video or audio downloaded"
+  },
+  "queries": [
+    {
+      "id": "ytq-01",
+      "query": "hololive Dreams official trailer",
+      "targetPages": [
+        "/",
+        "/wiki/systems"
+      ],
+      "gap": "Official overview and system presentation"
+    },
+    {
+      "id": "ytq-02",
+      "query": "hololive Dreams gameplay guide",
+      "targetPages": [
+        "/guides",
+        "/guides/getting-started"
+      ],
+      "gap": "First-session and gameplay flow"
+    },
+    {
+      "id": "ytq-03",
+      "query": "hololive Dreams rhythm game note speed settings",
+      "targetPages": [
+        "/guides/rhythm-timing",
+        "/guides/performance-settings"
+      ],
+      "gap": "Rhythm lane and settings presentation"
+    },
+    {
+      "id": "ytq-04",
+      "query": "hololive Dreams Create Chart custom chart",
+      "targetPages": [
+        "/guides/create-chart"
+      ],
+      "gap": "Create Chart workflow and visual confirmation"
+    },
+    {
+      "id": "ytq-05",
+      "query": "hololive Dreams Dream Park Holomem Board",
+      "targetPages": [
+        "/guides/dream-park-progression",
+        "/guides/team-building-holomem-board"
+      ],
+      "gap": "Park, team, and board flow"
+    },
+    {
+      "id": "ytq-06",
+      "query": "hololive Dreams minigames Hoppin Rope POKAJAN",
+      "targetPages": [
+        "/guides/minigames"
+      ],
+      "gap": "Named minigame presentation"
+    },
+    {
+      "id": "ytq-07",
+      "query": "hololive Dreams account linking Steam mobile",
+      "targetPages": [
+        "/help"
+      ],
+      "gap": "Account-transfer question"
+    },
+    {
+      "id": "ytq-08",
+      "query": "hololive Dreams loading performance PC mobile",
+      "targetPages": [
+        "/help",
+        "/system-requirements"
+      ],
+      "gap": "Launch loading and performance questions"
+    }
+  ],
+  "results": [
+    {
+      "id": "LQAm-2QHefE",
+      "url": "https://www.youtube.com/watch?v=LQAm-2QHefE",
+      "title": "『ホロライブドリームス』ゲームトレーラー/ “hololive Dreams” – OFFICIAL GAME TRAILER",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "channelId": "UCawGfU44CZxd2ZVf_VGijbA",
+      "duration": 187,
+      "liveStatus": null,
+      "queries": [
+        "ytq-01"
+      ],
+      "targetPages": [
+        "/",
+        "/wiki/systems"
+      ],
+      "gaps": [
+        "Official overview and system presentation"
+      ]
+    },
+    {
+      "id": "y0yJ6HjBrOA",
+      "url": "https://www.youtube.com/watch?v=y0yJ6HjBrOA",
+      "title": "【holodori】Theme Song \"yumeiro wonder\" Official Music Video\"",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "channelId": "UCawGfU44CZxd2ZVf_VGijbA",
+      "duration": 174,
+      "liveStatus": null,
+      "queries": [
+        "ytq-01"
+      ],
+      "targetPages": [
+        "/",
+        "/wiki/systems"
+      ],
+      "gaps": [
+        "Official overview and system presentation"
+      ]
+    },
+    {
+      "id": "LRRA6SP0ZvI",
+      "url": "https://www.youtube.com/watch?v=LRRA6SP0ZvI",
+      "title": "HoloLive Dreams - Official Launch Gameplay (Android/iOS)",
+      "channel": "Gaming Mobile",
+      "channelId": "UCCLVf7wyOpUmB63mVpJmU5w",
+      "duration": 871,
+      "liveStatus": null,
+      "queries": [
+        "ytq-01",
+        "ytq-04"
+      ],
+      "targetPages": [
+        "/",
+        "/wiki/systems",
+        "/guides/create-chart"
+      ],
+      "gaps": [
+        "Official overview and system presentation",
+        "Create Chart workflow and visual confirmation"
+      ]
+    },
+    {
+      "id": "NFO6iCsyNB8",
+      "url": "https://www.youtube.com/watch?v=NFO6iCsyNB8",
+      "title": "【Pavolia Reine VA Plays】GACHA BUT RHYTHM BUT JUMP ROPE BUT STORY BUT HOLOLIVE【hololive Dreams】",
+      "channel": "Pavolia Reine Ch. hololive-ID",
+      "channelId": "UChgTyjG-pdNvxxhdsXfHQ5Q",
+      "duration": 14225,
+      "liveStatus": "was_live",
+      "queries": [
+        "ytq-01"
+      ],
+      "targetPages": [
+        "/",
+        "/wiki/systems"
+      ],
+      "gaps": [
+        "Official overview and system presentation"
+      ]
+    },
+    {
+      "id": "OXSps1yTbro",
+      "url": "https://www.youtube.com/watch?v=OXSps1yTbro",
+      "title": "【Hololive Dreams】 Fubuki co-created the chart?!",
+      "channel": "jack",
+      "channelId": "UCP94AfI3w-ftkmwhaexOfGw",
+      "duration": 129,
+      "liveStatus": null,
+      "queries": [
+        "ytq-01",
+        "ytq-04"
+      ],
+      "targetPages": [
+        "/",
+        "/wiki/systems",
+        "/guides/create-chart"
+      ],
+      "gaps": [
+        "Official overview and system presentation",
+        "Create Chart workflow and visual confirmation"
+      ]
+    },
+    {
+      "id": "n0C2dwWP1aY",
+      "url": "https://www.youtube.com/watch?v=n0C2dwWP1aY",
+      "title": "TWO FREE 5* STAR HOLOMEM!! hololive Dreams LAUNCH!!",
+      "channel": "Samool",
+      "channelId": "UCdenFy5YL2s9U2RMFWf047g",
+      "duration": 531,
+      "liveStatus": null,
+      "queries": [
+        "ytq-01"
+      ],
+      "targetPages": [
+        "/",
+        "/wiki/systems"
+      ],
+      "gaps": [
+        "Official overview and system presentation"
+      ]
+    },
+    {
+      "id": "9y2hfI9-540",
+      "url": "https://www.youtube.com/watch?v=9y2hfI9-540",
+      "title": "【ホロドリ】ついにリリース！！hololive Dreams初回プレイ🎶【ホロライブ/宝鐘マリン】",
+      "channel": "Marine Ch. 宝鐘マリン",
+      "channelId": "UCCzUftO8KOVkV4wQG1vkUvg",
+      "duration": 13541,
+      "liveStatus": "was_live",
+      "queries": [
+        "ytq-01"
+      ],
+      "targetPages": [
+        "/",
+        "/wiki/systems"
+      ],
+      "gaps": [
+        "Official overview and system presentation"
+      ]
+    },
+    {
+      "id": "BWWmKvYcjB4",
+      "url": "https://www.youtube.com/watch?v=BWWmKvYcjB4",
+      "title": "『ホロライブドリームス』ティザーPV /  “hololive Dreams” – Official Teaser",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "channelId": "UCawGfU44CZxd2ZVf_VGijbA",
+      "duration": 89,
+      "liveStatus": null,
+      "queries": [
+        "ytq-01"
+      ],
+      "targetPages": [
+        "/",
+        "/wiki/systems"
+      ],
+      "gaps": [
+        "Official overview and system presentation"
+      ]
+    },
+    {
+      "id": "8GS5zrxqtYI",
+      "url": "https://www.youtube.com/watch?v=8GS5zrxqtYI",
+      "title": "Finally Playing hololive Dreams!",
+      "channel": "mozowo 🌟",
+      "channelId": "UCf7zH6FWPcc6rbzNe1hQueg",
+      "duration": 16401,
+      "liveStatus": "was_live",
+      "queries": [
+        "ytq-02"
+      ],
+      "targetPages": [
+        "/guides",
+        "/guides/getting-started"
+      ],
+      "gaps": [
+        "First-session and gameplay flow"
+      ]
+    },
+    {
+      "id": "_uBs0PpHsOs",
+      "url": "https://www.youtube.com/watch?v=_uBs0PpHsOs",
+      "title": "【hololive Dreams】IT'S FINALLY HERE!!! GACHA GACHA GACHA!!!!",
+      "channel": "Raora Panthera Ch. hololive-EN",
+      "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "duration": 13297,
+      "liveStatus": "was_live",
+      "queries": [
+        "ytq-02"
+      ],
+      "targetPages": [
+        "/guides",
+        "/guides/getting-started"
+      ],
+      "gaps": [
+        "First-session and gameplay flow"
+      ]
+    },
+    {
+      "id": "RmkbQyS0fwg",
+      "url": "https://www.youtube.com/watch?v=RmkbQyS0fwg",
+      "title": "【hololive Dreams】i know this is a rhythm game but how about we do something else (1)",
+      "channel": "Kaela Kovalskia Ch. hololive-ID",
+      "channelId": "UCZLZ8Jjx_RN2CXloOmgTHVg",
+      "duration": 15253,
+      "liveStatus": "was_live",
+      "queries": [
+        "ytq-02",
+        "ytq-07"
+      ],
+      "targetPages": [
+        "/guides",
+        "/guides/getting-started",
+        "/help"
+      ],
+      "gaps": [
+        "First-session and gameplay flow",
+        "Account-transfer question"
+      ]
+    },
+    {
+      "id": "BYhp2XY4rCM",
+      "url": "https://www.youtube.com/watch?v=BYhp2XY4rCM",
+      "title": "【hololive Dreams】mori calliope and a dream",
+      "channel": "Gigi Murin Ch. hololive-EN",
+      "channelId": "UCDHABijvPBnJm7F-KlNME3w",
+      "duration": 17591,
+      "liveStatus": "was_live",
+      "queries": [
+        "ytq-02"
+      ],
+      "targetPages": [
+        "/guides",
+        "/guides/getting-started"
+      ],
+      "gaps": [
+        "First-session and gameplay flow"
+      ]
+    },
+    {
+      "id": "1a6GDQiTcCg",
+      "url": "https://www.youtube.com/watch?v=1a6GDQiTcCg",
+      "title": "【Hololive Dreams】 THE HOLOLIVE GAME IS HERE！ホロドリ来たーーーー！！",
+      "channel": "IRyS Ch. hololive-EN",
+      "channelId": "UC8rcEBzJSleTkf_-agPM20g",
+      "duration": 8296,
+      "liveStatus": "was_live",
+      "queries": [
+        "ytq-02",
+        "ytq-07"
+      ],
+      "targetPages": [
+        "/guides",
+        "/guides/getting-started",
+        "/help"
+      ],
+      "gaps": [
+        "First-session and gameplay flow",
+        "Account-transfer question"
+      ]
+    },
+    {
+      "id": "ETlwSjy84-8",
+      "url": "https://www.youtube.com/watch?v=ETlwSjy84-8",
+      "title": "【hololive Dreams】 HOLOLIVE AS A GACHA GAME?!?! THE DREAM CAME TRUE 【Kureiji Ollie】",
+      "channel": "Kureiji Ollie Ch. hololive-ID",
+      "channelId": "UCYz_5n-uDuChHtLo7My1HnQ",
+      "duration": 13226,
+      "liveStatus": "was_live",
+      "queries": [
+        "ytq-02",
+        "ytq-07"
+      ],
+      "targetPages": [
+        "/guides",
+        "/guides/getting-started",
+        "/help"
+      ],
+      "gaps": [
+        "First-session and gameplay flow",
+        "Account-transfer question"
+      ]
+    },
+    {
+      "id": "m90BlousnZw",
+      "url": "https://www.youtube.com/watch?v=m90BlousnZw",
+      "title": "Let Me Be With You | All Perfect Expert | hololive dreams",
+      "channel": "Yosai",
+      "channelId": "UClaqutebwO0vzRDuRXb4ejg",
+      "duration": 134,
+      "liveStatus": null,
+      "queries": [
+        "ytq-02"
+      ],
+      "targetPages": [
+        "/guides",
+        "/guides/getting-started"
+      ],
+      "gaps": [
+        "First-session and gameplay flow"
+      ]
+    },
+    {
+      "id": "HokNQ0_TXKI",
+      "url": "https://www.youtube.com/watch?v=HokNQ0_TXKI",
+      "title": "[HoloDori] Reroll Guide: The Best Characters to GET [hololive Dreams] hololive Rhythm & RPG Gacha...",
+      "channel": "ちべくまチャンネル",
+      "channelId": "UC7xy1c_2BbTjdPspBOcBppw",
+      "duration": 402,
+      "liveStatus": null,
+      "queries": [
+        "ytq-02"
+      ],
+      "targetPages": [
+        "/guides",
+        "/guides/getting-started"
+      ],
+      "gaps": [
+        "First-session and gameplay flow"
+      ]
+    },
+    {
+      "id": "uIC5ZhFdPiY",
+      "url": "https://www.youtube.com/watch?v=uIC5ZhFdPiY",
+      "title": "【ホロライブ初の公式スマホゲーム！？】FIRE BIRD EXPERT AP!!!【ホロドリ/hololive Dreams】",
+      "channel": "iAmMax",
+      "channelId": "UCNqSqzIu89qJOoEnpVEMX4A",
+      "duration": 185,
+      "liveStatus": null,
+      "queries": [
+        "ytq-03"
+      ],
+      "targetPages": [
+        "/guides/rhythm-timing",
+        "/guides/performance-settings"
+      ],
+      "gaps": [
+        "Rhythm lane and settings presentation"
+      ]
+    },
+    {
+      "id": "WspOrecVCX4",
+      "url": "https://www.youtube.com/watch?v=WspOrecVCX4",
+      "title": "【hololive Dreams】 I I I - HARD Gameplay",
+      "channel": "TricQ",
+      "channelId": "UCuZR5GT2kJT8C7g54v7_M4A",
+      "duration": 174,
+      "liveStatus": null,
+      "queries": [
+        "ytq-03"
+      ],
+      "targetPages": [
+        "/guides/rhythm-timing",
+        "/guides/performance-settings"
+      ],
+      "gaps": [
+        "Rhythm lane and settings presentation"
+      ]
+    },
+    {
+      "id": "i211xFTzwpY",
+      "url": "https://www.youtube.com/watch?v=i211xFTzwpY",
+      "title": "Hololive Dreams - FIRE BIRD (Expert [29] | All Perfect)",
+      "channel": "TheWindSpring",
+      "channelId": "UCQegLd7K-ZJm65zmD1qR6qg",
+      "duration": 165,
+      "liveStatus": null,
+      "queries": [
+        "ytq-03"
+      ],
+      "targetPages": [
+        "/guides/rhythm-timing",
+        "/guides/performance-settings"
+      ],
+      "gaps": [
+        "Rhythm lane and settings presentation"
+      ]
+    },
+    {
+      "id": "-TR1LB9m7nQ",
+      "url": "https://www.youtube.com/watch?v=-TR1LB9m7nQ",
+      "title": "【BanG Dream × Hololive】Stellar Stellar ~ All Perfect!!【Expert 26】",
+      "channel": "S1b3r",
+      "channelId": "UC5sPfjlvAliodfvg1ZbaQKQ",
+      "duration": 151,
+      "liveStatus": null,
+      "queries": [
+        "ytq-03"
+      ],
+      "targetPages": [
+        "/guides/rhythm-timing",
+        "/guides/performance-settings"
+      ],
+      "gaps": [
+        "Rhythm lane and settings presentation"
+      ]
+    },
+    {
+      "id": "yjNROfr0gaU",
+      "url": "https://www.youtube.com/watch?v=yjNROfr0gaU",
+      "title": "BanG Dream]Tracing A Dream]expert]Poppin'Party × Tokino sora]Hololive]Full combo]Setting in desc]",
+      "channel": "k1tty_×T",
+      "channelId": "UC5SFujSUSJtLwPnxv4SzaHQ",
+      "duration": 142,
+      "liveStatus": null,
+      "queries": [
+        "ytq-03"
+      ],
+      "targetPages": [
+        "/guides/rhythm-timing",
+        "/guides/performance-settings"
+      ],
+      "gaps": [
+        "Rhythm lane and settings presentation"
+      ]
+    },
+    {
+      "id": "uHMMy1MabZc",
+      "url": "https://www.youtube.com/watch?v=uHMMy1MabZc",
+      "title": "SECOND HOLOLIVE COLLAB! BanG Dream! GBP - See The World FULL COMBO [EXPERT 27]",
+      "channel": "楽虎 / FlameGoldTabby",
+      "channelId": "UCnCX1RGEzdCOEn316u5aYSQ",
+      "duration": 136,
+      "liveStatus": null,
+      "queries": [
+        "ytq-03"
+      ],
+      "targetPages": [
+        "/guides/rhythm-timing",
+        "/guides/performance-settings"
+      ],
+      "gaps": [
+        "Rhythm lane and settings presentation"
+      ]
+    },
+    {
+      "id": "mw-AWTQODb0",
+      "url": "https://www.youtube.com/watch?v=mw-AWTQODb0",
+      "title": "Ringing Bloom w/12.0 Note Speed ~ Clear w/3 miss【BanG Dream!】",
+      "channel": "S1b3r",
+      "channelId": "UC5sPfjlvAliodfvg1ZbaQKQ",
+      "duration": 138,
+      "liveStatus": null,
+      "queries": [
+        "ytq-03"
+      ],
+      "targetPages": [
+        "/guides/rhythm-timing",
+        "/guides/performance-settings"
+      ],
+      "gaps": [
+        "Rhythm lane and settings presentation"
+      ]
+    },
+    {
+      "id": "6SWW5AG7uk0",
+      "url": "https://www.youtube.com/watch?v=6SWW5AG7uk0",
+      "title": "【BanG Dream】Re:birth day ~ All Perfect!!【Expert 28】(On Stream)",
+      "channel": "S1b3r",
+      "channelId": "UC5sPfjlvAliodfvg1ZbaQKQ",
+      "duration": 142,
+      "liveStatus": null,
+      "queries": [
+        "ytq-03"
+      ],
+      "targetPages": [
+        "/guides/rhythm-timing",
+        "/guides/performance-settings"
+      ],
+      "gaps": [
+        "Rhythm lane and settings presentation"
+      ]
+    },
+    {
+      "id": "QxkalxA-rBA",
+      "url": "https://www.youtube.com/watch?v=QxkalxA-rBA",
+      "title": "Anya nailed the infamous Fubuki Holodori's CUSTOM CHART !!!!",
+      "channel": "Ninja Zombie ch",
+      "channelId": "UC77YidF-LX3PQkARJYUR8xA",
+      "duration": 194,
+      "liveStatus": null,
+      "queries": [
+        "ytq-04"
+      ],
+      "targetPages": [
+        "/guides/create-chart"
+      ],
+      "gaps": [
+        "Create Chart workflow and visual confirmation"
+      ]
+    },
+    {
+      "id": "EtN7Xpjt3Fw",
+      "url": "https://www.youtube.com/watch?v=EtN7Xpjt3Fw",
+      "title": "Anya Challenges Fubuki's Chart [Hololive Dreams]",
+      "channel": "RY 2nd",
+      "channelId": "UCHXovK2Osl6o82S6P0uwjsQ",
+      "duration": 216,
+      "liveStatus": null,
+      "queries": [
+        "ytq-04"
+      ],
+      "targetPages": [
+        "/guides/create-chart"
+      ],
+      "gaps": [
+        "Create Chart workflow and visual confirmation"
+      ]
+    },
+    {
+      "id": "bfkVEBw-Kr0",
+      "url": "https://www.youtube.com/watch?v=bfkVEBw-Kr0",
+      "title": "A chart by Fubuki herself?? SUPERNOVA [CREATE] All Perfect Hololive Dreams ホロライブドリームズ",
+      "channel": "lemrac",
+      "channelId": "UCCE_ny27Nj_lshf6j73-SxQ",
+      "duration": 142,
+      "liveStatus": null,
+      "queries": [
+        "ytq-04"
+      ],
+      "targetPages": [
+        "/guides/create-chart"
+      ],
+      "gaps": [
+        "Create Chart workflow and visual confirmation"
+      ]
+    },
+    {
+      "id": "iTgjuQEeUCg",
+      "url": "https://www.youtube.com/watch?v=iTgjuQEeUCg",
+      "title": "Prism Melody Expert All Perfect Hololive Dreams",
+      "channel": "RhythmicMelody39",
+      "channelId": "UCNwItZyJ9Yee4JtrPmPcc-Q",
+      "duration": 141,
+      "liveStatus": null,
+      "queries": [
+        "ytq-04"
+      ],
+      "targetPages": [
+        "/guides/create-chart"
+      ],
+      "gaps": [
+        "Create Chart workflow and visual confirmation"
+      ]
+    },
+    {
+      "id": "9fpYsQu2H80",
+      "url": "https://www.youtube.com/watch?v=9fpYsQu2H80",
+      "title": "Things You Need To Know Before Installing Hololive Dream #hololivedream #holodori",
+      "channel": "SICIKO",
+      "channelId": "UCg54UsGrbD8p3m6bTX8UZdw",
+      "duration": 537,
+      "liveStatus": null,
+      "queries": [
+        "ytq-04"
+      ],
+      "targetPages": [
+        "/guides/create-chart"
+      ],
+      "gaps": [
+        "Create Chart workflow and visual confirmation"
+      ]
+    },
+    {
+      "id": "WzeRO0z2IoM",
+      "url": "https://www.youtube.com/watch?v=WzeRO0z2IoM",
+      "title": "GHOST PLAY [Hololive Dreams] 夢色ワンダー (EXPERT 29)",
+      "channel": "Atomosphere (Hololive Dreams)",
+      "channelId": "UCQP7u5ENOb-f9Knm22JoS2w",
+      "duration": 159,
+      "liveStatus": null,
+      "queries": [
+        "ytq-04"
+      ],
+      "targetPages": [
+        "/guides/create-chart"
+      ],
+      "gaps": [
+        "Create Chart workflow and visual confirmation"
+      ]
+    },
+    {
+      "id": "8s87RtPnuNM",
+      "url": "https://www.youtube.com/watch?v=8s87RtPnuNM",
+      "title": "[🔴LIVE] Hololive Dream | Ah akhirnya bisa mainin idolnya, wait.. maksudku-  #102",
+      "channel": "Xei Yume",
+      "channelId": "UCSrReQHyebFewrc7xfNLU9Q",
+      "duration": null,
+      "liveStatus": "is_upcoming",
+      "queries": [
+        "ytq-05"
+      ],
+      "targetPages": [
+        "/guides/dream-park-progression",
+        "/guides/team-building-holomem-board"
+      ],
+      "gaps": [
+        "Park, team, and board flow"
+      ]
+    },
+    {
+      "id": "BkRj5FUX-Y4",
+      "url": "https://www.youtube.com/watch?v=BkRj5FUX-Y4",
+      "title": "How To Link Account In hololive Dreams | How To Transfer Data From PC To Mobile In hololive Dreams",
+      "channel": "Global TechWorld Solutions",
+      "channelId": "UCzCt9MPVBpBYSbGBrTg2rrg",
+      "duration": 139,
+      "liveStatus": null,
+      "queries": [
+        "ytq-07"
+      ],
+      "targetPages": [
+        "/help"
+      ],
+      "gaps": [
+        "Account-transfer question"
+      ]
+    },
+    {
+      "id": "n5MZS-zGUr4",
+      "url": "https://www.youtube.com/watch?v=n5MZS-zGUr4",
+      "title": "Hololive Dreams How To Link Steam ID & Accounts Linking Guide In Hololive Dreams ",
+      "channel": "AlphaZin",
+      "channelId": "UClB1y2ditUrF1uei6A4HBQg",
+      "duration": 134,
+      "liveStatus": null,
+      "queries": [
+        "ytq-07"
+      ],
+      "targetPages": [
+        "/help"
+      ],
+      "gaps": [
+        "Account-transfer question"
+      ]
+    },
+    {
+      "id": "qDs5ZbJaKQE",
+      "url": "https://www.youtube.com/watch?v=qDs5ZbJaKQE",
+      "title": "PRE RELEASE HOLODORI everything you need to know!",
+      "channel": "skysakiko",
+      "channelId": "UCBYSGw0j8qOHS4VjSILOMhw",
+      "duration": 358,
+      "liveStatus": null,
+      "queries": [
+        "ytq-07"
+      ],
+      "targetPages": [
+        "/help"
+      ],
+      "gaps": [
+        "Account-transfer question"
+      ]
+    },
+    {
+      "id": "PEXz6QUvK9M",
+      "url": "https://www.youtube.com/watch?v=PEXz6QUvK9M",
+      "title": "Hololive Dreams: A Music Game Featuring VTubers from the Famous Agency with Mini-Games and Open C...",
+      "channel": "Shorty Bluejova",
+      "channelId": "UCbPXc445U0-9NVYaf2VZkBw",
+      "duration": 816,
+      "liveStatus": null,
+      "queries": [
+        "ytq-07"
+      ],
+      "targetPages": [
+        "/help"
+      ],
+      "gaps": [
+        "Account-transfer question"
+      ]
+    },
+    {
+      "id": "3JUv7GXu28g",
+      "url": "https://www.youtube.com/watch?v=3JUv7GXu28g",
+      "title": "Hololive Dreams: The Next Big Mobile Rhythm Game? | Game8 Spotlight",
+      "channel": "Game8 Reviews",
+      "channelId": "UCEMuCz2H5mmiQoI3n6vtDUw",
+      "duration": 226,
+      "liveStatus": null,
+      "queries": [
+        "ytq-07"
+      ],
+      "targetPages": [
+        "/help"
+      ],
+      "gaps": [
+        "Account-transfer question"
+      ]
+    },
+    {
+      "id": "4TfVDogLQNY",
+      "url": "https://www.youtube.com/watch?v=4TfVDogLQNY",
+      "title": "New Hololive Game - hololive Dreams [ INDONESIA ]",
+      "channel": "Dehan くん Gamers Ch.",
+      "channelId": "UCan0HIVi7L2n-3_EFMOyLuQ",
+      "duration": 2955,
+      "liveStatus": null,
+      "queries": [
+        "ytq-08"
+      ],
+      "targetPages": [
+        "/help",
+        "/system-requirements"
+      ],
+      "gaps": [
+        "Launch loading and performance questions"
+      ]
+    },
+    {
+      "id": "v9QD25nakt8",
+      "url": "https://www.youtube.com/watch?v=v9QD25nakt8",
+      "title": "The Twinning.mp4",
+      "channel": "MyJoJob",
+      "channelId": "UCeNfz1acz2GkDSR8PbUJVlw",
+      "duration": 45,
+      "liveStatus": null,
+      "queries": [
+        "ytq-08"
+      ],
+      "targetPages": [
+        "/help",
+        "/system-requirements"
+      ],
+      "gaps": [
+        "Launch loading and performance questions"
+      ]
+    },
+    {
+      "id": "Ok8WLSCK_pM",
+      "url": "https://www.youtube.com/watch?v=Ok8WLSCK_pM",
+      "title": "Live2D nizima Live vs VTubeStudio load performance check 負荷調査",
+      "channel": "マルキ屋",
+      "channelId": "UC-CV_re3cRjFU-DSJ5IRl7A",
+      "duration": 30,
+      "liveStatus": null,
+      "queries": [
+        "ytq-08"
+      ],
+      "targetPages": [
+        "/help",
+        "/system-requirements"
+      ],
+      "gaps": [
+        "Launch loading and performance questions"
+      ]
+    },
+    {
+      "id": "xCgDd-JY0QE",
+      "url": "https://www.youtube.com/watch?v=xCgDd-JY0QE",
+      "title": "PRAGMATA - Coming 2023",
+      "channel": "Capcom USA",
+      "channelId": "UCW7h-1mymnJ96akzjrmiIgA",
+      "duration": 34,
+      "liveStatus": null,
+      "queries": [
+        "ytq-08"
+      ],
+      "targetPages": [
+        "/help",
+        "/system-requirements"
+      ],
+      "gaps": [
+        "Launch loading and performance questions"
+      ]
+    },
+    {
+      "id": "7P9pjHailcA",
+      "url": "https://www.youtube.com/watch?v=7P9pjHailcA",
+      "title": "My last clip of Yaxie",
+      "channel": "rei ran",
+      "channelId": "UCTN3u3AVmVA0GezVDt3hMrg",
+      "duration": 31,
+      "liveStatus": null,
+      "queries": [
+        "ytq-08"
+      ],
+      "targetPages": [
+        "/help",
+        "/system-requirements"
+      ],
+      "gaps": [
+        "Launch loading and performance questions"
+      ]
+    },
+    {
+      "id": "c9qxvO-MVGQ",
+      "url": "https://www.youtube.com/watch?v=c9qxvO-MVGQ",
+      "title": "10 Bad Things About Mini PCs",
+      "channel": "Britec09",
+      "channelId": "UC_M-iWYpQbgo4rK1YfewI5w",
+      "duration": 562,
+      "liveStatus": null,
+      "queries": [
+        "ytq-08"
+      ],
+      "targetPages": [
+        "/help",
+        "/system-requirements"
+      ],
+      "gaps": [
+        "Launch loading and performance questions"
+      ]
+    },
+    {
+      "id": "4_z-402cU-c",
+      "url": "https://www.youtube.com/watch?v=4_z-402cU-c",
+      "title": "Wuthering Waves: Ultimate FPS BOOST for iGPU Machines! (Updated Guide)",
+      "channel": "Potato Spec Gamer!",
+      "channelId": "UC98I-57d4bB8TGox7PFhwxw",
+      "duration": 330,
+      "liveStatus": null,
+      "queries": [
+        "ytq-08"
+      ],
+      "targetPages": [
+        "/help",
+        "/system-requirements"
+      ],
+      "gaps": [
+        "Launch loading and performance questions"
+      ]
+    },
+    {
+      "id": "Kor-MnV6gFg",
+      "url": "https://www.youtube.com/watch?v=Kor-MnV6gFg",
+      "title": "Make Windows 10/11 Best For GAMING!⚡️Hidden Settings TURN ON Right Now! 🔥",
+      "channel": "Adi 4 u",
+      "channelId": "UC8w2DN9jurGyj5sutscVs-A",
+      "duration": 494,
+      "liveStatus": null,
+      "queries": [
+        "ytq-08"
+      ],
+      "targetPages": [
+        "/help",
+        "/system-requirements"
+      ],
+      "gaps": [
+        "Launch loading and performance questions"
+      ]
+    }
+  ],
+  "failures": []
+}

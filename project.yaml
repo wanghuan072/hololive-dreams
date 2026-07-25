@@ -1,0 +1,185 @@
+project:
+  keyword: "hololive dreams"
+  brand_name: null
+  site_type: "SEO content / wiki / guide / reference content site"
+  site_type_source: "workflow_default"
+  language: "English"
+  language_source: "workflow_default"
+  target_market: "US / Global English"
+  target_market_source: "workflow_default"
+  domain: "https://hololive-dreams.org"
+  contact_email: "wyong@hololive-dreams.org"
+  business_goal: null
+  monetization: null
+
+paths:
+  project_dir: "D:\\WH\\202607\\hololive dreams\\hololive dreams"
+  research_dir: "research"
+  planning_dir: "planning"
+  reports_dir: "reports"
+  handoff_dir: "handoff"
+
+permissions:
+  network_allowed: "yes"
+  youtube_allowed: "yes"
+  allow_new_pages: "yes"
+  allow_page_structure_adjustments: "yes"
+  allow_local_refactor: "yes"
+  install_dependencies_allowed: "yes"
+  build_check_allowed: "yes"
+  deployment_allowed: "no"
+  git_commit_allowed: "no"
+  unpacked_data_read_allowed: "no"
+  allow_read_other_keyword_projects: false
+  allow_modify_source_code_in_flow_01: false
+
+unpacked_data:
+  available: "no"
+  directory: null
+  directory_type: null
+  access_status: "not_applicable"
+  execute_flow_02A: false
+
+technical:
+  has_existing_code: false
+  has_existing_code_source: "inferred"
+  project_dir_status: "empty"
+  frontend_framework:
+    declared: "Next.js"
+    detected: "Next.js"
+    detection_status: "user_selected_flow_05_initialization"
+  framework_initialization:
+    required_in_flow_05: true
+    target_framework: "Next.js"
+    install_permission: "yes"
+    static_assets_dir_required: "public/images"
+  package_manager:
+    detected: "npm"
+    evidence:
+      - "Node.js v22.14.0"
+      - "npm v10.9.2"
+  framework_evidence:
+    - "User selected Next.js before Flow 05 initialization."
+  important_existing_files:
+    - "project.yaml"
+    - "AGENTS.md"
+    - "package.json"
+    - "package-lock.json"
+    - "src/app/layout.tsx"
+    - "src/app/holomems/[slug]/page.tsx"
+    - "src/app/hololive-dreams-gameplay/page.tsx"
+    - "src/data/holomemProfiles.json"
+    - "planning/content-map.json"
+    - "planning/design-brief.md"
+    - "planning/component-plan.md"
+  detected_source_dirs:
+    - "public/images"
+    - "src/app"
+    - "src/components"
+    - "src/data"
+    - "src/seo"
+    - "src/styles"
+  scripts:
+    dev: "next dev"
+    build: "next build"
+    preview: "next start"
+    test: null
+    lint: "eslint ."
+    typecheck: "tsc --noEmit"
+
+workflow:
+  current_flow: "manual-review"
+  flow_01_status: "completed_with_warnings"
+  flow_02_status: "completed_with_warnings"
+  flow_03_status: "completed_with_warnings"
+  flow_04_status: "completed_with_warnings"
+  flow_05_status: "completed_with_warnings"
+  flow_06_status: "completed"
+  flow_07_status: "completed"
+  flow_08_status: "completed_with_warnings"
+  flow_09_status: "completed_with_warnings"
+  optional_flow_02A_status: "skipped_no_scope"
+  initialized_at: "2026-07-23T18:36:24+08:00"
+  initialized_by: "flow-01-project-initialization-agent"
+  next_flow_ready: false
+  next_flow_notes:
+    - "Manual-review refresh replaced the removed Steam route with /hololive-dreams-gameplay, covering the core loop, four Rhythm Live difficulties, game modes, and first-session play."
+    - "The guide library now contains two expanded articles, every song detail includes related character routes, and four corrupt character images were replaced."
+    - "A second user-approved post-flow expansion increased the sitemap from 79 to 233 routes by adding 154 song detail pages."
+    - "Primary navigation now includes Updates and Gameplay; Download and Help remain outside header/footer navigation."
+    - "All 54 member pages now expose 173 additional official profile fields; 13 profiles also expose 42 selected official Q&A entries."
+    - "Latest QA passed lint, typecheck, a 229-output production build, and 224/224 route, content-depth, public-surface, and technical SEO crawls."
+    - "Production origin and editorial email were configured on 2026-07-25; the refreshed sitemap contains 224 URLs on hololive-dreams.org and no stale sitemap shard."
+    - "Supplied logo, favicon, and social image were integrated on 2026-07-25; the framework icon and obsolete brand assets were removed, and the production build now generates 228 pages."
+    - "Flow 09 completed full local QA; a user-approved post-flow keyword expansion then increased the sitemap from 24 to 79 routes."
+    - "Post-flow expansion added release-date coverage to /updates and 54 expanded character detail routes."
+    - "Post-expansion QA passed lint, typecheck, an 84-output production build, 79/79 route/content/SEO crawls, desktop/mobile visual checks, and browser console checks."
+    - "All 54 official talent profile sources returned 200; eight pre-existing platform/video links were transport-unverified in the final Node audit but produced no confirmed HTTP failure."
+    - "P0 0; one P1 and two P2 issues were fixed and rechecked; three P3 production recommendations remain."
+    - "Manual acceptance is required before any separate deployment or Git workflow."
+    - "Production domain, editorial inbox, logo, favicon, and social image were supplied on 2026-07-25; origin TLS, email delivery, and production service/legal review remain release prerequisites."
+    - "Flow 09 did not deploy and did not commit Git."
+  post_flow_keyword_expansion_status: "completed_with_warnings"
+  post_flow_keyword_expansion_date: "2026-07-24"
+  post_flow_member_song_expansion_status: "completed_with_warnings"
+  post_flow_member_song_expansion_date: "2026-07-24"
+
+boundaries:
+  allowed_operations:
+    - "Validate required project parameters."
+    - "Inspect only the specified project directory."
+    - "Detect existing framework and basic structure when code already exists."
+    - "Create or update project management files."
+    - "Create workflow directories."
+    - "Write flow-01 handoff brief."
+  forbidden_operations:
+    - "Do not read sibling or unrelated keyword project directories."
+    - "Do not perform keyword research in Flow 01."
+    - "Do not perform competitor research in Flow 01."
+    - "Do not design navigation in Flow 01."
+    - "Do not plan pages in Flow 01."
+    - "Do not write SEO content in Flow 01."
+    - "Do not create website code in Flow 01."
+    - "Do not deploy."
+    - "Do not commit Git."
+
+inputs:
+  user_provided:
+    keyword: true
+    project_dir: true
+    language: false
+    target_market: false
+    site_type: false
+    has_existing_code: false
+    frontend_framework: true
+    network_allowed: true
+    youtube_allowed: true
+    allow_new_pages: true
+    allow_page_structure_adjustments: true
+    allow_local_refactor: true
+    install_dependencies_allowed: true
+    build_check_allowed: true
+    deployment_allowed: true
+    git_commit_allowed: true
+    unpacked_data_available: true
+    unpacked_data_dir: false
+    unpacked_data_read_allowed: false
+    domain: true
+    contact_email: true
+  workflow_default:
+    language: true
+    target_market: true
+    site_type: true
+  inferred:
+    has_existing_code: true
+    frontend_framework: false
+    package_manager: true
+    project_dir_status: true
+
+open_questions:
+  - "Business goal, monetization, and production services remain unspecified."
+
+warnings:
+  - "The supplied domain currently resolves through Cloudflare but returns HTTP 525; origin TLS must be fixed before launch."
+  - "No MX record was detected for hololive-dreams.org; confirm email delivery before publishing the contact address."
+  - "Brand name, business goal, monetization, and production services remain unspecified."

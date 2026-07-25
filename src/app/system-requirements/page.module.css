@@ -1,0 +1,182 @@
+.requirementsIntro {
+  border-bottom: 1px solid var(--border);
+  padding: 40px 0 34px;
+}
+
+.introGrid {
+  display: grid;
+  gap: 20px;
+}
+
+.kicker,
+.sectionHeading p {
+  margin-bottom: 10px;
+  color: var(--accent-dark);
+  font-size: 0.76rem;
+  font-weight: 750;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.requirementsIntro h1 {
+  max-width: 16ch;
+  margin: 0;
+  font-size: clamp(2.25rem, 7vw, 3.7rem);
+  font-weight: 650;
+}
+
+.introGrid > p {
+  max-width: 58ch;
+  align-self: end;
+  margin: 0;
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.specSection,
+.mobileSection,
+.notesSection {
+  padding: 40px 0;
+}
+
+.sectionHeading {
+  margin-bottom: 20px;
+}
+
+.sectionHeading h2,
+.mobileGrid h2 {
+  margin: 0;
+  font-size: clamp(1.7rem, 4vw, 2.45rem);
+}
+
+.tableWrap {
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.tableWrap table {
+  width: 100%;
+  min-width: 760px;
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.tableWrap th,
+.tableWrap td {
+  border-bottom: 1px solid var(--border);
+  padding: 13px 15px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.tableWrap thead th {
+  background: var(--surface-alt);
+  color: var(--muted);
+  font-size: 0.74rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.tableWrap tbody th {
+  color: var(--text);
+}
+
+.sourceNote {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.mobileSection {
+  border-block: 1px solid var(--border);
+  background: var(--surface-alt);
+}
+
+.mobileGrid {
+  display: grid;
+  gap: 20px;
+}
+
+.mobileGrid > div:last-child p {
+  max-width: 62ch;
+  color: var(--muted);
+}
+
+.mobileGrid a,
+.notesGrid a {
+  font-weight: 750;
+}
+
+.notesGrid {
+  display: grid;
+}
+
+.notesGrid article {
+  border-bottom: 1px solid var(--border);
+  padding: 22px 0;
+}
+
+.notesGrid article > span {
+  color: var(--accent-dark);
+  font-size: 0.78rem;
+  font-weight: 750;
+}
+
+.notesGrid h2 {
+  margin: 9px 0;
+  font-size: 1.25rem;
+}
+
+.notesGrid p {
+  color: var(--muted);
+}
+
+.helpRoute {
+  border-block: 1px solid var(--border);
+  background: var(--surface);
+  padding: 26px 0;
+}
+
+.helpInner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px 24px;
+}
+
+.helpInner p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.helpInner a {
+  font-weight: 750;
+}
+
+@media (width > 1024px) {
+  .introGrid,
+  .mobileGrid {
+    grid-template-columns: minmax(0, 7fr) minmax(300px, 4fr);
+  }
+
+  .notesGrid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .notesGrid article {
+    border-right: 1px solid var(--border);
+    border-bottom: 0;
+    padding: 22px;
+  }
+
+  .notesGrid article:first-child {
+    padding-left: 0;
+  }
+
+  .notesGrid article:last-child {
+    border-right: 0;
+    padding-right: 0;
+  }
+}

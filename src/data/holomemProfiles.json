@@ -1,0 +1,2178 @@
+{
+  "metadata": {
+    "generatedAt": "2026-07-24",
+    "totalProfiles": 54,
+    "sourcePolicy": "Official hololive production English talent profiles; game participation remains sourced from the hololive Dreams official roster."
+  },
+  "profiles": [
+    {
+      "id": 1,
+      "slug": "tokino-sora",
+      "officialSlug": "tokino-sora",
+      "name": "Tokino Sora",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Early talents",
+      "tagline": "“Hey, Sora-tomo! How are you all doing? It's me, Tokino Sora!”",
+      "biography": "hololive Production's first virtual idol, debuting on September 7, 2017. She loves horror games and singing, and has always dreamed of performing in Yokohama Arena.\n\nShe signed a record deal with Victor Entertainment in March 2019. She is active in various forms of media, such as appearing in Watanuki-san Chi no and hosting Sora Ao to!, a radio show.\n\nShe held her first solo concert, Dream!, on October 6, 2019, taking one step closer to her ultimate goal.",
+      "birthday": "May 15",
+      "debut": "September 7, 2017",
+      "height": "160 cm",
+      "officialUnit": "hololive Generation 0",
+      "fanName": "Sora-tomo (Sora’s Pals)",
+      "hashtags": "Stream Tags: #ときのそら生放送\n\n#ときのそら実況するってよ\n\nFan Art: #そらArt",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Ordan"
+        },
+        {
+          "label": "Dream",
+          "value": "To perform a solo concert in Yokohama"
+        },
+        {
+          "label": "Catchphrases",
+          "value": "“Sora-tomo,” or “Sora’s Pals,” a name given to her fans.\n\n“Nun-nun,” a sound she makes when agreeing and nodding along or to pump herself up.\n\n　Appears frequently in stream chat along with the emoji(๑╹ᆺ╹)"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "Singing streams and chill gaming"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Karaoke, collecting temple stamps, rhythm games"
+        },
+        {
+          "label": "Likes",
+          "value": "Sweets, Chinese food, cats, Vocaloid"
+        },
+        {
+          "label": "Special Skills",
+          "value": "Clearing horror games without batting an eye"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/tokino-sora/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 2,
+      "slug": "robocosan",
+      "officialSlug": "roboco-san",
+      "name": "Robocosan",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Early talents",
+      "tagline": "“Hellobo! Roboco here!”",
+      "biography": "Hellobo! It's me, the high-spec hololive VTuber Roboco! I showed up from a faraway wasteland having lost all my memories.\n\nI believe I'm pretty high-spec, but some rumors say that it'd be more accurate to call me \"broken\"... lol. I'm a gamer gal whose defining trait is a very human, emotional singing voice!\n\nAm I really a robot? Whoops, looks like my arm came off...",
+      "birthday": "May 23",
+      "debut": "March 9, 2018",
+      "height": "154 cm",
+      "officialUnit": "hololive Generation 0",
+      "fanName": "“Roboser,” from “Robot Circle,” or “Robotics Club”",
+      "hashtags": "Stream Tag: #ロボ子生放送\n\nFan Art: #ロボ子Art",
+      "additionalFacts": [
+        {
+          "label": "3D Modeler",
+          "value": "Kuromaru9"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/roboco-san/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 3,
+      "slug": "sakura-miko",
+      "officialSlug": "sakuramiko",
+      "name": "Sakura Miko",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Early talents",
+      "tagline": "“Nya-hello~! I'm Sakura Miko, an elite shrine maiden-idol!”",
+      "biography": "A shrine maiden from the Virtual Sakura Shrine. With a vivid admiration for idols, she constantly pushes herself to greater heights to become a top elite shrine maiden-idol like no other!\n\nWell... a self-proclaimed 'elite,' to be exact. Fans would think \"clutz\" fits her better...",
+      "birthday": "March 5",
+      "debut": "August 1, 2018",
+      "height": "152 cm",
+      "officialUnit": "hololive Generation 0",
+      "fanName": "35P (read as “Miko-P”)",
+      "hashtags": "Stream Tag: #みこなま\n\nFan Art: #miko_Art\n\nMMD works: #さくらみこMMD",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Tanaka Yuuichi"
+        },
+        {
+          "label": "New Outfit Designer",
+          "value": "Ordan"
+        },
+        {
+          "label": "Dream",
+          "value": "To become someone that everyone will know as an elite and unmatched top one shrine maiden idol! And forever stay as someone that can bring a smile to your face!"
+        },
+        {
+          "label": "Message",
+          "value": "I’ll become a VTuber that will always be blooming together with everyone!"
+        },
+        {
+          "label": "Likes",
+          "value": "Taiyaki, Stew, Double Cheeseburgers, Travelling and Onsen, 35P and Family."
+        },
+        {
+          "label": "Regular Streams",
+          "value": "Let’s Plays, Project Streams, Watchalongs"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/sakuramiko/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 4,
+      "slug": "hoshimachi-suisei",
+      "officialSlug": "hoshimachi-suisei",
+      "name": "Hoshimachi Suisei",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Early talents",
+      "tagline": "“A shooting star that appeared from diamonds in the rough; I'm the virtual idol Hoshimachi Suisei!”",
+      "biography": "A virtual idol with an exceptional love for songs and idols.\n\nShe works tirelessly towards her dreams of performing in Tokyo Dome one day.",
+      "birthday": "March 22",
+      "debut": "March 22, 2018",
+      "height": "160 cm",
+      "officialUnit": "hololive Generation 0",
+      "fanName": "Hoshiyomi (Stargazers)",
+      "hashtags": "Stream Tag: #ほしまちすたじお\n\nFan Art: #ほしまちぎゃらりー",
+      "additionalFacts": [
+        {
+          "label": "Makeup charge",
+          "value": "Teshima Nari"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 5,
+      "slug": "azki",
+      "officialSlug": "azki",
+      "name": "AZKi",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Early talents",
+      "tagline": "“I'm the Virtual Diva AZKi! I love music and singing!”",
+      "biography": "A diva who became reborn into the virtual world in order to fabricate a new world. No matter the time, place, or position, she warps through all the barricades with her dazzling talent.",
+      "birthday": "July 1",
+      "debut": null,
+      "height": "158 cm",
+      "officialUnit": "hololive Generation 0\n\nSorAZ\n\nShotgun Rose",
+      "fanName": "Kaitakusha (Pioneers)",
+      "hashtags": "Fan Art: #AZKiART\n\nStreams: #あずきんち\n\nhololy ＆ pilgrimage: #どこAZ\n\nMusic Impressions: #AZ歌\n\nVoice Impressions: #AZ声\n\nShorts：#ぷちあず",
+      "additionalFacts": [
+        {
+          "label": "3D Modeler",
+          "value": "kasokuSato"
+        },
+        {
+          "label": "Dream",
+          "value": "Creating memorable music"
+        },
+        {
+          "label": "Words",
+          "value": "“Floor” (yuka): A word used when feeling strong emotions\n\n“Ceiling” (tenjou): A word used when feeling strong emotions"
+        },
+        {
+          "label": "Message",
+          "value": "This moment is key, this is AZKi! I mainly stream myself singing!\n\nI will strive to continue creating songs and music that will touch my Pioneers’ hearts!"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "Mainly singing streams\n\nOccasional gaming streams"
+        },
+        {
+          "label": "Hobbies/Special Skills/Likes",
+          "value": "Composing/Cooking/Long-tailed bushtit"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/azki/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 6,
+      "slug": "aki-rosenthal",
+      "officialSlug": "aki-rosenthal",
+      "name": "Aki Rosenthal",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 1",
+      "tagline": "“Alona, everyone! This is Aki Rosenthal a.k.a. AkiRose!”",
+      "biography": "A half-elf from another world, she has an insatiable curiosity and cannot resist exploring anything that piques her interest. Her trademark pigtails float due to some sort of supernatural power.",
+      "birthday": "February 17",
+      "debut": "June 1, 2018",
+      "height": "162 cm",
+      "officialUnit": "hololive 1st Generation",
+      "fanName": "Rose Knights",
+      "hashtags": "Stream Tag: #アキびゅーわーるど\n\nFan Art: #アロ絵",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Azumi Akitake"
+        },
+        {
+          "label": "Dreams/Goals",
+          "value": "An AkiRose in every household!\n\nI wanna be able to meet everyone frequently using VR and AR technology!\n\nI wanna try doing an entertainment show some day!"
+        },
+        {
+          "label": "Message",
+          "value": "I’d love to become your friendly neighborhood lady who makes your lives colorful! Let’s experience lots of things together!"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "Evening drinking chat, karaoke (lots of nostalgic songs), and Let’s Plays\n\nPeople often ask me to stream\n\nHorror game Let’s Plays by a professional screamer\n\nASMR Food Porn Streams"
+        },
+        {
+          "label": "Hobbies/Special Skills",
+          "value": "I love sake, cooking, and rhythm games!\n\nCertified Aromatherapy Instructor\n\nBelly dance!"
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "What’s your favorite drink?",
+          "answer": "Barley juice! (with karaage!)"
+        },
+        {
+          "question": "In your opinion, what do your fans love about you?",
+          "answer": "1. Lovely voice 2. Clumsy aspects 3. Singing & Dancing 4. Personality 5. Mental Strength 6. Thighs 7. Drinking 8. Love towards the Rose Knights 9. Refined taste 10. “Amazing” Art"
+        },
+        {
+          "question": "Favorite music genres?",
+          "answer": "I really love ethnic music!"
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/aki-rosenthal/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 7,
+      "slug": "akai-haato",
+      "officialSlug": "akai-haato",
+      "name": "Akai Haato",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 1",
+      "tagline": "“This is Akai Haato, your globe-trotting idol!”",
+      "biography": "Her dream is to become one of Japan's foremost idols.\n\nTo that end, she's traveling all over the country to learn everything there is to learn about it.\n\nShe is good with English because she's spent time studying in Australia.\n\nHer motto is to \"dabble in everything that piques my interest.\"\n\nHer hobbies are cafes and reading, and she loves taking baths and dips in hot springs.\n\nShe likes the supernatural and ghost stories, but she can't handle horror games for some reason.",
+      "birthday": "August 10",
+      "debut": "June 2, 2018",
+      "height": "154 cm",
+      "officialUnit": "hololive 1st Generation",
+      "fanName": "Haaton (Haato + pigs)",
+      "hashtags": "Stream Tag: #赤井劇場\n\nFan Art: #はあとart",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Haruyuki"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/akai-haato/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 8,
+      "slug": "natsuiro-matsuri",
+      "officialSlug": "natsuiro-matsuri",
+      "name": "Natsuiro Matsuri",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 1",
+      "tagline": "“Wasshoi! hololive's symbol of purity and everyone's idol, Natsuiro Matsuri here!”",
+      "biography": "A rookie member of her school cheerleading team. Her cheerful, energetic, and affectionate personality means she gets along with everyone and has lots of friends. Loves festivals, events, and other fun things.",
+      "birthday": "July 22",
+      "debut": "June 1, 2018",
+      "height": "152 cm",
+      "officialUnit": "hololive 1st Generation",
+      "fanName": "Matsurisu (abbreviation of “Matsuri viewers” in Japanese. Represented as squirrels, because “risu” = “squirrel”)",
+      "hashtags": "Stream Tag: #夏まつch\n\nFan Art: #祭絵",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Minamura Haruki"
+        },
+        {
+          "label": "Dream",
+          "value": "To be the top idol & voice actress!"
+        },
+        {
+          "label": "Catchphrases",
+          "value": "VTuber otaku, purity, 0 call-ins, voice actress, Matsurisu, Ebifrion, loot boxes, donuts"
+        },
+        {
+          "label": "Message",
+          "value": "I’m gonna be the best idol I can be, and I’ll do it my way! Just you watch!\n\nI can be a bit bratty, but you won’t mind, right?"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "To have lots of fun together with my viewers, with a focus on singing and gaming streams!"
+        },
+        {
+          "label": "Hobbies/Special Skills/Likes",
+          "value": "Hobbies: FPS games, singing\n\nSkills/Talents: Flexibility, doing voices\n\nLikes: VTubers, donuts"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/natsuiro-matsuri/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 9,
+      "slug": "shirakami-fubuki",
+      "officialSlug": "shirakami-fubuki",
+      "name": "Shirakami Fubuki",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 1 / GAMERS",
+      "tagline": "“Good foxy day! I'm Shirakami Fubuki!”",
+      "biography": "White-haired animal-eared otaku fox. She loves talking with people and will be happy if you give her the time of day.　\n\nShe aims to become a top otaku idol while enjoying each and every day.",
+      "birthday": "October 5",
+      "debut": "June 1, 2018",
+      "height": "155cm",
+      "officialUnit": "hololive 1st Generation/hololive GAMERS",
+      "fanName": "Sukonbu (Su-Corn)",
+      "hashtags": "Stream Tag: #フブキCh\n\nFan Art: #絵フブキ",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Nagishiro Mito"
+        },
+        {
+          "label": "Dream",
+          "value": "To perform in lots of concerts with the other members!\n\nRelease my own solo album.\n\nGet my own Nendoroid.\n\nGet more MC Experience.\n\nEnjoy many things with all of my fans!"
+        },
+        {
+          "label": "Snacks & Drinks During Streams",
+          "value": "I love tea! Especially green tea.\n\nI also like black tea and orange juice.\n\nFor food, I snack on gummies and jerky."
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "Why is your fan mark a corn?",
+          "answer": "Well, foxes make a “Kon Kon” sound when they bark. It sounds pretty similar to “corn”, doesn’t it? In other words, it’s elementary, my dear."
+        },
+        {
+          "question": "What kind of anime and manga do you like?",
+          "answer": "I watch and read things that are recommended to me first before I decide, so I actually like anything.\n\nI hope everyone can tell me lots about their favorite things during my streams!"
+        },
+        {
+          "question": "What are FAMS and the 3 Stooges group that you usually collab with?",
+          "answer": "FAMS refers to the 4 members who let loose when it comes to horsing around or doing crazy schemes; Shirakami Fubuki, Nakiri Ayame, Ookami Mio, and Oozora Subaru!\n\nThere’s also OKFAMS where Nekomata Okayu and Inugami Korone join us, and there’s also even SMOK and other groups!The 6 of us hang out together a lot, so we’re really close with each other.\n\n3 Stooges was formed when the members who love SoundHorizon; me, Shiranui Flare, and Tsunomaki Watame were brought together. We just vibed with each other and got really close.\n\nI also upload song covers that I sung with them. They’re really great at singing!\n\nWe also do collab streams where we usually play horror games or watch movies together.\n\nThey tease me quite a lot, but that’s all part of the fun! They’re friends that I can collab with without worries!"
+        },
+        {
+          "question": "You sure you’re not a cat?",
+          "answer": "I’m a fox!\n\nThe cat jokes are fun when the viewers say “You’re a cat, ain’t ya!” when I do something cat-like or go “Nyaa!”\n\nHowever, don’t take the cat jokes out of context! I’d be sad if you called me a cat out of the blue and would show my pro wrestling moves on you all!"
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/shirakami-fubuki/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 10,
+      "slug": "nakiri-ayame",
+      "officialSlug": "nakiri-ayame",
+      "name": "Nakiri Ayame",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 2",
+      "tagline": "“Greetings, Humans! Yoohoo!”",
+      "biography": "A kimono-clad Oni girl from the Underworld Academy. As she loves to prank people, she always uses will-o’-the-wisp on them just to have fun. Many may not realize it, but she is actually the president of the student council.",
+      "birthday": "December 13",
+      "debut": "September 3, 2018",
+      "height": "152 cm",
+      "officialUnit": "hololive 2nd Generation",
+      "fanName": "Nakiri Gang",
+      "hashtags": "Stream Tag: #百鬼あやめch\n\nFan Art: #百鬼絵巻",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Nana Kagura"
+        },
+        {
+          "label": "Dream",
+          "value": "Release an original solo song!!!\n\nHold a solo concert!!!"
+        },
+        {
+          "label": "Catchphrases",
+          "value": "Shikigami: Karma, Shiranui\n\nPoyoyo: A mascot character created by Fubuki\n\nMemes: Kawayo (portmanteau of “Kawaii” (かわいい) and “Yo” (余)) (A word often used by viewers when they think something cute has happened)"
+        },
+        {
+          "label": "Message",
+          "value": "Thanks for checking out my profile!!\n\nI strive to create a warm place on stream where I can smile and have fun together with my viewers!\n\nI always do my best, be it singing or playing games, so please come check me out if you’re interested!"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "Chit-chat, karaoke, night drinking"
+        },
+        {
+          "label": "Likes",
+          "value": "Collecting shrine stamps, watching anime, playing games, visiting shrines"
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "Shouldn’t your last name be read as “Hyakki”?",
+          "answer": "It’s “Nakiri”! (Pressure)\n\nQ: Why do others call you “Ojou”?\n\nA: I have no idea myself.\n\nQ: What is your blood type?\n\nA: It’s a secret! ♡"
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/nakiri-ayame/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 11,
+      "slug": "yuzuki-choco",
+      "officialSlug": "yuzuki-choco",
+      "name": "Yuzuki Choco",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 2",
+      "tagline": "“Good evening, my cute students! Choc-on!”",
+      "biography": "The school nurse at the Underworld Academy. Is incredibly popular among the students, with the boys in particular coming to get checked up all the time. Loves sweets, and often gets into trouble for leaving them strewn about on her desk.",
+      "birthday": "February 14",
+      "debut": "September 4, 2018",
+      "height": "165 cm",
+      "officialUnit": "hololive 2nd Generation",
+      "fanName": "Chocomates",
+      "hashtags": "Stream Tag: #癒月診療所\n\nFan Art: #しょこらーと",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Masuishi Kinoto"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/yuzuki-choco/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 12,
+      "slug": "oozora-subaru",
+      "officialSlug": "oozora-subaru",
+      "name": "Oozora Subaru",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 2",
+      "tagline": "“Sup! I'm Oozora Subaru from hololive 2nd Generation!”",
+      "biography": "The manager of an MMA team and an e-sports club. A bright and cheerful girl full of spirit, she can interact with anyone and everyone without hesitation. She's currently working hard on her own pro-gamer skills.\n\nAnother day of giving everything I've got as a manager!!!!!!!!!!!",
+      "birthday": "July 2",
+      "debut": "September 16, 2018",
+      "height": "154 cm",
+      "officialUnit": "hololive 2nd Generation",
+      "fanName": "Subatomo",
+      "hashtags": "Stream Tag: #生スバル\n\nFan Art: #プロテインザスバル",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Shigure Ui"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Watching movies, taking walks"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/oozora-subaru/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 13,
+      "slug": "ookami-mio",
+      "officialSlug": "ookami-mio",
+      "name": "Ookami Mio",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "hololive GAMERS",
+      "tagline": "“Hellooowl! It is Ookami Mio!”",
+      "biography": "A black-haired wolf girl who appeared on our radar randomly. She often shows up around shrines. She likes gaming.",
+      "birthday": "August 20",
+      "debut": "December 7, 2018",
+      "height": "160 cm",
+      "officialUnit": "hololive GAMERS",
+      "fanName": "Mio-fam (abbreviation of Mio Family)",
+      "hashtags": "Stream Tag: #ミオかわいい\n\nFan Art: #みおーん絵",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Izumi Sai"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/ookami-mio/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 14,
+      "slug": "nekomata-okayu",
+      "officialSlug": "nekomata-okayu",
+      "name": "Nekomata Okayu",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "hololive GAMERS",
+      "tagline": "“Nom nom Okayu~!”",
+      "biography": "A cat being raised by an old woman that runs an onigiri store. She streams from the computer in her grandma's room.",
+      "birthday": "February 22",
+      "debut": "April 6, 2019",
+      "height": "152 cm",
+      "officialUnit": "hololive GAMERS",
+      "fanName": "Onigiryaa",
+      "hashtags": "Stream Tag: #生おかゆ\n\nFan Art: #絵かゆ",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Kamioka Chiroru"
+        },
+        {
+          "label": "Dream",
+          "value": "I joined hololive purely out of my love for gaming, but in my time spent with the people I love so much, I’ve gained so much more I would like to do!\n\nI’ll enjoy each day to the maximum, singing, dancing, and gaming included!\n\nI want to present a true-to-life version of myself and be all lovey-dovey with my fans.\n\n(Serious.)"
+        },
+        {
+          "label": "Message",
+          "value": "Om nom, Okayu! Nekomata Okayu here!\n\nI enjoy my life, usually live streaming games, singing songs, et cetera.\n\nMy fans call me the all-affirming cat, and sometimes the “guilty” cat, for whatever reason…\n\nIt’s hard to tell what I’m really like from just that, huh? So come watch me in person! See you there!"
+        },
+        {
+          "label": "Hobbies",
+          "value": "・Games (Let me list out detailed preferences)\n\nI like roguelikes, RPGs, simulation games, and retro games.\n・Mixing\n\nI studied up on it after I joined hololive and started singing more. It’s hard.\n・Baseball\n\nI spend my summers supporting a certain team.\n\n(I took an interest in them because their mascot is cute)\n・Intense Flirting\n\n“Gross.” That one word gives me life."
+        },
+        {
+          "label": "Likes",
+          "value": "Ochadzuke, tea, cat memes, hololive members, the Onigiryaa"
+        },
+        {
+          "label": "Special Skills",
+          "value": "Mimicry that’s about 70% there, ASMR, All-affirming (I do it so much, I’m a terrible straight man.)"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/nekomata-okayu/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 15,
+      "slug": "inugami-korone",
+      "officialSlug": "inugami-korone",
+      "name": "Inugami Korone",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "hololive GAMERS",
+      "tagline": "“Ello! Fingers! Give me your fingers!”",
+      "biography": "A dog from a bakery in the city. She likes to play games during her free time while watchdogging.",
+      "birthday": "October 1",
+      "debut": "April 13, 2019",
+      "height": "156 cm",
+      "officialUnit": "hololive GAMERS",
+      "fanName": "Koronesky (Korone Likers)",
+      "hashtags": "Stream Tag: #生神もんざえもん\n\nFan Art: #できたてころね",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Fukahire"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/inugami-korone/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 16,
+      "slug": "usada-pekora",
+      "officialSlug": "usada-pekora",
+      "name": "Usada Pekora",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 3",
+      "tagline": "“Hiya-peko! Hiya-peko! Hiya-pekooo! I'm Usada Pekora, peko!”",
+      "biography": "A lonely rabbit-eared girl who loves carrots. She loves them so much that she always brings a few anywhere she goes.",
+      "birthday": "January 12",
+      "debut": "July 17, 2019",
+      "height": "153 cm",
+      "officialUnit": "hololive 3rd Generation",
+      "fanName": "Nousagi Doumei",
+      "hashtags": "Stream Tag: #ぺこらいぶ\n\nFan Art: #ぺこらーと",
+      "additionalFacts": [
+        {
+          "label": "Age",
+          "value": "111 years old"
+        },
+        {
+          "label": "Illustrator",
+          "value": "Yuuki Hagure"
+        },
+        {
+          "label": "Dream",
+          "value": "World Bunstrumentality Project!!!!!!!!!!"
+        },
+        {
+          "label": "Catchphrases",
+          "value": "Pekoland\n\n– Pekora’s birthplace\n\n“Peko”\n\n– Pekora’s verbal tic. She’ll frequently insert them into regular words or end sentences with it\n\nDon-chan\n\n– The rabbit on her neck (is alive)\n\nIt’s habbening!\n\n– ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!\n\nKickoff Poem\n\n– A poem she might recite at the start of streams"
+        },
+        {
+          "label": "Regular Streams",
+          "value": "I stream a lot of things, mainly focus on gaming, peko!"
+        },
+        {
+          "label": "Likes",
+          "value": "Streaming, video games, manga, movies, sleep!"
+        },
+        {
+          "label": "Referred to as:",
+          "value": "Pekora, Peko-chan, U-Pe, Boss"
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "When do you normally stream?",
+          "answer": "Usually around 9 PM on weekdays, and on weekends I’ll get peko-ing in the afternoon!"
+        },
+        {
+          "question": "What’s your weight?",
+          "answer": "Three carrots’ worth."
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/usada-pekora/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 17,
+      "slug": "shiranui-flare",
+      "officialSlug": "shiranui-flare",
+      "name": "Shiranui Flare",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 3",
+      "tagline": "“Noon-nui! This is hololive 3rd Gen's Shiranui Flare!”",
+      "biography": "A half-elf born to a human and elf. Usually enjoys life as she pleases. Wants to be a source of comfort so rely on her whenever you're in trouble. She may be passionate and overly sentimental, but praising her will bring her joy, even if also a little embarrassment! \"Hehehe! Let's get along!\"",
+      "birthday": "April 2",
+      "debut": "August 7, 2019",
+      "height": "158 cm",
+      "officialUnit": "hololive 3rd Generation",
+      "fanName": "Elfriend",
+      "hashtags": "Stream Tag: #フレアストリーム\n\nFan Art: #しらぬえ",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "lack"
+        },
+        {
+          "label": "Dream",
+          "value": "To have people get to know me better, and have a ton of people listen to me sing!"
+        },
+        {
+          "label": "Message",
+          "value": "I love singing, but I also love video games! I’m still far from being a skilled player, but no one can outplay me at having fun!\n\nNo matter how many times I die or how hard the game is, I’ll still have fun playing it! I hope we can get to know each other better!"
+        },
+        {
+          "label": "Likes/Regular Streams",
+          "value": "Singing, gaming"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Singing, drawing, loving her faves"
+        },
+        {
+          "label": "Special Skills",
+          "value": "Has a three-octave range without falsetto"
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "What kind of music do you like?",
+          "answer": "Bright music, denpa songs, just about anything that will fill me with energy!"
+        },
+        {
+          "question": "Do you like anime and video games?\n\n― Absolutely!!\nQ: Are you a dark elf?",
+          "answer": "No, no, no! I’m a normal half-elf with human and elf parents!"
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/shiranui-flare/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 18,
+      "slug": "shirogane-noel",
+      "officialSlug": "shirogane-noel",
+      "name": "Shirogane Noel",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 3",
+      "tagline": "“All hustle, all muscle! Shirogane Noel's here!”",
+      "biography": "As much as this fluffy, meatheaded knight may be easy-going, she has the dangerous habit of attempting to muscle her way through her problems. Hungering for power, she came to train to the VTuber world where all the stronk people are.",
+      "birthday": "November 24",
+      "debut": "August 8, 2019",
+      "height": "158 cm",
+      "officialUnit": "hololive 3rd Generation",
+      "fanName": "Knight’s Order of Shirogane (Shirogane kishidan)",
+      "hashtags": "Stream Tag: #ノエルーム\n\nFan Art: #ノエラート",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Watao"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/shirogane-noel/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 19,
+      "slug": "houshou-marine",
+      "officialSlug": "houshou-marine",
+      "name": "Houshou Marine",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 3",
+      "tagline": "“Ahoy! Captain of the Houshou Pirates, Houshou Marine here!\" \"Keep 'er steady!”",
+      "biography": "Loves jewels, treasure, and money. Her dream is to become a pirate and go treasure hunting. In order to get a pirate ship, she is now stacking up money as a VTuber on the great lands, just like how the other land-lovers do (which also means she is currently just a girl cosplayer).\n\nShe acts like a big sis and sometimes seduces people like a succubus does. A sensual, femme fatale boss, and a young one, at that! (Around 17)\n\nHer pirate outfit is just cosplay, and quite lewd when you see it that way.",
+      "birthday": "July 30",
+      "debut": "August 11, 2019",
+      "height": "150 cm",
+      "officialUnit": "hololive 3rd Generation",
+      "fanName": "Houshou no Ichimi (Houshou’s Pirate Crew)",
+      "hashtags": "Stream Tag: #マリン航海記\n\nFan Art: #マリンのお宝",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Akasa Ai"
+        },
+        {
+          "label": "Dream",
+          "value": "The plan is procure a pirate ship, set sail with you guys, and at the end of our journey remark, “My greatest treasure was this scenery and the friends we made along the way.”"
+        },
+        {
+          "label": "Message",
+          "value": "To all the pervs out there: if you wanna set sail at full mast, Captain Marine is the only way to go!\n\nAnd to all the non-pervs out there: People say I’m really entertaining, so there’s a chance that even you might enjoy my company!\n\nEven with my ample experience, I’ve run out of life lessons to teach. That said, I’m still picking up new stuff, so you’ll always learn something new!\n\nIn particular, my advice to the unemployed or those moving jobs is sure to be right on the money.\n\nI mean, I keep hearing about people who managed to move jobs because of me!\n\nI’m also the proactive sort in setting up collabs and special streams, so please do come support me along with all of hololive."
+        },
+        {
+          "label": "Hobbies",
+          "value": "Looking at and buying cute things, searching for p*rn, fantasizing, singing, dirty talk"
+        },
+        {
+          "label": "Likes",
+          "value": "Dating sims, shooters, fellow hololive members, vivacious ladies, and you… my lovely crew! ♡"
+        },
+        {
+          "label": "Special Skills",
+          "value": "Brushing teeth, drawing, mimicry"
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "Are you really 17 years old?",
+          "answer": "I am, believe me. (2021 is my third go-around)"
+        },
+        {
+          "question": "Are you wearing panties?",
+          "answer": "If I had to say, I’m panties head-to-toe."
+        },
+        {
+          "question": "Are you wearing colored contact lenses?",
+          "answer": "Oh, wow. I cannot believe you would stoop to asking that out of envy toward my mesmerizing eyes. The answer is nay."
+        },
+        {
+          "question": "Are you really a pirate?",
+          "answer": "Piracy isn’t restricted to just the crimes or the travels, you know. Piracy is a way of life. And my heart is always sailing the seas. And so I say, I am a pirate."
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/houshou-marine/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 20,
+      "slug": "tsunomaki-watame",
+      "officialSlug": "tsunomaki-watame",
+      "name": "Tsunomaki Watame",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 4",
+      "tagline": "“Hoof, hoof, helloof!” “Watame did nothing wrong!”",
+      "biography": "Loves singing, and as she continued uploading song covers and having weekly singing streams titled \"Watameh Night Fever!!,\" she started wanting to stand on Tokyo Budokan's stage someday.\n\nMake sure you check out her Tsunomaki Rock Paper Scissors videos as well!",
+      "birthday": "June 6",
+      "debut": "December 29, 2019",
+      "height": "151 cm",
+      "officialUnit": "hololive 4th Generation",
+      "fanName": "Watamates",
+      "hashtags": "Stream Tag: #ドドドライブ\n\nFan Art: #つのまきあーと\n\nClips: #わたわた動画",
+      "additionalFacts": [
+        {
+          "label": "Illustrator\n\nLive2D Designer",
+          "value": "fuumi\n\nkeffiy"
+        },
+        {
+          "label": "Dream",
+          "value": "To hold a concert at the Budokan, and sing only original songs\n\nTo release lots of original albums\n\nTo sing a theme song for an anime\n\nTo try being a voice actor\n\nTo appear as a character in a game or anime\n\nTo have a tie-up event at a café\n\nTo have my own figure\n\nTo remain respectful to my parents and elders\n\nAnd so much more, I can’t fit it all in!"
+        },
+        {
+          "label": "Words",
+          "value": "WNF\n\n-An abbreviation of the weekly singing stream, “Watameh Night Fever!!”\n\nTsunomaki Rock Paper Scissors\n\n-The Rock Paper Scissors segment of the Watame’s Song Corner series.\n\nHoof, hoof, hoof\n\n-The contents of Watame’s second-ever tweet. It’s the sound of Watame running around.\n\nIt’s also used in her greetings as such, e.g. “Hoof, hoof, helloof!”\n\nWatame No. 1\n\n-Not sure how this stuck, but it really just means “Watame is number 1.” Probably. * Citation needed\n\nNowadays, it’s become a kind of slogan for her and her Watamates."
+        },
+        {
+          "label": "Message",
+          "value": "Hoof, hoof, helloof! I’m Tsunomaki Watame of hololive 4th gen!\n\nI mainly do singing and game streams. I also take vocal lessons every week, because I just love singing that much!\n\nI do relaxed, comfy streams, and I sometimes stream all night!\n\nThey’re perfect for watching before bed!\n\nOn weekend nights, I do a singing stream called “Watameh Night Fever!!”, so come sing and dance with us! Dance Dance Dance! Wooooooh!\n\nI’m currently going all-out to make my dreams come true!\n\nLet’s make it to Budokan together!!!!!!!!"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "Singing, comfy games streams"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Eating, sleeping, playing, singing, getting 100% achievements/trophies"
+        },
+        {
+          "label": "Likes",
+          "value": "Potato chips (snacks), games, underarm sideboob, Watamates"
+        },
+        {
+          "label": "Special Skills",
+          "value": "Singing, respawning in 8 seconds, Horn Drill, putting on a gangimari (high on something-or-other) look"
+        },
+        {
+          "label": "Fan Mark",
+          "value": "🐏(sheep with horns)"
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "What are you holding?",
+          "answer": "self-playing harp."
+        },
+        {
+          "question": "Which part of your activities do you put extra effort into?",
+          "answer": "Singing."
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/tsunomaki-watame/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 21,
+      "slug": "tokoyami-towa",
+      "officialSlug": "tokoyami-towa",
+      "name": "Tokoyami Towa",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 4",
+      "tagline": "“Suppies! 'Tis I, Tokoyami Towa, from hololive 4th Generation!”",
+      "biography": "A young devil who is visiting human society to gain experience and develop her skills. But instead of studying, she became addicted to video games! After learning about a tool for communicating with humans called \"streaming,\" she's trying it out to help with her studies.",
+      "birthday": "August 8",
+      "debut": "January 3, 2020",
+      "height": "150 cm",
+      "officialUnit": "hololive 4th Generation",
+      "fanName": "TOKOYAMI KENZOKU",
+      "hashtags": "Stream Tag: #トワイライヴ\n\nFan Art: #TOWART\n\nClips: #CUTOWA",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "rurudo"
+        },
+        {
+          "label": "Dreams",
+          "value": "Solo Concerts! Releasing a Full Album! Performing Overseas!"
+        },
+        {
+          "label": "Catchphrases",
+          "value": "‘Suppies! (Konyappi): How I greet everyone at the start of my streams!\n\nToodlies! (Otsuyappi): How I close off a stream!\n\nBibi: Towa’s pet. It’s sorta like a familiar. It takes the form of Towa’s hat and observes her.\n\nKotaro: Towa’s smol pet cat. His nickname is Kotachi.\n\nTMT: Apparently stands for The Mighty-angelic Towa. Never use this.\n\nTMD: Towa’s Mad Devilish. You better use this.\n\nYAB: A typo when I wanted to type YABAI (Yikes) in chat. It basically means the same thing.\n\nBig Kusa: The fans overseas use this to mean LMAO, right?\n\nMental & Take it easy: Calms me down.\n\nThankQ: I’m always thankful to you guys."
+        },
+        {
+          "label": "Favorite Game Genres",
+          "value": "FPS, Mystery (I love Escape Room games)"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/tokoyami-towa/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 22,
+      "slug": "himemori-luna",
+      "officialSlug": "himemori-luna",
+      "name": "Himemori Luna",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 4",
+      "tagline": "“Is evewyone heeere?”",
+      "biography": "The princess of Candy Kingdom.\n\nShe's affectionate and loves being pampered, but her butler often scolds her for acting too spoiled.\n\nHer moon-shaped accessories are said to be the crest of a country in another world.",
+      "birthday": "October 10",
+      "debut": "January 4, 2020",
+      "height": "140 cm",
+      "officialUnit": "hololive 4th Generation",
+      "fanName": "Lu-knights",
+      "hashtags": "Stream Tag: #なのらいぶ\n\nFan Art: #ルーナート",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Kanzaki Hiro"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/himemori-luna/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 23,
+      "slug": "yukihana-lamy",
+      "officialSlug": "yukihana-lamy",
+      "name": "Yukihana Lamy",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 5",
+      "tagline": "“Lamyoohoo!”",
+      "biography": "hololive 5th Generation's Yukihana Lamy!\n\nThe daughter of a noble snow family living in the vast, white, icy lands far from civilization. Struck by the smiles and vibrant live streams by the talents from hololive, she burst out of the comforts of her home with her companion, Daifuku. Her serious facade belies her clueless and empty-headed side of her.",
+      "birthday": "November 15",
+      "debut": "August 12, 2020",
+      "height": "158 cm",
+      "officialUnit": "hololive 5th Generation",
+      "fanName": "Yukimin (Snowfolk)",
+      "hashtags": "Stream Tag: #らみらいぶ\n\nFan Art: ＃LamyArt",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Rin☆Yuu"
+        },
+        {
+          "label": "Dreams/Goals",
+          "value": "– To take on every challenge, even things I’m not good at!\n\n– To be someone who can provide hololive a real boost!\n\n– To stand with my hololive senpai on the same stage!\n\n– To reach one million subscribers!"
+        },
+        {
+          "label": "Hobbies/Special Skills/Likes",
+          "value": "Hobbies: Streaming, egosurfing\n\nSpecial Skills: Flower arrangement\n\nFavorite Anime: Ones that involve time travel.\n\nI also love anime that make me cry."
+        },
+        {
+          "label": "Message",
+          "value": "I’m Yukihana Lamy from hololive 5th Generation!\n\nAs a part of the hololive I love, I want to be able to bring smile after smile to my beloved viewers and the other hololive members!⁽⁽ ◟(灬 ˊωˋ 灬)◞ ⁾⁾"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "Morning Stream: I stream at 9 a.m. every weekday morning. I usually chat or play games during those.\n\n– I do a lot of long streams, usually around five hours on the upper end.\n\nNight Stream: Six days a week or so, I stream starting at around 10 p.m. to 11 p.m.\n\n– Those streams are drinking and chatting, ASMR, playing games, etc."
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "What kind of games do you like? What’s your favorite genre?",
+          "answer": "I like sandbox simulation games, MMOs, and online games where everyone can play together."
+        },
+        {
+          "question": "What do you like in your oden?",
+          "answer": "Daikon, boiled egg, and konnyaku.く"
+        },
+        {
+          "question": "Is your liver okay?",
+          "answer": "I’m surprisingly healthy!"
+        },
+        {
+          "question": "Are you and Daifuku close?",
+          "answer": "I mean, I don’t think he hates me…"
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/yukihana-lamy/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 24,
+      "slug": "momosuzu-nene",
+      "officialSlug": "momosuzu-nene",
+      "name": "Momosuzu Nene",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 5",
+      "tagline": "“Kon-Nene~! hololive 5th Generation, Momosuzu Nene the idol VTuber!”",
+      "biography": "A girl who came from another world in order to become an idol.\n\nShe loves singing and dancing, and drawing.\n\nShe is training hard every day to become someone loved by many.",
+      "birthday": "March 2",
+      "debut": "August 13, 2020",
+      "height": "159 cm",
+      "officialUnit": "hololive 5th Generation",
+      "fanName": "Husbands (or Wives)",
+      "hashtags": "Stream Tag: #ねねいろらいぶ\n\nFan Art: #ねねアルバム",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Nishizawa 5mm"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/momosuzu-nene/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 25,
+      "slug": "shishiro-botan",
+      "officialSlug": "shishiro-botan",
+      "name": "Shishiro Botan",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 5",
+      "tagline": "“La-lion♪” “Well then, cya~”",
+      "biography": "Contrary to her sporty appearance, she's a white lion who prefers lazing around.\n\nDespite her typically hands-off attitude, once she has made up her mind she will always follow through to the end.\n\nHer favorite phrase is \"Wealth isn't measured with money.\" Born in a rough neighborhood, she's a bit of a gaming addict. She's the type to set aside powerful heals even at the end game.",
+      "birthday": "September 8",
+      "debut": "August 14, 2020",
+      "height": "166 cm",
+      "officialUnit": "hololive 5th Generation",
+      "fanName": "SSRB",
+      "hashtags": "Stream Tag: #ぐうたらいぶ\n\nFan Art: #ししらーと",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "tomari"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/shishiro-botan/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 26,
+      "slug": "omaru-polka",
+      "officialSlug": "omaru-polka",
+      "name": "Omaru Polka",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "Generation 5",
+      "tagline": "“Is Polka on the dot? Yes, she is!”",
+      "biography": "A circus performer who joined hololive in hopes of becoming the ringmaster of the VTuber world.\n\nShe enjoys wowing audiences with acrobatics, and she lives by the words, \"When you've decided you're gonna do something, follow through!\"\n\nHer natural charm glosses over her occasional mess-ups.",
+      "birthday": "January 30",
+      "debut": "August 16, 2020",
+      "height": "153 cm",
+      "officialUnit": "hololive 5th Generation",
+      "fanName": "ZA-IN",
+      "hashtags": "Stream Tag: #ポルカ公演中\n\nFan Art: #絵まる",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Kou Mashiro"
+        },
+        {
+          "label": "Dream",
+          "value": "Legend"
+        },
+        {
+          "label": "Specialty Streams",
+          "value": "Surprise Streams"
+        },
+        {
+          "label": "Likes",
+          "value": "Idols, popcorn, gold, Shine Muscat"
+        },
+        {
+          "label": "Special Skills",
+          "value": "Acting, kazoo (instrument), emotionally-charged singing, coordinating outfits"
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "Po?",
+          "answer": "Popopo!"
+        },
+        {
+          "question": "When are your main activity times?",
+          "answer": "It’s always a surprise, a.k.a. “guerrilla streaming.”"
+        },
+        {
+          "question": "Where’s Polka?",
+          "answer": "Here’s Polka!"
+        },
+        {
+          "question": "What is a Polpeller?",
+          "answer": "Polka’s cowlick! Wow, it spins like a propeller!"
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/omaru-polka/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 27,
+      "slug": "la-darknesss",
+      "officialSlug": "la-darknesss",
+      "name": "La+ Darknesss",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "holoX",
+      "tagline": "“See me, hear me, all of you!”",
+      "biography": "The one who established Secret Society holoX.\n\nShe was originally known for her vast power and intelligence, but most of it is now sealed away. She is vaguely aware of the debilitating nature of her shackles but does not remember when or how they got there.\n\nThe crow by her side is a long-time companion.",
+      "birthday": "May 25",
+      "debut": "November 26, 2021",
+      "height": "139 cm",
+      "officialUnit": "Secret Society holoX",
+      "fanName": "+mate",
+      "hashtags": "Stream Tags ： #laplus_great\n\nFan Art ： #Laplus_Artdesu",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "三嶋くろね"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/la-darknesss/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 28,
+      "slug": "takane-lui",
+      "officialSlug": "takane-lui",
+      "name": "Takane Lui",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "holoX",
+      "tagline": "“Did I Luive you waiting!?”",
+      "biography": "The executive officer of Secret Society holoX.\n\nAs holoX's point of contact and the one in charge of external affairs, she is the de facto leader of the group, handling matters that the founder cannot.\n\nWhile she may seem aloof and standoffish at first glance, she is a compassionate person who cares a lot for her subordinates.\n\nUnfortunately, she is also rather prone to screwing up in crucial moments.",
+      "birthday": "June 11",
+      "debut": "November 27, 2021",
+      "height": "161 ㎝",
+      "officialUnit": "Secret Society holoX",
+      "fanName": "Lui-tomo",
+      "hashtags": "Stream Tags ： #たかねの見物\n\nFan Art ： #Luillust",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "かかげ"
+        },
+        {
+          "label": "Dream",
+          "value": "I want to hold a concert with a live band, performing only my own, original songs!\n\nTie ups with TV shows, anime, and commercials!\n\nWant to hold concerts and fan-meets overseas!\n\nWant to be able to host my own show or podcast!\n\nWant to become an artist who is a part of life for people everywhere!"
+        },
+        {
+          "label": "Message",
+          "value": "I’ll do everything I can to fulfill my dreams!\n\nI can do my best to put smiles on faces!\n\nI’ve only made it this far because of all my fans (Birds of my feather/Lui-tomo).\n\nI may sometimes slip and go in the wrong direction, but I’ll try to bring you all lots of energy with lots of love, so please give me your support!\n\nWhy not come to see Takane Lui on nights you can’t sleep, or you need something to watch during your meal?\n\nI want to be an everyday staple in your life. But you don’t have to force yourself. Enjoy this fandom at your own pace! Luv U!"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "RPG streams: Saturday afternoons are often RPG streams!\n\nHorror game streams: Not good with horror. Beware of screams.\n\nKaraoke streams: One or two a month!\n\nHorse racing: Prediction streams for pretty much all G1 races!"
+        },
+        {
+          "label": "Special Skills",
+          "value": "Cooking, HawkEye, D****yland guide, short-term memory loss (birdbrain)"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Going to D****yland, observing people, watching TV shows and anime, collecting cosmetic and aroma items."
+        },
+        {
+          "label": "Likes",
+          "value": "Pickles, super-spicy foods, asparagus biscuits, singing, D****yland, Kuromi-chan, twins, hololive members, family, and the Lui-tomo."
+        },
+        {
+          "label": "Fan Mark",
+          "value": "🥀(I can’t call myself a flower blooming in brilliance yet, but someday I want to gain enough confidence to hold my head up high.)"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/takane-lui/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 29,
+      "slug": "hakui-koyori",
+      "officialSlug": "hakui-koyori",
+      "name": "Hakui Koyori",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "holoX",
+      "tagline": "“The brain of holoX! My name is Koyori Hakui!”",
+      "biography": "The one in charge of R&D in Secret Society holoX.\n\nAs part of her studies into human behavior, she meddles in the other members' affairs and tries to help them out at every turn.\n\nPossessed by an insatiable thirst for knowledge, she may sometimes also deliberately mess with people just to see how they react.\n\nThe self-proclaimed \"brains of the operation.\" Her areas of expertise, however, are pretty limited.",
+      "birthday": "March 15",
+      "debut": "November 28, 2021",
+      "height": "153 cm",
+      "officialUnit": "Secret Society holoX",
+      "fanName": "Koyori’s Assistants",
+      "hashtags": "Stream Tags : #こより実験中\n\nFan Art : #こよりすけっち",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "ももこ"
+        },
+        {
+          "label": "Dream",
+          "value": "To make all dreams come true!"
+        },
+        {
+          "label": "Words",
+          "value": "Ayo, this is Koyo! (Konkoyo!): Stream greeting.\n\nKoyorium: The nutrient obtained when you watch Koyori’s streams.\n\nColdkoyo (Reikoyo): A cool Koyori.\n\nKokoro: Koyori’s first robot coyote partner. Usually stuffed in her lab coat pocket.\n\nKoyo-colored: The color pink."
+        },
+        {
+          "label": "Message",
+          "value": "Ayo, this is Koyo! I’m Hakui Koyori, the brains of holoX! Whether you’re an old or new viewer, it’s my goal to put a smile on your face with my streams!\n\nCome drop by whenever you can (ᐡ •͈ ·̫ •͈ ᐡ)"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "Mainly game streams, karaoke streams, ASMR streams, and chatting streams, but I do a lot of other stuff too! People seem to like my screams and reactions to things… I also stream “AsaKoyo!”, a hololive info show, every Tuesdays and Fridays at 7:00 AM JST!"
+        },
+        {
+          "label": "Special Skills",
+          "value": "Enunciation, crane games, typing"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Singing, dancing, acting. Puzzles and detective games, board games, mahjong."
+        },
+        {
+          "label": "Likes",
+          "value": "Games, mayonnaise, Nihonshu, and her Assistants!"
+        },
+        {
+          "label": "Fan Mark",
+          "value": "🧪"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/hakui-koyori/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 30,
+      "slug": "kazama-iroha",
+      "officialSlug": "kazama-iroha",
+      "name": "Kazama Iroha",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "holoX",
+      "tagline": "“Secret Society holoX’s insurance policy, Kazama Iroha here, I daresay!”",
+      "biography": "Secret Society holoX's insurance policy.\n\nHailing from a remote mountainous area, she left her home behind and, along with her companion, set off on a journey to achieve her dream of seeing and learning more about the outside world.\n\nNowadays, she handles security detail and bodyguard missions for holoX, making enough money to get by.",
+      "birthday": "June 18",
+      "debut": "November 30, 2021",
+      "height": "156 cm",
+      "officialUnit": "Secret Society holoX",
+      "fanName": "Kazama Tai",
+      "hashtags": "Stream Tags: #かざま修行中\n\nFan Art: #いろはにも絵を",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "うみぼうず"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/kazama-iroha/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 31,
+      "slug": "otonose-kanade",
+      "officialSlug": "otonose-kanade",
+      "name": "Otonose Kanade",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "ReGLOSS",
+      "tagline": "“Do-Re-Mi-Fa-So-La-Si-Do! From hololive DEV_IS, I am ReGLOSS's aspiring musician, Otonose Kanade!”",
+      "biography": "An aspiring musician, whose life also has ups and downs like a crescendo.\n\nMusic is always by her side.\n\nShe wears her heart on her sleeve and is capable of putting incredible amounts of effort into the things she enjoys.\n\nOn the other hand, anything she dislikes immediately puts a frown on her face, showing she still retains a childish side.\n\nHowever, she can be bribed with good food...",
+      "birthday": "April 20",
+      "debut": "September 9, 2023",
+      "height": "153 cm",
+      "officialUnit": "ReGLOSS",
+      "fanName": "Oto-no-zei",
+      "hashtags": "Stream Tag: #生音乃瀬\n\nArt Tag: #Artnose",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "gomzi"
+        },
+        {
+          "label": "Fan Mark",
+          "value": "🎹✨"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/otonose-kanade/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 32,
+      "slug": "ichijou-ririka",
+      "officialSlug": "ichijou-ririka",
+      "name": "Ichijou Ririka",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "ReGLOSS",
+      "tagline": "“Cute! Positive! Genius! From hololive DEV_IS, I am ReGLOSS's Ichijou Ririka!”",
+      "biography": "An enterprising entrepreneur on the up-and-up.\n\nShe started her company on a complete whim, but things seem to be going well so far.\n\nShe has excellent people skills and is an excellent communicator, which allows her to handle transactions with foreign companies by herself.\n\nHer secret to success is a good night's sleep.\n\nMeanwhile, she has quite the unruly side when it comes to her private life, and she can be quite lacking when it comes to chores around the home.",
+      "birthday": "May 12",
+      "debut": "September 9, 2023",
+      "height": "162 cm",
+      "officialUnit": "ReGLOSS",
+      "fanName": "Secretary-in-Training",
+      "hashtags": "Stream Tag: #莉々華ミーティング中\n\nArt Tag: #ririkart",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Nakamura"
+        },
+        {
+          "label": "Fan Mark",
+          "value": "🌃"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/ichijou-ririka/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 33,
+      "slug": "juufuutei-raden",
+      "officialSlug": "juufuutei-raden",
+      "name": "Juufuutei Raden",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "ReGLOSS",
+      "tagline": "“Come one, come all! From hololive DEV_IS, I am ReGLOSS's hype squad and jokester, and the Juufuutei Group's curtain raiser and apprentice, Juufuutei Raden!”",
+      "biography": "A grandma's girl who covers herself in both tradition and revolution, and sees big dreams in the rakugo world.\n\nShe loves arts and culture of all kinds—new and old, Eastern and Western.\n\nShe visits museums so often that she is left penny-pinching the rest of the time. It is most certainly not due to her frequent purchases of alcohol.\n\nThrough her encounter with rakugo, she has come to enjoy public speaking more than ever, and she is fervishly writing up her own skits.",
+      "birthday": "February 4",
+      "debut": "September 10, 2023",
+      "height": "159 cm",
+      "officialUnit": "ReGLOSS",
+      "fanName": "Den-Kin",
+      "hashtags": "Stream Tag: #らでん記\n\nArt Tag: #らでん似絵",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Kaoming"
+        },
+        {
+          "label": "Fan Mark",
+          "value": "🐚"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/juufuutei-raden/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 34,
+      "slug": "todoroki-hajime",
+      "officialSlug": "todoroki-hajime",
+      "name": "Todoroki Hajime",
+      "nativeName": "",
+      "branch": "Japan",
+      "gameGroup": "ReGLOSS",
+      "tagline": "“Vroom, vroom, vroom! From hololive DEV_IS, I am ReGLOSS's Nresident badass, Todoroki Hajime!”",
+      "biography": "A jane-of-all-trades seeking to be the #1 badass in the universe.\n\nWhy the universe? Why \"badass\"? Nobody knows.\n\nShe's the restless sort and, to no surprise, enjoys physical activities.\n\nAlso to no surprise, she's not good with tools and equipment, meaning she's a disaster-class in cooking.\n\nHer trusty partner Banpen teaches her every day about how to be a badass.",
+      "birthday": "June 7",
+      "debut": "September 10, 2023",
+      "height": "155 cm",
+      "officialUnit": "ReGLOSS",
+      "fanName": "Massugumi",
+      "hashtags": "Stream Tag: #ぶんぶんばんちょー\n\nArt Tag: #はじめ武勇伝",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Achiki"
+        },
+        {
+          "label": "Fan Mark",
+          "value": "🐧⚡"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/todoroki-hajime/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 35,
+      "slug": "ayunda-risu",
+      "officialSlug": "ayunda-risu",
+      "name": "Ayunda Risu",
+      "nativeName": "",
+      "branch": "Indonesia",
+      "gameGroup": "Generation 1",
+      "tagline": "“Hewwrroo everyone ~!” “Purupuru ganbari Risu ~!”",
+      "biography": "A squirrel girl from a magical forest.\n\nShe was lost in the human world, but due to certain circumstances, she ends up living in the home of a kind older sister.\n\nTo return the favor, she decides to become a VTuber.\n\nRisu act, most of the time, just like a squirrel she is. She loves to do subtle pranks on people, shy with new people, and love to tease her viewer. Her laugh is also one of her unique characterictic.",
+      "birthday": "January 15",
+      "debut": "April 10, 2020",
+      "height": "153 cm",
+      "officialUnit": "hololive Indonesia 1st Generation",
+      "fanName": "Risuners",
+      "hashtags": "Live stream：#Risu_Live\n\nFan Art：#GambaRisu",
+      "additionalFacts": [
+        {
+          "label": "illustrator",
+          "value": "やとみ"
+        },
+        {
+          "label": "Dreams & goals",
+          "value": "Risu’s goal is to be able to have her own album of original song and do a solo 3D concert. Also, to be able to get her own “plushie” as merchandise."
+        },
+        {
+          "label": "Words",
+          "value": "[Piggy Bank]\n\nAround July 2020, Risu streamed herself counting coins and Moona raided her stream and claimed that some of the coins came from Moona’s piggy bank."
+        },
+        {
+          "label": "Message",
+          "value": "Risu’s stream is wholesome, whimsical and sassy at the same time. She will make you feel like you’re interacting with your childhood friends."
+        },
+        {
+          "label": "The type of streams you often do",
+          "value": "Looking by the stream that Risu love to do, there are several things that Risu is interested to:\n\n– Simple games with rich story (Va11-Hall-A, Coffee Talk, To The Moon, Papers Please)\n\n– RPG Games (Nier Automata, Bastion)\n\n– Weird ASMR (counting coins, eating noodles, typing on keyboard, etc.)\n\n– Acapella singing\n\n– Short video memes"
+        },
+        {
+          "label": "The Difference of Ayunda and Risu’s Voice",
+          "value": "Ayunda Risu did a “second debut” using her new costume on her 100K subscribers celebration around September 2020. On that stream, she described about the differences between her two voices, which she called “Ayunda” and “Risu”. “Ayunda” is a witch (indicated with lower-pitch voice), while “Risu” is a squirrel (indicated with higher-pitch voice)."
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/ayunda-risu/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 36,
+      "slug": "moona-hoshinova",
+      "officialSlug": "moona-hoshinova",
+      "name": "Moona Hoshinova",
+      "nativeName": "",
+      "branch": "Indonesia",
+      "gameGroup": "Generation 1",
+      "tagline": "“Moon Moon~ Moona Dayo!”",
+      "biography": "A college girl who works as a model and idol, but later got interested to become a VTuber too.\n\nOn some rare occasion, Moona’s stream might be visited by Moona’s “another personality,”Hoshinova. That has deeper big sister-like voices and sadistic tendesion. Pay attention to her streams to meet Hoshinova!",
+      "birthday": "February 15",
+      "debut": "April 11, 2020",
+      "height": "165 cm",
+      "officialUnit": "hololive Indonesia 1st Generation",
+      "fanName": "Moonafic",
+      "hashtags": "Stream Tag: #MoonA_Live\n\nFan Art: #HoshinovArt\n\nSinging: #MoonUtau\n\nMeme: #GrassMoona\n\nMinecraft: #MoonArchitect",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "により"
+        },
+        {
+          "label": "Dream",
+          "value": "I want to produce more music and making my own concert, it would be great if my music can hit top 10 in the world!"
+        },
+        {
+          "label": "Message",
+          "value": "Hello! I’m Moona Hoshinova! I’m from hololive Indonesia Generation 1!\n\nI love music! So I’m usually humming in my stream! Singing in random lyrics is my favorite thing!\n\nNice to meet you! I hope you like my stream!"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "I love playing games, mostly a building game. I love singing a kind of Ballad song. I also love making Dad Jokes and Memes on Twitter. You can say that I’m pretty random. Some said that my laugh sounds like a dolphin, well I guess that’s my perks."
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "Are you a comedian?",
+          "answer": "No, I’m an Idol."
+        },
+        {
+          "question": "Why do you always do a midnight stream?",
+          "answer": "Because the Moon doesn’t sleep at night."
+        },
+        {
+          "question": "Do you always stream on schedule?",
+          "answer": "Not exactly, sometimes i do a guerilla… endurance."
+        },
+        {
+          "question": "Why you sometimes have a different voice?",
+          "answer": "Because there are 2 people in this body, Moona and Hoshinova. If you heard a high pitch like a kids, probably that’s Moona. But if you heard a low pitch like a big sister, probably that’s Hoshinova"
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/moona-hoshinova/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 37,
+      "slug": "airani-iofifteen",
+      "officialSlug": "airani-iofifteen",
+      "name": "Airani Iofifteen",
+      "nativeName": "",
+      "branch": "Indonesia",
+      "gameGroup": "Generation 1",
+      "tagline": "“IOFORIA~! OBISA!” “Pagi semua! I’m your beloved smart alien iofi from hololive Indonesia, nice to meet you!”",
+      "biography": "An alien princess who ran away from home and come to the earth and fell in love with earth’s culture, sometimes like to tease the viewers and being a nice iomama if her fans needs it. Sometimes got crazy over gacha game.",
+      "birthday": "July 15",
+      "debut": "April 12, 2020",
+      "height": "150 cm",
+      "officialUnit": "hololive Indonesia 1st Generation",
+      "fanName": "IOFORIA",
+      "hashtags": "Stream Tag: #ioLYFE\n\nFan Art: #ioarts\n\nMeme: #iomemes\n\nFan Name: #IOFORIA\n\nOBISA!",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Yano Mituki"
+        },
+        {
+          "label": "Dreams & goals",
+          "value": "HIT THAT 1M FANS! To communicate to many people around the world as much as possible and world domination!"
+        },
+        {
+          "label": "Message",
+          "value": "Halo! You can call me iofi, from hololive Indonesia! I’m your beloved smart alien who ran away from her home planet, I can be your friend or even family! Let’s have fun together, laugh together and spend the day together. Of if you’re tired I can do relaxing ASMR and give you some hadpats, nade nade~"
+        },
+        {
+          "label": "Hobbies, Likes",
+          "value": "GACHA! NO GACHA NO LIFE! Love rhythm game so much, can do one song over and over again just to get a full combo, can you count on how many times I retry a song? I’ve played almost every rhythm and gacha games possible on earth."
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "Really love to do a comfy stream of drawing and talking with fans."
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/airani-iofifteen/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 38,
+      "slug": "kureiji-ollie",
+      "officialSlug": "kureiji-ollie",
+      "name": "Kureiji Ollie",
+      "nativeName": "",
+      "branch": "Indonesia",
+      "gameGroup": "Generation 2",
+      "tagline": "“ZOMBANWA!! SUPER KAWAII ZOMBIE IDOL, KU KU KU KUREIJI OLLIE DESU~!!”",
+      "biography": "A zombie high school girl risen from her grave. She headed home, relying on memories retained from when she was still alive.\n\nUpon arriving, she discovered it had turned into a ramen shop! And so, in order to reclaim her house, she decided to become a VTuber.\n\nOllie has a very big tendency to scream. Always lower your volumes during her streams.",
+      "birthday": "October 13",
+      "debut": "December 4,2020",
+      "height": "162 cm",
+      "officialUnit": "hololive Indonesia 2nd Generation",
+      "fanName": "ZOMRADE",
+      "hashtags": null,
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "LAM"
+        },
+        {
+          "label": "Dreams",
+          "value": "Ollie wants to get Ollie’s house back while fulfilling Ollie’s dream to become an Top-Class idol! Ollie wants to be able to stand on a stage and sing Ollie’s own original songs in front of thousands of people, along with Ollie’s friends! Ollie will work hard for it!"
+        },
+        {
+          "label": "Message",
+          "value": "ZOMBANWA~!! SUPER KAWAII ZOMBIE IDOL FROM HOLOLIVE SECOND GENERATION, KUREIJI OLLIE HERE!!\n\nOllie still has a lot to learn when it comes to becoming an idol, and the fact that Ollie is a zombie makes it harder! Ollie will do her best though! Please keep supporting Ollie so that Ollie can reach her dreams! &lt;3"
+        },
+        {
+          "label": "Hobbies, Likes",
+          "value": "Ollie loves to plays games, sing, chat, and just overall have fun! This may come as a shocker, but Ollie actually likes to clean and read webcomics despite Ollie’s “kureiji” nature~ Hehe, it’s quite relaxing!Ollie loves the Vtuber community and hopes that everyone can shine together!\n\nOther than that, Ollie loves to eat! Which is why Ollie sometimes snacks around on stream~ Teehee~"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "Ollie usually does gaming streams and freetalks! There’s no particular genre of games or specific topics that Ollie talks about, Ollie usually just do whatever seems fun!"
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "Wait you’re an idol?",
+          "answer": "Always has been."
+        },
+        {
+          "question": "What’s that dangling on your sword?\n\n― It’s Ollie’s fuzzy companion! A stitched bear named Udin!\nQ.What does Udin mean?",
+          "answer": "Udin is just an Indonesian stereotypical name. It’s like “Bob” or “Yamada” in a way."
+        },
+        {
+          "question": "So I know you love Hololive, but who’s your favourite senpai?",
+          "answer": "Yes (All of them is my favourite senpai)"
+        },
+        {
+          "question": "Before joining Hololive and becoming an idol, what did you wanted to be?",
+          "answer": "Ollie wanted to be a seiyuu before Ollie decided to become an idol!"
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/kureiji-ollie/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 39,
+      "slug": "anya-melfissa",
+      "officialSlug": "anya-melfissa",
+      "name": "Anya Melfissa",
+      "nativeName": "",
+      "branch": "Indonesia",
+      "gameGroup": "Generation 2",
+      "tagline": "“Good day! This is Anya Melfissa from hololive ID 2nd Generation.”",
+      "biography": "An ancient weapon known as “Keris,” she was granted human form through a mystical ritual performed by her master.\n\nShe’s just about always sleeping or playing games. Living mostly alone for so long has made her tend to be apathetic towards things and people she’s uninterested in, but when talking about things she likes, she can be quite childlike and passionate.\n\nHer base personality is actually apathetic, especially towards humans. Don’t let looks fool you - that’s what every foolish human always does to themselves somehow.",
+      "birthday": "March 12",
+      "debut": "December 5, 2020",
+      "height": "147 cm",
+      "officialUnit": "hololive Indonesia 2nd Generation",
+      "fanName": "Melfriends",
+      "hashtags": "LIVE：#Liveissa\n\nFan ART：#anyatelier",
+      "additionalFacts": [
+        {
+          "label": "illustrator",
+          "value": "上倉エク"
+        },
+        {
+          "label": "Dreams",
+          "value": "To work hard and convince YAGOO to make a personal and BIG sleep place that I can sleep at without any care about the outside world."
+        },
+        {
+          "label": "Message",
+          "value": "Good morning~ This is Anya Melfissa from hololive ID 2nd generation! I hope my contents will be to your liking. Not only me, but please also support all the other hololive ID girls as they’re all amazing and talented! Otsukris~"
+        },
+        {
+          "label": "Regular/Specialty Streams",
+          "value": "I love playing games! Maybe they’re games that a lot of people don’t know or play, but I tend to play what I wanna play mostly. I also love singing(working on it). Some heavy talks streams with everyone is also good."
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "How old are you?",
+          "answer": "Yes."
+        },
+        {
+          "question": "So, are you really an idol or comed-",
+          "answer": "I… dol… yes. Yes."
+        },
+        {
+          "question": "What’s the meaning behind your fanmark?",
+          "answer": "I love sleeping and my favorite season is the autumn because it’s the best season to sleep during!"
+        },
+        {
+          "question": "Why do you sing like that?",
+          "answer": "It’s literally how I normally sing."
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/anya-melfissa/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 40,
+      "slug": "pavolia-reine",
+      "officialSlug": "pavolia-reine",
+      "name": "Pavolia Reine",
+      "nativeName": "",
+      "branch": "Indonesia",
+      "gameGroup": "Generation 2",
+      "tagline": "“Perhatian, sang putri merak yang tertiup angin, aku Pavolia Reine dari hololive ID.”",
+      "biography": "Lady of the Peafowl. While studying at a magic academy, she was involved in an incident and transferred to the human world.\n\nSince then, she has been unable to use much of her magic.\n\nVery fond of sweets, but weak with overly spicy food. At first glance, she seems to be the elegant type, but people who spend some more time with her will find out that she has more of a dorky personality. To quite a number of viewers, her laugh has been perceived as similar to a car engine starting.",
+      "birthday": "September 9",
+      "debut": "December 6, 2020",
+      "height": "172 cm",
+      "officialUnit": "hololive Indonesia 2nd Generation",
+      "fanName": "MERAKyats\n\nCoined from Merak (peafowl) and rakyat (people/citizen), essentially meaning “people of the peafowl”. The word “merakyat” itself means “being humble” or “close to the people”. This is also used as her stream end greeting, where she says “Salam MERAKyats” which roughly translates to “MERAKyats greetings”.",
+      "hashtags": "LIVE: #Pavolive\n\nFan Art: #Reinessance\n\nClever isn’t it?",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "飯田ぽち。"
+        },
+        {
+          "label": "Dreams",
+          "value": "I want to release more original music, collaborate, and let my voice be heard even more!\n\nI would be so happy if I could perform live on stage and continue to work with amazing people!"
+        },
+        {
+          "label": "Message",
+          "value": "Attention Please! I’m Pavolia Reine from hololiveID 2nd generation.\n\n……..\n\nThank you for your attention!"
+        },
+        {
+          "label": "Hobbies, Likes",
+          "value": "I love chatting! I do quite a lot of free talk streams, at least once a week. It feels really nice to be able to share and learn about lots of things in return. In my currently regular free talk program, I eat brunch while talking about things with viewers (who are also welcome to have their own meal).\n\nI like simulator or sandbox type games, because I feel like I can talk in a relaxed manner when doing things in game–and build something unexpected at times. Outside those genres, I like unveiling mysteries and solving puzzles!\n\nWhat I love the most is singing! I occasionally do karaoke streams and publish covers–and I released an original song on my debut! I listen to a lot of Japanese songs, particularly anime and 2D idol/band music. In my spare time, I sometimes draw."
+        }
+      ],
+      "officialQa": [
+        {
+          "question": "Who is Tatang!?!??!",
+          "answer": "Tatang is my tambourine. His full name is Tatang Tambourine. I bring him and he makes music when we’re reading donations on stream."
+        },
+        {
+          "question": "Coffee or tea?",
+          "answer": "Tea!"
+        },
+        {
+          "question": "Warm or cold weather?",
+          "answer": "Both, as long as it’s either “pleasantly” warm or “pleasantly” cold!"
+        },
+        {
+          "question": "Favorite type of sweets?",
+          "answer": "Cookies, chocolate, cake, everything as long as it tastes good! I’m more focused on the taste, because I prefer things that are mildly sweet/have more of a subtle taste."
+        }
+      ],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/pavolia-reine/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 41,
+      "slug": "vestia-zeta",
+      "officialSlug": "vestia-zeta",
+      "name": "Vestia Zeta",
+      "nativeName": "",
+      "branch": "Indonesia",
+      "gameGroup": "Generation 3",
+      "tagline": "“A a a! Mission Sutaato! Aku Vestia Zeta dari holoID gen 3!”",
+      "biography": "She is the mysterious 7th recruit of The Secret Archive Unit that has a full license to collect virtual data.\n\nDespite her being a promising rookie, who is also known as codename V.7, she turns clumsy when things are not going exactly according to the manual.\n\nIt was initially a lonely mission to infiltrate the virtual world, but now she had found comfort here. Will this mission end up leading her to a new destiny instead...?",
+      "birthday": "November 7",
+      "debut": "March 25, 2022",
+      "height": "155 cm",
+      "officialUnit": "hololive Indonesia 3rd Generation",
+      "fanName": "Zecretary",
+      "hashtags": null,
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "あるてら"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/vestia-zeta/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 42,
+      "slug": "kaela-kovalskia",
+      "officialSlug": "kaela-kovalskia",
+      "name": "Kaela Kovalskia",
+      "nativeName": "",
+      "branch": "Indonesia",
+      "gameGroup": "Generation 3",
+      "tagline": "“Aku Kaela, dari holoID gen 3!”",
+      "biography": "After taking over her great blacksmithing teacher's forge, she felt a lack of excitement in her life.\n\nSo, she decided to be free and depart on a journey to find rare smithing materials, one of which was rumored to be under the building of a certain \"idol group\" in town.\n\nShe also loves challenging herself and has a peculiar taste when it comes to foods!",
+      "birthday": "August 30",
+      "debut": "March 26, 2022",
+      "height": "173 cm",
+      "officialUnit": "hololive Indonesia 3rd Generation",
+      "fanName": "Pemaloe",
+      "hashtags": null,
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "ヤスダスズヒト"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/kaela-kovalskia/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 43,
+      "slug": "kobo-kanaeru",
+      "officialSlug": "kobo-kanaeru",
+      "name": "Kobo Kanaeru",
+      "nativeName": "",
+      "branch": "Indonesia",
+      "gameGroup": "Generation 3",
+      "tagline": "“Bokobokobo Kobo Kanaeru at your service!”",
+      "biography": "A carefree girl who lives in the topmost room of a lighthouse, she is actually the bloodline of the strongest rain shaman in the area. She has great potential to control rain, but she does not like to do it as a task.\n\nIn order to win back her Rain Master title, she needs to prove to her family that she can keep their rain shaman service afloat. Not only does she have to train daily, but she also needs to adopt some sort of virtual marketing strategy to succeed!",
+      "birthday": "December 12",
+      "debut": "March 27, 2022",
+      "height": "150 cm",
+      "officialUnit": "hololive Indonesia 3rd Generation",
+      "fanName": "Kobokerz",
+      "hashtags": null,
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "ぽんかん⑧"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/kobo-kanaeru/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 44,
+      "slug": "mori-calliope",
+      "officialSlug": "mori-calliope",
+      "name": "Mori Calliope",
+      "nativeName": "",
+      "branch": "English",
+      "gameGroup": "Myth",
+      "tagline": "“Dead Beats, listen up! Your Mori's been working hard for you!”",
+      "biography": "The Grim Reaper's first apprentice. Due to modern medical care causing a decline in the reaping business, Calliope decided to become a VTuber to harvest souls instead. It seems that the ascended souls of the people who are vaporized by the wholesome interactions between VTubers go to her as well.\n\nThat being said, despite the image her hardcore vocals and manner of speech gives off, she's actually a gentle-hearted girl who cares greatly for her friends.",
+      "birthday": "April 4",
+      "debut": "September 12, 2020",
+      "height": "167 cm",
+      "officialUnit": "hololive English -Myth-",
+      "fanName": "Dead Beats",
+      "hashtags": "Stream Tags: #calliolive #カリオライブ\n\nFan Art: #callillust #カリイラスト",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Yukisame"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/mori-calliope/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 45,
+      "slug": "takanashi-kiara",
+      "officialSlug": "takanashi-kiara",
+      "name": "Takanashi Kiara",
+      "nativeName": "",
+      "branch": "English",
+      "gameGroup": "Myth",
+      "tagline": "“Kikkeriki!!! Welcome to KFP, are you here to order or to apply for a job?”",
+      "biography": "An idol whose dream is to become the owner of a fast food chain. Kiara is a phoenix, not a chicken or turkey. (Very important)\n\nShe burns brightly, working herself to the bone since she'll just be reborn from her ashes anyway.",
+      "birthday": "July 6",
+      "debut": "September 12, 2020",
+      "height": "165 cm",
+      "officialUnit": "hololive English -Myth-",
+      "fanName": "KFP",
+      "hashtags": "Stream Tags: #kfp #キアライブ\n\nFan Art: #artsofashes #絵ニックス",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "huke"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/takanashi-kiara/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 46,
+      "slug": "ninomae-ina",
+      "officialSlug": "ninomae-inanis",
+      "name": "Ninomae Ina'nis",
+      "nativeName": "",
+      "branch": "English",
+      "gameGroup": "Myth",
+      "tagline": "“Good morning, afternoon, evening! Hope you're having a WAHnderful day!”",
+      "biography": "Despite her looks, Ina'nis is actually a priestess of the Ancient Ones. One day, she picked up a strange book and then started to gain the power of controlling tentacles. To her, tentacles are just a part in her ordinary life; it has never been a big deal for her. However, her girly mind does want to get them dressed up and stay pretty.\n\nAfter gaining power, she started hearing Ancient Whispers and Revelations. Hence, she began her VTuber activities to deliver random sanity checks on humanity, as an ordinary girl.",
+      "birthday": "May 20",
+      "debut": "September 13, 2020",
+      "height": "157 cm",
+      "officialUnit": "hololive English -Myth-",
+      "fanName": "Tentacult",
+      "hashtags": "Stream Tags: #TAKOTIME #タコタイム\n\nFan Art: #inART #いなート",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Kuroboshi Kouhaku"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/ninomae-inanis/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 47,
+      "slug": "irys",
+      "officialSlug": "irys",
+      "name": "IRyS",
+      "nativeName": "",
+      "branch": "English",
+      "gameGroup": "Project: HOPE",
+      "tagline": "“HiRyS, it’s IRyS! Your seiso nephilim here to fill the world with hopium!”",
+      "biography": "A Nephilim who was once the embodiment of hope back in \"The Paradise\".\n\nWhile she has left to set off on an adventure, she continues to deliver hope through her lyrics and songs, with determination in her voice.\n\nShe also bears the precarious and unstable dual nature of a half-demon and half-angel; this phenomenon can be observed on rare occasions, in the form of the most unpredictably\n\nyaba—*ahem*, \"surprising\", comments from IRyS herself. Bewildering those around her is but another unexpected charm of her duality.",
+      "birthday": "March 7",
+      "debut": "July 11, 2021",
+      "height": "162 cm",
+      "officialUnit": "hololive English -Promise-",
+      "fanName": "IRyStocrats",
+      "hashtags": null,
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "redjuice"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/irys/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 48,
+      "slug": "ouro-kronii",
+      "officialSlug": "ouro-kronii",
+      "name": "Ouro Kronii",
+      "nativeName": "",
+      "branch": "English",
+      "gameGroup": "Promise",
+      "tagline": "“Kroniichiwa! It's me, perfection. Also synonymous for Ouro Kronii!”",
+      "biography": "Time is an unwavering, precise entity, and its Warden - its overseer - is equally cool and impeccable.\n\nOccasionally her exquisiteness leads her to decisions and bouts of luck that transcend the understanding of mere mortals. However, even utmost perfection finds no foothold in the face of her mortal enemy—disorder.",
+      "birthday": "March 14",
+      "debut": "August 23, 2021",
+      "height": "168 cm",
+      "officialUnit": "hololive English -Promise-",
+      "fanName": "Kronies",
+      "hashtags": "Stream Tag: #krotime\n\nFan Art: #kronillust",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "WADARCO"
+        },
+        {
+          "label": "Hobbies",
+          "value": "Games, procrastinating, lying down, watching videos, singing"
+        },
+        {
+          "label": "Likes",
+          "value": "Sleeping/Napping, walking at night,existential dread, swimming, ANIME, MANGA, WEBTOONS"
+        },
+        {
+          "label": "Dislikes",
+          "value": "-Sleeping/Napping\n\n-Procrastinating\n\n-Vegetables\n\n-Working under pressure (e.g. Time)\n\n-Rage-inducing games"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/ouro-kronii/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 49,
+      "slug": "hakos-baelz",
+      "officialSlug": "hakos-baelz",
+      "name": "Hakos Baelz",
+      "nativeName": "",
+      "branch": "English",
+      "gameGroup": "Promise",
+      "tagline": "“WAZZUP!! It's your worldwide Rat Idol --- Hakos Baelz!”",
+      "biography": "Chaos. Mayhem. Entropy..... All in the form of a cute little rat.\n\nShe is a performer looking for her next stage. Occassionally she will get swept up in her own storm, but thats just part of the fun.",
+      "birthday": "February 29",
+      "debut": "August 23, 2021",
+      "height": "149 cm",
+      "officialUnit": "hololive English -Promise-",
+      "fanName": "Brats",
+      "hashtags": "Stream Tag: #TeleBAE\n\nFan Art: #BaelzBrush\n\nMusic: #BaeBeatz\n\nMeme: #YABAE",
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Mika Pikazo"
+        },
+        {
+          "label": "Likes",
+          "value": "Coffee, fried cheese, RPGs, simulation games, anisong, J-pop, K-pop, EDM, hardstyle"
+        },
+        {
+          "label": "Dislikes",
+          "value": "The dark, jump scares"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/hakos-baelz/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 50,
+      "slug": "shiori-novella",
+      "officialSlug": "shiori-novella",
+      "name": "Shiori Novella",
+      "nativeName": "",
+      "branch": "English",
+      "gameGroup": "Advent",
+      "tagline": "“Don't you think that's a wonderful story?”",
+      "biography": "Driven by her thirst for knowledge, Shiori Novella is \"The Archiver.\"\n\nShe turns her favorite stories and treasured memories into bookmarks and saves them.\n\nBy misfortune, she was found to have obtained forbidden knowledge within one of her stories and was imprisoned. But to her, that experience itself is but a fascinating story. In order to continue her search for more stories, she planned and executed a prison break.",
+      "birthday": "May 2",
+      "debut": "July 30, 2023",
+      "height": "163 cm",
+      "officialUnit": "hololive English -Advent-",
+      "fanName": null,
+      "hashtags": null,
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "KAYAHARA"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/shiori-novella/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 51,
+      "slug": "koseki-bijou",
+      "officialSlug": "koseki-bijou",
+      "name": "Koseki Bijou",
+      "nativeName": "",
+      "branch": "English",
+      "gameGroup": "Advent",
+      "tagline": "“I hope you'll feel my radiance!”",
+      "biography": "Formed from the crystallization of all forms of human emotion, Koseki Bijou is \"The Jewel of Emotions.\"\n\nOver years and years, emotions of beauty and filth alike have woven into her under immense pressure, resulting in an unmatched brilliance.\n\nHer ancient, mystic brilliance caused strife between the masses of the greedy, who fought over ownership of her. This led to her being imprisoned in secrecy, far from the reach of humans.\n\nIt seems as though when she encounters people, and particularly their good emotions, her radiance shines even brighter.",
+      "birthday": "April 14",
+      "debut": "July 30, 2023",
+      "height": "140 cm",
+      "officialUnit": "hololive English -Advent-",
+      "fanName": null,
+      "hashtags": null,
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "Kitada mo"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/koseki-bijou/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 52,
+      "slug": "nerissa-ravencroft",
+      "officialSlug": "nerissa-ravencroft",
+      "name": "Nerissa Ravencroft",
+      "nativeName": "",
+      "branch": "English",
+      "gameGroup": "Advent",
+      "tagline": "“Ah, the beautiful resonance of idol songs...”",
+      "biography": "With a deep love of song, Nerissa Ravencroft is \"The Demon of Sound.\"\n\nHer powerful love turned into a dark power that inhabited her singing, giving her music the potential to drive the entire world mad. The gods, fearful of her beautiful voice, decided to seal her away for eternity, but this did not seal away her desire to sing for others. While she was sealed away, she came across Japanese otaku culture, and is currently fascinated by idol songs and penlights. Maybe her life imprisoned wasn't all that bad.",
+      "birthday": "November 21",
+      "debut": "July 31, 2023",
+      "height": "175 cm",
+      "officialUnit": "hololive English -Advent-",
+      "fanName": null,
+      "hashtags": null,
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "ebplus"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/nerissa-ravencroft/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 53,
+      "slug": "fuwawa-abyssgard",
+      "officialSlug": "fuwawa-abyssgard",
+      "name": "Fuwawa Abyssgard",
+      "nativeName": "",
+      "branch": "English",
+      "gameGroup": "Advent",
+      "tagline": "“How about we get you all nice and fluffy~?”",
+      "biography": "The fluffy older twin sister of The Demonic Guard Dogs, who were sealed away in The Cell for being a pain in the godly behind, Fuwawa Abyssgard is \"The Fluffy One.\"\n\nHer duty is to calmly look after her younger twin sister Mococo and their pet Pero, but that calmness can be short-lived. Ultimately, she is a bouncy and boisterous girl who loves to chat and play.",
+      "birthday": "February 1",
+      "debut": "July 31, 2023",
+      "height": "155 cm",
+      "officialUnit": "hololive English -Advent-",
+      "fanName": null,
+      "hashtags": null,
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "ICOMOCHI"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/fuwawa-abyssgard/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    },
+    {
+      "id": 54,
+      "slug": "mococo-abyssgard",
+      "officialSlug": "mococo-abyssgard",
+      "name": "Mococo Abyssgard",
+      "nativeName": "",
+      "branch": "English",
+      "gameGroup": "Advent",
+      "tagline": "“Ehehe, it's play time, whether you're ready or not!”",
+      "biography": "The fuzzy younger twin sister of The Demonic Guard Dogs, who were sealed away in The Cell for being a pain in the godly behind, Mococo Abyssgard is \"The Fuzzy One.\"\n\nThe rambunctious Mococo spent all her time imprisoned watching anime and playing games, often roping her older twin sister Fuwawa and their pet Pero in for more chaotic antics. It's rumored that she took part in the prison break just for the heck of it.",
+      "birthday": "February 2",
+      "debut": "July 31, 2023",
+      "height": "155 cm",
+      "officialUnit": "hololive English -Advent-",
+      "fanName": null,
+      "hashtags": null,
+      "additionalFacts": [
+        {
+          "label": "Illustrator",
+          "value": "ICOMOCHI"
+        }
+      ],
+      "officialQa": [],
+      "officialProfileUrl": "https://hololive.hololivepro.com/en/talents/mococo-abyssgard/",
+      "sourceType": "official",
+      "sourceAuthority": "A",
+      "fetchedAt": "2026-07-24"
+    }
+  ]
+}

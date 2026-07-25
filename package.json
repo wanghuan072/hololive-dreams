@@ -1,0 +1,33 @@
+{
+  "name": "hololive-dreams-reference",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "prebuild": "node scripts/clean-generated-sitemaps.mjs",
+    "build": "next build",
+    "postbuild": "next-sitemap --config next-sitemap.config.mjs",
+    "start": "next start",
+    "lint": "eslint .",
+    "sync:profiles": "node scripts/sync-holomem-profiles.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "16.2.11",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "26.1.1",
+    "@types/react": "19.2.17",
+    "@types/react-dom": "19.2.3",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.2.11",
+    "next-sitemap": "^4.2.3",
+    "typescript": "5.9.3"
+  },
+  "overrides": {
+    "postcss": "8.5.22",
+    "sharp": "0.35.3"
+  }
+}

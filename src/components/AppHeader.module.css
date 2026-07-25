@@ -1,0 +1,231 @@
+.header {
+  position: sticky;
+  z-index: 20;
+  top: 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--accent-soft) 35%, white);
+  background:
+    linear-gradient(
+      180deg,
+      color-mix(in srgb, #fff5fa 94%, transparent) 0%,
+      color-mix(in srgb, #eef7ff 88%, transparent) 100%
+    );
+  backdrop-filter: blur(16px) saturate(1.25);
+  box-shadow:
+    0 8px 24px rgba(90, 130, 190, 0.08),
+    0 0 40px rgba(255, 77, 141, 0.06);
+}
+
+.header::after {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 4px;
+  background: linear-gradient(
+    90deg,
+    var(--accent) 0%,
+    var(--stage-gold) 28%,
+    #fff 50%,
+    var(--signal) 72%,
+    var(--accent-soft) 100%
+  );
+  box-shadow: 0 0 16px rgba(255, 77, 141, 0.35);
+  content: "";
+}
+
+.skipLink {
+  position: fixed;
+  z-index: 100;
+  top: 8px;
+  left: 8px;
+  translate: 0 -150%;
+  border: 2px solid var(--focus);
+  border-radius: 999px;
+  background: var(--surface);
+  padding: 10px 14px;
+  color: var(--text);
+  font-weight: 800;
+}
+
+.skipLink:focus {
+  translate: 0;
+}
+
+.inner {
+  position: relative;
+  display: flex;
+  min-height: var(--header-height);
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.brand {
+  display: inline-flex;
+  min-height: 48px;
+  align-items: center;
+  gap: 12px;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.brandMark {
+  width: 54px;
+  height: 54px;
+  flex: 0 0 54px;
+  object-fit: contain;
+}
+
+.brand strong,
+.brand small {
+  display: block;
+}
+
+.brand strong {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1.15;
+  color: var(--accent-dark);
+}
+
+.brand small {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.menuButton {
+  display: inline-flex;
+  min-height: 44px;
+  align-items: center;
+  gap: 8px;
+  border: 2px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  padding: 8px 14px;
+  color: var(--text);
+  cursor: pointer;
+  font-weight: 800;
+  box-shadow: 0 4px 12px rgba(90, 130, 190, 0.1);
+}
+
+.navigation {
+  position: absolute;
+  top: calc(100% + 1px);
+  right: 0;
+  left: 0;
+  display: none;
+  border: 1px solid var(--border);
+  border-top: 0;
+  border-radius: 0 0 var(--radius-md) var(--radius-md);
+  background: color-mix(in srgb, var(--surface) 96%, white);
+  padding: 12px 20px 20px;
+  box-shadow: var(--shadow-soft);
+}
+
+.navigationOpen {
+  display: grid;
+}
+
+.navigation a {
+  position: relative;
+  display: flex;
+  min-height: 46px;
+  align-items: center;
+  border-bottom: 1px solid color-mix(in srgb, var(--border) 80%, transparent);
+  color: var(--text);
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.navigation a:last-child {
+  border-bottom: 0;
+}
+
+.navigation a::before {
+  position: absolute;
+  left: -12px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: transparent;
+  content: "";
+}
+
+.navigation a:hover,
+.navigation a:active,
+.navigation .current {
+  color: var(--accent-dark);
+}
+
+.navigation .current::before {
+  background: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 25%, transparent);
+}
+
+@media (width > 1024px) and (pointer: fine) {
+  .menuButton {
+    display: none;
+  }
+
+  .navigation {
+    position: static;
+    display: flex;
+    align-self: stretch;
+    align-items: center;
+    gap: 2px;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    padding: 0;
+    box-shadow: none;
+  }
+
+  .navigation a {
+    min-height: 44px;
+    border: 0;
+    border-radius: 999px;
+    padding: 0 12px;
+    transition:
+      color 160ms ease,
+      background 160ms ease,
+      transform 160ms ease;
+  }
+
+  .navigation a::before {
+    top: auto;
+    right: 14px;
+    bottom: 6px;
+    left: 14px;
+    width: auto;
+    height: 3px;
+    border-radius: 999px;
+  }
+
+  .navigation a:hover {
+    background: color-mix(in srgb, var(--accent-soft) 35%, white);
+    transform: translateY(-1px);
+  }
+
+  .navigation .current {
+    background: color-mix(in srgb, var(--accent-soft) 42%, white);
+  }
+
+  .navigation .current::before {
+    background: linear-gradient(90deg, var(--accent), var(--signal));
+    box-shadow: none;
+  }
+}
+
+@media (hover: hover) {
+  .menuButton:hover {
+    border-color: var(--accent-soft);
+    background: var(--surface-pink);
+  }
+}

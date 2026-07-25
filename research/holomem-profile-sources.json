@@ -1,0 +1,1094 @@
+{
+  "metadata": {
+    "researchDate": "2026-07-24",
+    "scope": "All 54 playable hololive Dreams members",
+    "method": "Fetched the canonical English hololive production profile for each member in the official hololive Dreams launch roster.",
+    "limitations": [
+      "Official talent profile facts describe the talent, not member-specific hololive Dreams mechanics.",
+      "No unique card, outfit, skill value, unlock sequence, tier, or gacha-rate claim is inferred.",
+      "Game-song relationships are derived separately from the project-local official music catalog snapshot."
+    ]
+  },
+  "sources": [
+    {
+      "id": "src-member-01",
+      "member": "Tokino Sora",
+      "url": "https://hololive.hololivepro.com/en/talents/tokino-sora/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-02",
+      "member": "Robocosan",
+      "url": "https://hololive.hololivepro.com/en/talents/roboco-san/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-03",
+      "member": "Sakura Miko",
+      "url": "https://hololive.hololivepro.com/en/talents/sakuramiko/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-04",
+      "member": "Hoshimachi Suisei",
+      "url": "https://hololive.hololivepro.com/en/talents/hoshimachi-suisei/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-05",
+      "member": "AZKi",
+      "url": "https://hololive.hololivepro.com/en/talents/azki/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-06",
+      "member": "Aki Rosenthal",
+      "url": "https://hololive.hololivepro.com/en/talents/aki-rosenthal/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-07",
+      "member": "Akai Haato",
+      "url": "https://hololive.hololivepro.com/en/talents/akai-haato/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-08",
+      "member": "Natsuiro Matsuri",
+      "url": "https://hololive.hololivepro.com/en/talents/natsuiro-matsuri/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-09",
+      "member": "Shirakami Fubuki",
+      "url": "https://hololive.hololivepro.com/en/talents/shirakami-fubuki/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-10",
+      "member": "Nakiri Ayame",
+      "url": "https://hololive.hololivepro.com/en/talents/nakiri-ayame/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-11",
+      "member": "Yuzuki Choco",
+      "url": "https://hololive.hololivepro.com/en/talents/yuzuki-choco/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-12",
+      "member": "Oozora Subaru",
+      "url": "https://hololive.hololivepro.com/en/talents/oozora-subaru/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-13",
+      "member": "Ookami Mio",
+      "url": "https://hololive.hololivepro.com/en/talents/ookami-mio/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-14",
+      "member": "Nekomata Okayu",
+      "url": "https://hololive.hololivepro.com/en/talents/nekomata-okayu/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-15",
+      "member": "Inugami Korone",
+      "url": "https://hololive.hololivepro.com/en/talents/inugami-korone/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-16",
+      "member": "Usada Pekora",
+      "url": "https://hololive.hololivepro.com/en/talents/usada-pekora/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-17",
+      "member": "Shiranui Flare",
+      "url": "https://hololive.hololivepro.com/en/talents/shiranui-flare/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-18",
+      "member": "Shirogane Noel",
+      "url": "https://hololive.hololivepro.com/en/talents/shirogane-noel/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-19",
+      "member": "Houshou Marine",
+      "url": "https://hololive.hololivepro.com/en/talents/houshou-marine/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-20",
+      "member": "Tsunomaki Watame",
+      "url": "https://hololive.hololivepro.com/en/talents/tsunomaki-watame/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-21",
+      "member": "Tokoyami Towa",
+      "url": "https://hololive.hololivepro.com/en/talents/tokoyami-towa/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-22",
+      "member": "Himemori Luna",
+      "url": "https://hololive.hololivepro.com/en/talents/himemori-luna/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-23",
+      "member": "Yukihana Lamy",
+      "url": "https://hololive.hololivepro.com/en/talents/yukihana-lamy/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-24",
+      "member": "Momosuzu Nene",
+      "url": "https://hololive.hololivepro.com/en/talents/momosuzu-nene/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-25",
+      "member": "Shishiro Botan",
+      "url": "https://hololive.hololivepro.com/en/talents/shishiro-botan/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-26",
+      "member": "Omaru Polka",
+      "url": "https://hololive.hololivepro.com/en/talents/omaru-polka/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-27",
+      "member": "La+ Darknesss",
+      "url": "https://hololive.hololivepro.com/en/talents/la-darknesss/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-28",
+      "member": "Takane Lui",
+      "url": "https://hololive.hololivepro.com/en/talents/takane-lui/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-29",
+      "member": "Hakui Koyori",
+      "url": "https://hololive.hololivepro.com/en/talents/hakui-koyori/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-30",
+      "member": "Kazama Iroha",
+      "url": "https://hololive.hololivepro.com/en/talents/kazama-iroha/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-31",
+      "member": "Otonose Kanade",
+      "url": "https://hololive.hololivepro.com/en/talents/otonose-kanade/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-32",
+      "member": "Ichijou Ririka",
+      "url": "https://hololive.hololivepro.com/en/talents/ichijou-ririka/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-33",
+      "member": "Juufuutei Raden",
+      "url": "https://hololive.hololivepro.com/en/talents/juufuutei-raden/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-34",
+      "member": "Todoroki Hajime",
+      "url": "https://hololive.hololivepro.com/en/talents/todoroki-hajime/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-35",
+      "member": "Ayunda Risu",
+      "url": "https://hololive.hololivepro.com/en/talents/ayunda-risu/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-36",
+      "member": "Moona Hoshinova",
+      "url": "https://hololive.hololivepro.com/en/talents/moona-hoshinova/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-37",
+      "member": "Airani Iofifteen",
+      "url": "https://hololive.hololivepro.com/en/talents/airani-iofifteen/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-38",
+      "member": "Kureiji Ollie",
+      "url": "https://hololive.hololivepro.com/en/talents/kureiji-ollie/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-39",
+      "member": "Anya Melfissa",
+      "url": "https://hololive.hololivepro.com/en/talents/anya-melfissa/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-40",
+      "member": "Pavolia Reine",
+      "url": "https://hololive.hololivepro.com/en/talents/pavolia-reine/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-41",
+      "member": "Vestia Zeta",
+      "url": "https://hololive.hololivepro.com/en/talents/vestia-zeta/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-42",
+      "member": "Kaela Kovalskia",
+      "url": "https://hololive.hololivepro.com/en/talents/kaela-kovalskia/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-43",
+      "member": "Kobo Kanaeru",
+      "url": "https://hololive.hololivepro.com/en/talents/kobo-kanaeru/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-44",
+      "member": "Mori Calliope",
+      "url": "https://hololive.hololivepro.com/en/talents/mori-calliope/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-45",
+      "member": "Takanashi Kiara",
+      "url": "https://hololive.hololivepro.com/en/talents/takanashi-kiara/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-46",
+      "member": "Ninomae Ina'nis",
+      "url": "https://hololive.hololivepro.com/en/talents/ninomae-inanis/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-47",
+      "member": "IRyS",
+      "url": "https://hololive.hololivepro.com/en/talents/irys/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-48",
+      "member": "Ouro Kronii",
+      "url": "https://hololive.hololivepro.com/en/talents/ouro-kronii/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-49",
+      "member": "Hakos Baelz",
+      "url": "https://hololive.hololivepro.com/en/talents/hakos-baelz/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-50",
+      "member": "Shiori Novella",
+      "url": "https://hololive.hololivepro.com/en/talents/shiori-novella/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-51",
+      "member": "Koseki Bijou",
+      "url": "https://hololive.hololivepro.com/en/talents/koseki-bijou/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-52",
+      "member": "Nerissa Ravencroft",
+      "url": "https://hololive.hololivepro.com/en/talents/nerissa-ravencroft/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-53",
+      "member": "Fuwawa Abyssgard",
+      "url": "https://hololive.hololivepro.com/en/talents/fuwawa-abyssgard/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    },
+    {
+      "id": "src-member-54",
+      "member": "Mococo Abyssgard",
+      "url": "https://hololive.hololivepro.com/en/talents/mococo-abyssgard/",
+      "sourceType": "official",
+      "authority": "A",
+      "fieldsUsed": [
+        "official name",
+        "native name",
+        "official introduction",
+        "birthday",
+        "debut",
+        "height",
+        "unit",
+        "fan name",
+        "additional official profile fields",
+        "up to four official profile Q&A entries when available"
+      ],
+      "checkedAt": "2026-07-24"
+    }
+  ]
+}

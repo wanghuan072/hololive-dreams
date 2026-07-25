@@ -1,0 +1,2774 @@
+[
+  {
+    "id": 1,
+    "title": "Seishun Archive",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "HoneyWorks",
+    "musicBy": "HoneyWorks",
+    "arrangementBy": "HoneyWorks",
+    "imageUrl": "/images/songs/hololive-dreams-song-seishun-archive.webp",
+    "imageAlt": "Seishun Archive cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/f05ab96b725041aeb6c2317a6268fa5c/%E9%9D%92%E6%98%A5%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%95%E3%82%99.png"
+  },
+  {
+    "id": 2,
+    "title": "Yumemiru Sora He",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "Kento Nagatsuka",
+    "musicBy": "Kento Nagatsuka",
+    "arrangementBy": "Kento Nagatsuka",
+    "imageUrl": "/images/songs/hololive-dreams-song-yumemiru-sora-he.webp",
+    "imageAlt": "Yumemiru Sora He cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/c9e41e8e8c4941d29549c9c4e206310d/%E5%A4%A2%E8%A6%8B%E3%82%8B%E7%A9%BA%E3%81%B8.png"
+  },
+  {
+    "id": 3,
+    "title": "Kirameki Rider",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "Junko Tsuji",
+    "musicBy": "Kakeru Ishihama",
+    "arrangementBy": "Kakeru Ishihama",
+    "imageUrl": "/images/songs/hololive-dreams-song-kirameki-rider.webp",
+    "imageAlt": "Kirameki Rider cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/21f56b5f6a8d49c7a3ec39677ed28f13/%E3%82%AD%E3%83%A9%E3%83%A1%E3%82%AD%E3%83%A9%E3%82%A4%E3%82%BF%E3%82%99%E3%83%BC%E2%98%86.png"
+  },
+  {
+    "id": 4,
+    "title": "Dreaming Days",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "Yuki Honda",
+    "musicBy": "Yuki Honda, Takuya Sakai",
+    "arrangementBy": "Yuki Honda, Takuya Sakai",
+    "imageUrl": "/images/songs/hololive-dreams-song-dreaming-days.webp",
+    "imageAlt": "Dreaming Days cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/f0e517825d78405b857805cd8bab13ab/Dreaming%20Days.png"
+  },
+  {
+    "id": 5,
+    "title": "AsuiroClearSky",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "Ren Morimoto",
+    "musicBy": "Ren Morimoto",
+    "arrangementBy": "Masatomi Waki",
+    "imageUrl": "/images/songs/hololive-dreams-song-asuiroclearsky.webp",
+    "imageAlt": "AsuiroClearSky cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/8be6a790d598460f9d9b3e5777baae3f/%E3%81%82%E3%81%99%E3%81%84%E3%82%8DClearSky.png"
+  },
+  {
+    "id": 6,
+    "title": "Shiny Smily Story (2022 ver.)",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "Yoshifumi Kanamaru",
+    "musicBy": "Ryota Nakano",
+    "arrangementBy": "Tomohiro Akiura",
+    "imageUrl": "/images/songs/hololive-dreams-song-shiny-smily-story-2022-ver.webp",
+    "imageAlt": "Shiny Smily Story (2022 ver.) cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/91627563df014e9b95a515dbdae4370b/Shiny%20Smily%20Story%20(2022%20ver.).png"
+  },
+  {
+    "id": 7,
+    "title": "Prism Melody",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "5u5h1",
+    "musicBy": "5u5h1",
+    "arrangementBy": "5u5h1",
+    "imageUrl": "/images/songs/hololive-dreams-song-prism-melody.webp",
+    "imageAlt": "Prism Melody cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/9346bed8efa343a892fea3ca7452d2fd/Prism%20Melody.png"
+  },
+  {
+    "id": 8,
+    "title": "Our Bright Parade",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "Shota Horie",
+    "musicBy": "Shota Horie",
+    "arrangementBy": "Shota Horie",
+    "imageUrl": "/images/songs/hololive-dreams-song-our-bright-parade.webp",
+    "imageAlt": "Our Bright Parade cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/769034f0b41d464dac98a9df9aefe139/Our%20Bright%20Parade.png"
+  },
+  {
+    "id": 9,
+    "title": "Capture the Moment",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "Yoshifumi Kanamaru,Ryota Nakano",
+    "musicBy": "Ryota Nakano",
+    "arrangementBy": "Ryota Nakano",
+    "imageUrl": "/images/songs/hololive-dreams-song-capture-the-moment.webp",
+    "imageAlt": "Capture the Moment cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/b12ca19d6ab244198d1c10d1736bca32/Capture%20the%20Moment.png"
+  },
+  {
+    "id": 10,
+    "title": "Color Rise Harmony",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "Nanahoshi Orchestra",
+    "musicBy": "Takashi Iwami",
+    "arrangementBy": "Nanahoshi Orchestra",
+    "imageUrl": "/images/songs/hololive-dreams-song-color-rise-harmony.webp",
+    "imageAlt": "Color Rise Harmony cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/3686f8357c3743858b695c511913d671/Color%20Rise%20Harmony.png"
+  },
+  {
+    "id": 11,
+    "title": "Ridin' on Dreams",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "Ryuki Koike",
+    "musicBy": "Ryuki Koike",
+    "arrangementBy": "Ryuki Koike, Kazuki Kumagai, Ryuta Aoki",
+    "imageUrl": "/images/songs/hololive-dreams-song-ridin-on-dreams.webp",
+    "imageAlt": "Ridin' on Dreams cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/d772150e494640dea42a8914af8be820/Ridin'%20on%20Dreams.png"
+  },
+  {
+    "id": 12,
+    "title": "BLUE CLAPPER",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "PandaBoY",
+    "musicBy": "PandaBoY",
+    "arrangementBy": "PandaBoY",
+    "imageUrl": "/images/songs/hololive-dreams-song-blue-clapper.webp",
+    "imageAlt": "BLUE CLAPPER cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2eec6571798f4280b38a20b744cc0f32/BLUE%20CLAPPER.png"
+  },
+  {
+    "id": 13,
+    "title": "yumeiro wonder",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "yashikin（F.M.F）",
+    "musicBy": "Sonosuke Takao（F.M.F）",
+    "arrangementBy": "Sonosuke Takao（F.M.F）",
+    "imageUrl": "/images/songs/hololive-dreams-song-yumeiro-wonder.webp",
+    "imageAlt": "yumeiro wonder cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/84330cb7db5346de8879d6437f872595/%E5%A4%A2%E8%89%B2%E3%83%AF%E3%83%B3%E3%82%BF%E3%82%99%E3%83%BC.png"
+  },
+  {
+    "id": 14,
+    "title": "Gimmick Gimmick Entertainment",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "Makoto Aoyagi",
+    "musicBy": "Makoto Aoyagi",
+    "arrangementBy": "Makoto Aoyagi",
+    "imageUrl": "/images/songs/hololive-dreams-song-gimmick-gimmick-entertainment.webp",
+    "imageAlt": "Gimmick Gimmick Entertainment cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/3c602ced22ba45ed9439af87d65bba10/%E3%82%AD%E3%82%99%E3%83%9F%E3%82%AD%E3%82%99%E3%83%9F%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%A1%E3%83%B3%E3%83%88.png"
+  },
+  {
+    "id": 15,
+    "title": "Dream☆Story",
+    "performer": "Tokino Sora",
+    "type": "Original",
+    "lyricsBy": "kinoshita",
+    "musicBy": "kinoshita",
+    "arrangementBy": "kinoshita",
+    "imageUrl": "/images/songs/hololive-dreams-song-dream-story.webp",
+    "imageAlt": "Dream☆Story cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/37620077a93d460b925f68fb2831a576/Dream%E2%98%86Story.png"
+  },
+  {
+    "id": 16,
+    "title": "Star,star,start",
+    "performer": "Tokino Sora",
+    "type": "Original",
+    "lyricsBy": "Nayutan Seijin",
+    "musicBy": "Nayutan Seijin",
+    "arrangementBy": "Nayutan Seijin",
+    "imageUrl": "/images/songs/hololive-dreams-song-star-star-start.webp",
+    "imageAlt": "Star,star,start cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/50974520ef72470eb9c53e9fd6d35a52/img_music_jacket_m0072.png"
+  },
+  {
+    "id": 17,
+    "title": "rirubi",
+    "performer": "Robocosan",
+    "type": "Original",
+    "lyricsBy": "teniwoha",
+    "musicBy": "teniwoha",
+    "arrangementBy": "teniwoha",
+    "imageUrl": "/images/songs/hololive-dreams-song-rirubi.webp",
+    "imageAlt": "rirubi cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/3e836f659ad64429afd3c91526541bd8/%E3%83%AA%E3%83%AB%E3%83%92%E3%82%99.png"
+  },
+  {
+    "id": 18,
+    "title": "ω cat",
+    "performer": "AZKi",
+    "type": "Original",
+    "lyricsBy": "Nayutan Seijin",
+    "musicBy": "Nayutan Seijin",
+    "arrangementBy": "Nayutan Seijin",
+    "imageUrl": "/images/songs/hololive-dreams-song-cat.webp",
+    "imageAlt": "ω cat cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/c88ae46d1f0142e4a8c4c804d782e6b9/%CF%89%E7%8C%AB.png"
+  },
+  {
+    "id": 19,
+    "title": "Inochi(2024 ver.)",
+    "performer": "AZKi",
+    "type": "Original",
+    "lyricsBy": "Wataru Sena(SOVA)",
+    "musicBy": "Wataru Sena(SOVA)",
+    "arrangementBy": "Wataru Sena(SOVA)",
+    "imageUrl": "/images/songs/hololive-dreams-song-inochi-2024-ver.webp",
+    "imageAlt": "Inochi(2024 ver.) cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/b37264f86c184c11b146b9e1b248dfb5/%E3%81%84%E3%81%AE%E3%81%A1(2024%20ver.).png"
+  },
+  {
+    "id": 20,
+    "title": "flower rhapsody",
+    "performer": "Sakura Miko",
+    "type": "Original",
+    "lyricsBy": "Shota Horie",
+    "musicBy": "Shota Horie",
+    "arrangementBy": "John Kanda",
+    "imageUrl": "/images/songs/hololive-dreams-song-flower-rhapsody.webp",
+    "imageAlt": "flower rhapsody cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/9411009d6ce043499f3b74b4f964c351/flower%20rhapsody.png"
+  },
+  {
+    "id": 21,
+    "title": "DAI DAI DAI Fantasista",
+    "performer": "Sakura Miko",
+    "type": "Original",
+    "lyricsBy": "JIN",
+    "musicBy": "JIN",
+    "arrangementBy": "JIN",
+    "imageUrl": "/images/songs/hololive-dreams-song-dai-dai-dai-fantasista.webp",
+    "imageAlt": "DAI DAI DAI Fantasista cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/ca4aa252be7541718c308c0a9343b659/DAI%20DAI%20DAI%20%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B7%E3%82%99%E3%82%B9%E3%82%BF.png"
+  },
+  {
+    "id": 22,
+    "title": "Stellar Stellar",
+    "performer": "Hoshimachi Suisei",
+    "type": "Original",
+    "lyricsBy": "Hoshimachi Suisei",
+    "musicBy": "TAKU INOUE",
+    "arrangementBy": "TAKU INOUE",
+    "imageUrl": "/images/songs/hololive-dreams-song-stellar-stellar.webp",
+    "imageAlt": "Stellar Stellar cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/fc18811691ea4d219515e08f06958725/Stellar%20Stellar.png"
+  },
+  {
+    "id": 23,
+    "title": "BIBBIDIBA",
+    "performer": "Hoshimachi Suisei",
+    "type": "Original",
+    "lyricsBy": "tsumiki",
+    "musicBy": "tsumiki",
+    "arrangementBy": "tsumiki",
+    "imageUrl": "/images/songs/hololive-dreams-song-bibbidiba.webp",
+    "imageAlt": "BIBBIDIBA cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/0cf57835f6f040d1bcc0bd730afe27a3/%E3%83%92%E3%82%99%E3%83%92%E3%82%99%E3%83%86%E3%82%99%E3%83%8F%E3%82%99.png"
+  },
+  {
+    "id": 24,
+    "title": "SHALLYS",
+    "performer": "Aki Rosenthal",
+    "type": "Original",
+    "lyricsBy": "as",
+    "musicBy": "kotokI",
+    "arrangementBy": "kotokI",
+    "imageUrl": "/images/songs/hololive-dreams-song-shallys.webp",
+    "imageAlt": "SHALLYS cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/a2a86bb33b474a909ee174fdf98119ce/%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%A4%E3%83%BC%E3%82%B9.png"
+  },
+  {
+    "id": 25,
+    "title": "sensation -KANSHOKU-",
+    "performer": "Akai Haato",
+    "type": "Original",
+    "lyricsBy": "Kai Shiono",
+    "musicBy": "Kai Shiono",
+    "arrangementBy": "Kai Shiono",
+    "imageUrl": "/images/songs/hololive-dreams-song-sensation-kanshoku.webp",
+    "imageAlt": "sensation -KANSHOKU- cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/4213fd7cc67740b19290e09583cfe65b/%E6%84%9F%E8%A7%A6.png"
+  },
+  {
+    "id": 26,
+    "title": "SUPERNOVA",
+    "performer": "Shirakami Fubuki",
+    "type": "Original",
+    "lyricsBy": "Ryuki Koike",
+    "musicBy": "Ryuki Koike",
+    "arrangementBy": "Ryuki Koike",
+    "imageUrl": "/images/songs/hololive-dreams-song-supernova.webp",
+    "imageAlt": "SUPERNOVA cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/80e165592147406f8fa0f617bd779be0/SUPERNOVA.png"
+  },
+  {
+    "id": 27,
+    "title": "Virtualove",
+    "performer": "Natsuiro Matsuri",
+    "type": "Original",
+    "lyricsBy": "Medansy",
+    "musicBy": "Medansy",
+    "arrangementBy": "Medansy",
+    "imageUrl": "/images/songs/hololive-dreams-song-virtualove.webp",
+    "imageAlt": "Virtualove cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/d5fec6c5005f4171a15bd29543d8f3d0/%E3%81%AF%E3%82%99%E3%83%BC%E3%81%A1%E3%82%83%E3%82%89%E3%81%B5%E3%82%99.png"
+  },
+  {
+    "id": 28,
+    "title": "Yoi no Yo, Yoi!",
+    "performer": "Nakiri Ayame",
+    "type": "Original",
+    "lyricsBy": "Masahiro Takeda(Dream Monster)",
+    "musicBy": "Masahiro Takeda(Dream Monster)",
+    "arrangementBy": "Masahiro Takeda(Dream Monster)",
+    "imageUrl": "/images/songs/hololive-dreams-song-yoi-no-yo-yoi.webp",
+    "imageAlt": "Yoi no Yo, Yoi! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/8a03be0449f746199cf3292b260b94c7/%E5%AE%B5%E3%81%AE%E4%BD%99%E3%80%81%E8%89%AF%E3%81%84%EF%BC%81.png"
+  },
+  {
+    "id": 29,
+    "title": "NoDistance",
+    "performer": "Yuzuki Choco",
+    "type": "Original",
+    "lyricsBy": "shinji suzuki",
+    "musicBy": "shinji suzuki",
+    "arrangementBy": "shinji suzuki",
+    "imageUrl": "/images/songs/hololive-dreams-song-nodistance.webp",
+    "imageAlt": "NoDistance cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/26636553903e45b7b125c2c6faa57a8e/NoDistance.png"
+  },
+  {
+    "id": 30,
+    "title": "Pleiades!",
+    "performer": "Oozora Subaru",
+    "type": "Original",
+    "lyricsBy": "Mitsu（TRYTONELABO）",
+    "musicBy": "ShunsukeTakizawa（TRYTONELABO）",
+    "arrangementBy": "ShunsukeTakizawa（TRYTONELABO）",
+    "imageUrl": "/images/songs/hololive-dreams-song-pleiades.webp",
+    "imageAlt": "Pleiades! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/c6cecaace324451bb79ee0b012fef6c8/%E3%81%B5%E3%82%9A%E3%83%BB%E3%82%8C%E3%83%BB%E3%81%82%E3%83%BB%E3%81%A6%E3%82%99%E3%83%BB%E3%81%99%EF%BC%81.png"
+  },
+  {
+    "id": 31,
+    "title": "Howling",
+    "performer": "Ookami Mio",
+    "type": "Original",
+    "lyricsBy": "ZAQ",
+    "musicBy": "ZAQ",
+    "arrangementBy": "KanadeYUK",
+    "imageUrl": "/images/songs/hololive-dreams-song-howling.webp",
+    "imageAlt": "Howling cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/cff3810f29b94989b1008941e2a4e407/Howling.png"
+  },
+  {
+    "id": 32,
+    "title": "Colorful Universe",
+    "performer": "Ookami Mio",
+    "type": "Original",
+    "lyricsBy": "Kazuma Ito",
+    "musicBy": "Kazuma Ito",
+    "arrangementBy": "Kazuma Ito",
+    "imageUrl": "/images/songs/hololive-dreams-song-colorful-universe.webp",
+    "imageAlt": "Colorful Universe cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/d91a5458a2164a15a44ec34ab381f859/Colorful%20Universe.png"
+  },
+  {
+    "id": 33,
+    "title": "Mogu Mogu YUMMY！",
+    "performer": "Nekomata Okayu",
+    "type": "Original",
+    "lyricsBy": "PinocchioP",
+    "musicBy": "PinocchioP",
+    "arrangementBy": "PinocchioP",
+    "imageUrl": "/images/songs/hololive-dreams-song-mogu-mogu-yummy.webp",
+    "imageAlt": "Mogu Mogu YUMMY！ cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/23c1072ad2d14f5b88c63ab299314d61/%E3%82%82%E3%81%8F%E3%82%99%E3%82%82%E3%81%8F%E3%82%99YUMMY%EF%BC%81.png"
+  },
+  {
+    "id": 34,
+    "title": "Neko Kaburi-Na",
+    "performer": "Nekomata Okayu",
+    "type": "Original",
+    "lyricsBy": "PinocchioP",
+    "musicBy": "PinocchioP",
+    "arrangementBy": "PinocchioP",
+    "imageUrl": "/images/songs/hololive-dreams-song-neko-kaburi-na.webp",
+    "imageAlt": "Neko Kaburi-Na cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/4af59b3d97be4486a1b4967d62230ba6/%E3%83%8D%E3%82%B3%E3%82%AB%E3%83%95%E3%82%99%E3%83%AA%E3%83%BC%E3%83%8A.png"
+  },
+  {
+    "id": 35,
+    "title": "Doggy god's street",
+    "performer": "Inugami Korone",
+    "type": "Original",
+    "lyricsBy": "TOPHAMHAT-KYO",
+    "musicBy": "FAKE TYPE.",
+    "arrangementBy": "DYES IWASAKI",
+    "imageUrl": "/images/songs/hololive-dreams-song-doggy-god-s-street.webp",
+    "imageAlt": "Doggy god's street cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/5727c61fd61349d0b63a1eceba41843c/Doggy%20god's%20street.png"
+  },
+  {
+    "id": 36,
+    "title": "PEKORANDOMBRAIN",
+    "performer": "Usada Pekora",
+    "type": "Original",
+    "lyricsBy": "Aki Hata",
+    "musicBy": "Shunryu",
+    "arrangementBy": "Yoru",
+    "imageUrl": "/images/songs/hololive-dreams-song-pekorandombrain.webp",
+    "imageAlt": "PEKORANDOMBRAIN cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/10ab7efdda44468f939f28d45650b2c2/%E3%81%B8%E3%82%9A%E3%81%93%E3%82%89%E3%82%93%E3%81%9F%E3%82%99%E3%82%80%E3%81%B5%E3%82%99%E3%82%8C%E3%81%84%E3%82%93!.png"
+  },
+  {
+    "id": 37,
+    "title": "ZenjinruiUsagikakeikaku!",
+    "performer": "Usada Pekora",
+    "type": "Original",
+    "lyricsBy": "Kenichi Maeyamada",
+    "musicBy": "Kenichi Maeyamada",
+    "arrangementBy": "Tota Fujiwara",
+    "imageUrl": "/images/songs/hololive-dreams-song-zenjinruiusagikakeikaku.webp",
+    "imageAlt": "ZenjinruiUsagikakeikaku! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/4dabe8d7c81c47e28361b73cb12ae1a4/%E5%85%A8%E4%BA%BA%E9%A1%9E%E3%80%80%E5%85%8E%E5%8C%96%E8%A8%88%E7%94%BB%EF%BC%81.png"
+  },
+  {
+    "id": 38,
+    "title": "Zenryoku-Jumping!",
+    "performer": "Shiranui Flare",
+    "type": "Original",
+    "lyricsBy": "Ayato Shinozaki、Ryousuke Tachibana",
+    "musicBy": "Ayato Shinozaki、Ryousuke Tachibana",
+    "arrangementBy": "Ayato Shinozaki、Ryousuke Tachibana",
+    "imageUrl": "/images/songs/hololive-dreams-song-zenryoku-jumping.webp",
+    "imageAlt": "Zenryoku-Jumping! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/59132d2d23d74005ac13b8dddc0dbd51/%E5%85%A8%E5%8A%9B%E3%82%B7%E3%82%99%E3%83%A3%E3%83%B3%E3%83%92%E3%82%9A%E3%83%B3%E3%82%AF%E3%82%99%EF%BC%81.png"
+  },
+  {
+    "id": 39,
+    "title": "Gyu-Don Carnival!",
+    "performer": "Shirogane Noel",
+    "type": "Original",
+    "lyricsBy": "MARON (IOSYS)",
+    "musicBy": "MARON (IOSYS)",
+    "arrangementBy": "MARON (IOSYS)",
+    "imageUrl": "/images/songs/hololive-dreams-song-gyu-don-carnival.webp",
+    "imageAlt": "Gyu-Don Carnival! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2189bb8e398b4aef93b8b858ca6e4867/%E3%81%8D%E3%82%99%E3%82%85%E3%83%BC%E3%81%A8%E3%82%99%E3%82%93%E3%81%8B%E3%83%BC%E3%81%AB%E3%81%AF%E3%82%99%E3%82%8B%EF%BC%81.png"
+  },
+  {
+    "id": 40,
+    "title": "Ahoy!! We are Houshou Pirates",
+    "performer": "Houshou Marine",
+    "type": "Original",
+    "lyricsBy": "Maron (IOSYS)",
+    "musicBy": "ARM (IOSYS)",
+    "arrangementBy": "ARM (IOSYS)",
+    "imageUrl": "/images/songs/hololive-dreams-song-ahoy-we-are-houshou-pirates.webp",
+    "imageAlt": "Ahoy!! We are Houshou Pirates cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2adbb0d9ae8c48a0944da10b80a820ce/Ahoy!!%20%E6%88%91%E3%82%89%E5%AE%9D%E9%90%98%E6%B5%B7%E8%B3%8A%E5%9B%A3%E2%98%86.png"
+  },
+  {
+    "id": 41,
+    "title": "Bishoujyo Muzai♡Pirates",
+    "performer": "Houshou Marine",
+    "type": "Original",
+    "lyricsBy": "Nanahoshi Orchestra",
+    "musicBy": "Takashi Iwami",
+    "arrangementBy": "Nanahoshi Orchestra",
+    "imageUrl": "/images/songs/hololive-dreams-song-bishoujyo-muzai-pirates.webp",
+    "imageAlt": "Bishoujyo Muzai♡Pirates cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/becc021f4ac9442f80197857ed436120/%E7%BE%8E%E5%B0%91%E5%A5%B3%E7%84%A1%E7%BD%AA%E2%99%A1%E3%83%8F%E3%82%9A%E3%82%A4%E3%83%AC%E3%83%BC%E3%83%84.png"
+  },
+  {
+    "id": 42,
+    "title": "My song",
+    "performer": "Tsunomaki Watame",
+    "type": "Original",
+    "lyricsBy": "Tabuchi Tomoya",
+    "musicBy": "Shota Horie",
+    "arrangementBy": "Shota Horie",
+    "imageUrl": "/images/songs/hololive-dreams-song-my-song.webp",
+    "imageAlt": "My song cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/68962e5238c8480c94cf874690de5158/img_music_jacket_m0037.png"
+  },
+  {
+    "id": 43,
+    "title": "What an amazing swing",
+    "performer": "Tsunomaki Watame",
+    "type": "Original",
+    "lyricsBy": "TOPHAMHAT-KYO (FAKE TYPE.)",
+    "musicBy": "FAKE TYPE.",
+    "arrangementBy": "DYES IWASAKI (FAKE TYPE.)",
+    "imageUrl": "/images/songs/hololive-dreams-song-what-an-amazing-swing.webp",
+    "imageAlt": "What an amazing swing cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/565842616ddb465abf71fdf01f315796/What%20an%20amazing%20swing.png"
+  },
+  {
+    "id": 44,
+    "title": "Palette",
+    "performer": "Tokoyami Towa",
+    "type": "Original",
+    "lyricsBy": "Tokoyami Towa",
+    "musicBy": "niki",
+    "arrangementBy": "niki",
+    "imageUrl": "/images/songs/hololive-dreams-song-palette.webp",
+    "imageAlt": "Palette cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/1310498c4f1a4fb58813544f023f35c8/Palette.png"
+  },
+  {
+    "id": 45,
+    "title": "Escort me! Luknight",
+    "performer": "Himemori Luna",
+    "type": "Original",
+    "lyricsBy": "Nanahoshi Orchestra",
+    "musicBy": "Iwami Takashi",
+    "arrangementBy": "Nanahoshi Orchestra",
+    "imageUrl": "/images/songs/hololive-dreams-song-escort-me-luknight.webp",
+    "imageAlt": "Escort me! Luknight cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/65c1d9462f9f464295165ec1a758bf5a/%E5%AE%88%E8%AD%B7%E3%81%A3%E3%81%A6%E3%83%AB%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%88.png"
+  },
+  {
+    "id": 46,
+    "title": "Asuenokyokaisen",
+    "performer": "Yukihana Lamy",
+    "type": "Original",
+    "lyricsBy": "ENA",
+    "musicBy": "Hiroshi Sasaki",
+    "arrangementBy": "Hiroshi Sasaki",
+    "imageUrl": "/images/songs/hololive-dreams-song-asuenokyokaisen.webp",
+    "imageAlt": "Asuenokyokaisen cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/8e61f7838b3d4a95a66f4ad5226b096e/%E6%98%8E%E6%97%A5%E3%81%B8%E3%81%AE%E5%A2%83%E7%95%8C%E7%B7%9A.png"
+  },
+  {
+    "id": 47,
+    "title": "NENENENENENENENE!DAIBAKUSOU",
+    "performer": "Momosuzu Nene",
+    "type": "Original",
+    "lyricsBy": "Hige Driver",
+    "musicBy": "Hige Driver",
+    "arrangementBy": "Hige Driver",
+    "imageUrl": "/images/songs/hololive-dreams-song-nenenenenenenene-daibakusou.webp",
+    "imageAlt": "NENENENENENENENE!DAIBAKUSOU cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/304123edcf114386acebb19d9a50f0ea/%E3%81%AD%E3%81%AD%E3%81%AD%E3%81%AD%E3%81%AD%E3%81%AD%E3%81%AD%E3%81%AD%EF%BC%81%E5%A4%A7%E7%88%86%E8%B5%B0.png"
+  },
+  {
+    "id": 48,
+    "title": "Lioness’ Pride",
+    "performer": "Shishiro Botan",
+    "type": "Original",
+    "lyricsBy": "Camellia",
+    "musicBy": "Camellia",
+    "arrangementBy": "Camellia",
+    "imageUrl": "/images/songs/hololive-dreams-song-lioness-pride.webp",
+    "imageAlt": "Lioness’ Pride cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/dfe59128c8b44ba4adae898a7ad86019/Lioness%E2%80%99%20Pride.png"
+  },
+  {
+    "id": 49,
+    "title": "Po",
+    "performer": "Omaru Polka",
+    "type": "Original",
+    "lyricsBy": "Rish",
+    "musicBy": "Rish",
+    "arrangementBy": "Rish",
+    "imageUrl": "/images/songs/hololive-dreams-song-po.webp",
+    "imageAlt": "Po cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/64c23f895ed0444b92811c50ecec5066/%E3%81%BB%E3%82%9A.png"
+  },
+  {
+    "id": 50,
+    "title": "Not Interested",
+    "performer": "La+ Darknesss",
+    "type": "Original",
+    "lyricsBy": "jon-YAKITORY",
+    "musicBy": "jon-YAKITORY",
+    "arrangementBy": "jon-YAKITORY",
+    "imageUrl": "/images/songs/hololive-dreams-song-not-interested.webp",
+    "imageAlt": "Not Interested cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/df5e6554e3ac43b9a144ec97b67fd214/%E8%88%88%E5%91%B3%E3%81%AA%E3%81%84%E3%82%88.png"
+  },
+  {
+    "id": 51,
+    "title": "Overd",
+    "performer": "Takane Lui",
+    "type": "Original",
+    "lyricsBy": "Hiiragi Kirai",
+    "musicBy": "Hiiragi Kirai",
+    "arrangementBy": "Hiiragi Kirai",
+    "imageUrl": "/images/songs/hololive-dreams-song-overd.webp",
+    "imageAlt": "Overd cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/c73903ea5bcd49d7a0940c084b333a11/%E3%82%AA%E3%83%BC%E3%83%8F%E3%82%99%E3%83%BC%E3%83%88%E3%82%99.png"
+  },
+  {
+    "id": 52,
+    "title": "WAO!!(2025 ver.)",
+    "performer": "Hakui Koyori",
+    "type": "Original",
+    "lyricsBy": "DECO*27 (OTOIRO)",
+    "musicBy": "DECO*27 (OTOIRO)",
+    "arrangementBy": "Rockwell",
+    "imageUrl": "/images/songs/hololive-dreams-song-wao-2025-ver.webp",
+    "imageAlt": "WAO!!(2025 ver.) cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/1dc1069293e449d489760fca9a6a7cbe/WAO!!(2025%20ver.).png"
+  },
+  {
+    "id": 53,
+    "title": "IrohaStep!",
+    "performer": "Kazama Iroha",
+    "type": "Original",
+    "lyricsBy": "40mP",
+    "musicBy": "40mP",
+    "arrangementBy": "40mP",
+    "imageUrl": "/images/songs/hololive-dreams-song-irohastep.webp",
+    "imageAlt": "IrohaStep! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/85b3ef70e2ed45f1a1c45e53e1c13d5f/%E3%81%84%E3%82%8D%E3%81%AF%E3%81%99%E3%81%A6%E3%81%A3%E3%81%B5%E3%82%9A%EF%BC%81.png"
+  },
+  {
+    "id": 54,
+    "title": "ALiCE&u",
+    "performer": "Ayunda Risu",
+    "type": "Original",
+    "lyricsBy": "Ayunda Risu / Feryquitous",
+    "musicBy": "Feryquitous",
+    "arrangementBy": "Feryquitous",
+    "imageUrl": "/images/songs/hololive-dreams-song-alice-and-u.webp",
+    "imageAlt": "ALiCE&u cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/50aae6d97450477ea61f1eaafe61867a/ALiCE%26u.png"
+  },
+  {
+    "id": 55,
+    "title": "High Tide",
+    "performer": "Moona Hoshinova",
+    "type": "Original",
+    "lyricsBy": "ZSunder",
+    "musicBy": "ZSunder",
+    "arrangementBy": "ZSunder",
+    "imageUrl": "/images/songs/hololive-dreams-song-high-tide.webp",
+    "imageAlt": "High Tide cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/aa564d4bc55f45a9b1fdedd83f8ae446/High%20Tide.png"
+  },
+  {
+    "id": 56,
+    "title": "Q&A=E",
+    "performer": "Airani Iofifteen",
+    "type": "Original",
+    "lyricsBy": "Junky",
+    "musicBy": "Junky",
+    "arrangementBy": "Junky",
+    "imageUrl": "/images/songs/hololive-dreams-song-q-and-a-e.webp",
+    "imageAlt": "Q&A=E cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/ed5ccd1db764408cac9517d7d0e408e2/Q%26A%3DE.png"
+  },
+  {
+    "id": 57,
+    "title": "JOLLIE JOLLIE",
+    "performer": "Kureiji Ollie",
+    "type": "Original",
+    "lyricsBy": "KOTONOHOUSE",
+    "musicBy": "KOTONOHOUSE",
+    "arrangementBy": "KOTONOHOUSE",
+    "imageUrl": "/images/songs/hololive-dreams-song-jollie-jollie.webp",
+    "imageAlt": "JOLLIE JOLLIE cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/a56322fe90bb4578aea38ee70574620e/JOLLIE%20JOLLIE.png"
+  },
+  {
+    "id": 58,
+    "title": "Unreal Veil",
+    "performer": "Anya Melfissa",
+    "type": "Original",
+    "lyricsBy": "Bocchi Boromaru",
+    "musicBy": "Bocchi Boromaru",
+    "arrangementBy": "HAMA-kgn (Felion Sounds)",
+    "imageUrl": "/images/songs/hololive-dreams-song-unreal-veil.webp",
+    "imageAlt": "Unreal Veil cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/d98af9cd770c43d2a36a58002337b825/%E3%82%A2%E3%83%B3%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%A6%E3%82%99%E3%82%A7%E3%82%A4%E3%83%AB.png"
+  },
+  {
+    "id": 59,
+    "title": "Gate Open: START!",
+    "performer": "Pavolia Reine",
+    "type": "Original",
+    "lyricsBy": "Farhan Sarasin , Pavolia Reine",
+    "musicBy": "Farhan Sarasin",
+    "arrangementBy": "Farhan Sarasin",
+    "imageUrl": "/images/songs/hololive-dreams-song-gate-open-start.webp",
+    "imageAlt": "Gate Open: START! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/35500b36c098444eb25b1dccc0d6bbb7/Gate%20Open%E3%80%80START!.png"
+  },
+  {
+    "id": 60,
+    "title": "You're Mine",
+    "performer": "Vestia Zeta",
+    "type": "Original",
+    "lyricsBy": "arvin home aya",
+    "musicBy": "Yusuke Nakamura a.k.a ynkmr.(BLU-SWING)",
+    "arrangementBy": "Yusuke Nakamura a.k.a ynkmr.(BLU-SWING)",
+    "imageUrl": "/images/songs/hololive-dreams-song-you-re-mine.webp",
+    "imageAlt": "You're Mine cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/37926ade9380453fb1f4752dbce82be8/You're%20Mine.png"
+  },
+  {
+    "id": 61,
+    "title": "dahlah.",
+    "performer": "Kaela Kovalskia",
+    "type": "Original",
+    "lyricsBy": "Prince Husein,Kaela Kovalskia",
+    "musicBy": "Eka Gustiwana,Prince Husein",
+    "arrangementBy": "Eka Gustiwana",
+    "imageUrl": "/images/songs/hololive-dreams-song-dahlah.webp",
+    "imageAlt": "dahlah. cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/da527c0d04e149d7849020a154f89ac9/dahlah..png"
+  },
+  {
+    "id": 62,
+    "title": "Mantra Hujan",
+    "performer": "Kobo Kanaeru",
+    "type": "Original",
+    "lyricsBy": "Kobo Kanaeru",
+    "musicBy": "Kobo Kanaeru",
+    "arrangementBy": "Matalino Musicworks",
+    "imageUrl": "/images/songs/hololive-dreams-song-mantra-hujan.webp",
+    "imageAlt": "Mantra Hujan cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/7daf6d7fef904158b6a1cf8ae837d029/Mantra%20Hujan.png"
+  },
+  {
+    "id": 63,
+    "title": "Excuse My Rudeness, But Could You Please RIP?",
+    "performer": "Mori Calliope",
+    "type": "Original",
+    "lyricsBy": "Mori Calliope",
+    "musicBy": "K’s",
+    "arrangementBy": "K’s",
+    "imageUrl": "/images/songs/hololive-dreams-song-excuse-my-rudeness-but-could-you-please-rip.webp",
+    "imageAlt": "Excuse My Rudeness, But Could You Please RIP? cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/9ac864d495fb4c99aeda9d9694ac133c/%E5%A4%B1%E7%A4%BC%E3%81%97%E3%81%BE%E3%81%99%E3%81%8B%E3%82%99%E3%80%81RIP%E2%99%A1.png"
+  },
+  {
+    "id": 64,
+    "title": "DEAD BEATS",
+    "performer": "Mori Calliope",
+    "type": "Original",
+    "lyricsBy": "Mori Calliope",
+    "musicBy": "Mori Calliope & K’s",
+    "arrangementBy": "Mori Calliope & K’s",
+    "imageUrl": "/images/songs/hololive-dreams-song-dead-beats.webp",
+    "imageAlt": "DEAD BEATS cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/a4ee0078128b4b34a79cd86e258527d5/DEAD%20BEATS.png"
+  },
+  {
+    "id": 65,
+    "title": "SPARKS",
+    "performer": "Takanashi Kiara",
+    "type": "Original",
+    "lyricsBy": "KIRA",
+    "musicBy": "KIRA",
+    "arrangementBy": "KIRA",
+    "imageUrl": "/images/songs/hololive-dreams-song-sparks.webp",
+    "imageAlt": "SPARKS cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/eb5d266c2b844dc9afc73e7100cc79cb/SPARKS.png"
+  },
+  {
+    "id": 66,
+    "title": "VIOLET",
+    "performer": "Ninomae Ina'nis",
+    "type": "Original",
+    "lyricsBy": "LUMINA",
+    "musicBy": "seibin",
+    "arrangementBy": "seibin",
+    "imageUrl": "/images/songs/hololive-dreams-song-violet.webp",
+    "imageAlt": "VIOLET cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/bdeaefb87bc9487bb6fb55f8d518cfe6/VIOLET.png"
+  },
+  {
+    "id": 67,
+    "title": "Carbonated Love",
+    "performer": "IRyS",
+    "type": "Original",
+    "lyricsBy": "monii",
+    "musicBy": "Yasuhiro Gasa",
+    "arrangementBy": "Yasuhiro Gasa",
+    "imageUrl": "/images/songs/hololive-dreams-song-carbonated-love.webp",
+    "imageAlt": "Carbonated Love cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/dceb9ecbefa4414a94135edf759e56a4/Carbonated%20Love.png"
+  },
+  {
+    "id": 68,
+    "title": "Daydream",
+    "performer": "Ouro Kronii",
+    "type": "Original",
+    "lyricsBy": "Kota Morita",
+    "musicBy": "Tatsuya Yano",
+    "arrangementBy": "Tatsuya Yano",
+    "imageUrl": "/images/songs/hololive-dreams-song-daydream.webp",
+    "imageAlt": "Daydream cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/dea5a6332bbe4c129fc9bb5eebc34270/Daydream.png"
+  },
+  {
+    "id": 69,
+    "title": "PSYCHO",
+    "performer": "Hakos Baelz",
+    "type": "Original",
+    "lyricsBy": "ZAQ",
+    "musicBy": "HibikiTakahashi, Tom-H@ck",
+    "arrangementBy": "HibikiTakahashi",
+    "imageUrl": "/images/songs/hololive-dreams-song-psycho.webp",
+    "imageAlt": "PSYCHO cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/caf9a5a3499344108901f2dad8c35c4c/PSYCHO.png"
+  },
+  {
+    "id": 70,
+    "title": "Monsters and Men",
+    "performer": "Shiori Novella",
+    "type": "Original",
+    "lyricsBy": "monii",
+    "musicBy": "MELOIMAGE",
+    "arrangementBy": "MELOIMAGE",
+    "imageUrl": "/images/songs/hololive-dreams-song-monsters-and-men.webp",
+    "imageAlt": "Monsters and Men cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/1924b200f3154caba6c0c84ee1aec9bd/Monsters%20and%20Men.png"
+  },
+  {
+    "id": 71,
+    "title": "Prism no Mahou",
+    "performer": "Koseki Bijou",
+    "type": "Original",
+    "lyricsBy": "YUC’e",
+    "musicBy": "YUC’e",
+    "arrangementBy": "YUC’e",
+    "imageUrl": "/images/songs/hololive-dreams-song-prism-no-mahou.webp",
+    "imageAlt": "Prism no Mahou cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/567a43d0c6ab45c0812d95237669b0db/%E3%83%95%E3%82%9A%E3%83%AA%E3%82%B9%E3%82%99%E3%83%A0%E3%81%AE%E9%AD%94%E6%B3%95.png"
+  },
+  {
+    "id": 72,
+    "title": "Say My Name",
+    "performer": "Nerissa Ravencroft",
+    "type": "Original",
+    "lyricsBy": "Kris Roche, Nerissa Ravencroft",
+    "musicBy": "Kris Roche",
+    "arrangementBy": "Kris Roche",
+    "imageUrl": "/images/songs/hololive-dreams-song-say-my-name.webp",
+    "imageAlt": "Say My Name cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/7f04a07daeb94c36abb33cb6788f67ea/Say%20My%20Name.png"
+  },
+  {
+    "id": 73,
+    "title": "Lifetime Showtime",
+    "performer": "FUWAMOCO",
+    "type": "Original",
+    "lyricsBy": "Patra Suou, FUWAMOCO",
+    "musicBy": "Patra Suou",
+    "arrangementBy": "Patra Suou",
+    "imageUrl": "/images/songs/hololive-dreams-song-lifetime-showtime.webp",
+    "imageAlt": "Lifetime Showtime cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/b559a611a543423a854c6abc54ae6339/Lifetime%20Showtime.png"
+  },
+  {
+    "id": 74,
+    "title": "Born to be \"BAU\"DOL☆★",
+    "performer": "FUWAMOCO",
+    "type": "Original",
+    "lyricsBy": "PandaBoY",
+    "musicBy": "PandaBoY",
+    "arrangementBy": "PandaBoY",
+    "imageUrl": "/images/songs/hololive-dreams-song-born-to-be-bau-dol.webp",
+    "imageAlt": "Born to be \"BAU\"DOL☆★ cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/f2ba5a4c1e8846d9a8f43ec6b6351939/img_music_jacket_m0192.png"
+  },
+  {
+    "id": 75,
+    "title": "GREATEST",
+    "performer": "Otonose Kanade",
+    "type": "Original",
+    "lyricsBy": "Nanahoshi Orchestra",
+    "musicBy": "Iwami Takashi",
+    "arrangementBy": "Nanahoshi Orchestra",
+    "imageUrl": "/images/songs/hololive-dreams-song-greatest.webp",
+    "imageAlt": "GREATEST cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/49c9c16e9a8848d9893fdf37fa9b6f59/GREATEST.png"
+  },
+  {
+    "id": 76,
+    "title": "Kyoumodaitensai!",
+    "performer": "Ichijou Ririka",
+    "type": "Original",
+    "lyricsBy": "Ryuki Koike",
+    "musicBy": "Ryuki Koike",
+    "arrangementBy": "Ryuki Koike",
+    "imageUrl": "/images/songs/hololive-dreams-song-kyoumodaitensai.webp",
+    "imageAlt": "Kyoumodaitensai! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/796273fa2d30457fb9c00bdd3073d361/%E4%BB%8A%E6%97%A5%E3%82%82%E5%A4%A7%E5%A4%A9%E6%89%8D%E3%81%A3%EF%BC%81.png"
+  },
+  {
+    "id": 77,
+    "title": "Japan no bijutsushi oboemasho",
+    "performer": "Juufuutei Raden",
+    "type": "Original",
+    "lyricsBy": "Botchi Boromaru",
+    "musicBy": "Botchi Boromaru",
+    "arrangementBy": "Botchi Boromaru",
+    "imageUrl": "/images/songs/hololive-dreams-song-japan-no-bijutsushi-oboemasho.webp",
+    "imageAlt": "Japan no bijutsushi oboemasho cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2bae18c8f04e4e31b52fbe3d49010a75/JAPAN%E3%81%AE%E7%BE%8E%E8%A1%93%E5%8F%B2%E2%99%AA%E3%81%8A%C2%B7%E3%81%BB%E3%82%99%C2%B7%E3%81%88%C2%B7%E3%81%BE%C2%B7SHOW%EF%BC%81.png"
+  },
+  {
+    "id": 78,
+    "title": "Countach",
+    "performer": "Todoroki Hajime",
+    "type": "Original",
+    "lyricsBy": "Kenta Urashima",
+    "musicBy": "Yusuke Yamamoto",
+    "arrangementBy": "Yusuke Yamamoto",
+    "imageUrl": "/images/songs/hololive-dreams-song-countach.webp",
+    "imageAlt": "Countach cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/32123531d81d4d32903b2752f8d8b603/Countach.png"
+  },
+  {
+    "id": 79,
+    "title": "Myth or Treat",
+    "performer": "hololive English -Myth-",
+    "type": "Original",
+    "lyricsBy": "Mori Calliope",
+    "musicBy": "Farhan Sarasin",
+    "arrangementBy": "Farhan Sarasin",
+    "imageUrl": "/images/songs/hololive-dreams-song-myth-or-treat.webp",
+    "imageAlt": "Myth or Treat cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/5f8edfb4202441b2871d27fd7be68697/Myth%20or%20Treat.png"
+  },
+  {
+    "id": 80,
+    "title": "Secret Garden",
+    "performer": "hololive 1st Generation",
+    "type": "Original",
+    "lyricsBy": "Mayu Miyazaki",
+    "musicBy": "Mayu Miyazaki",
+    "arrangementBy": "Yasuhiro Gasa",
+    "imageUrl": "/images/songs/hololive-dreams-song-secret-garden.webp",
+    "imageAlt": "Secret Garden cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/37762ba493bb4c8b981612f2ddd8622e/Secret%20Garden.png"
+  },
+  {
+    "id": 81,
+    "title": "Jouya Repaint",
+    "performer": "Secret Society holoX",
+    "type": "Original",
+    "lyricsBy": "yuzen（Hifumi,inc.）",
+    "musicBy": "yuzen（Hifumi,inc.）",
+    "arrangementBy": "yuzen（Hifumi,inc.）",
+    "imageUrl": "/images/songs/hololive-dreams-song-jouya-repaint.webp",
+    "imageAlt": "Jouya Repaint cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/597c1bbbd8ab4885a64e4627e1cff5cb/%E5%B8%B8%E5%A4%9C%E3%83%AA%E3%83%98%E3%82%9A%E3%82%A4%E3%83%B3%E3%83%88.png"
+  },
+  {
+    "id": 82,
+    "title": "Bridal Dream",
+    "performer": "Usada Pekora, Houshou Marine",
+    "type": "Original",
+    "lyricsBy": "HoneyWorks, MARUMOCHI",
+    "musicBy": "HoneyWorks",
+    "arrangementBy": "HoneyWorks, MARUMOCHI",
+    "imageUrl": "/images/songs/hololive-dreams-song-bridal-dream.webp",
+    "imageAlt": "Bridal Dream cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/6b623ab465d84c87acba704e495bd832/%E3%83%95%E3%82%99%E3%83%A9%E3%82%A4%E3%82%BF%E3%82%99%E3%83%AB%E3%83%88%E3%82%99%E3%83%AA%E3%83%BC%E3%83%A0.png"
+  },
+  {
+    "id": 83,
+    "title": "Our Promise",
+    "performer": "hololive English -Promise-",
+    "type": "Original",
+    "lyricsBy": "noire",
+    "musicBy": "Jeremy Robson",
+    "arrangementBy": "Jeremy Robson",
+    "imageUrl": "/images/songs/hololive-dreams-song-our-promise.webp",
+    "imageAlt": "Our Promise cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/0dca15f0f559404ca79ea67394456469/Our%20Promise.png"
+  },
+  {
+    "id": 84,
+    "title": "Rebellion",
+    "performer": "hololive English -Advent-",
+    "type": "Original",
+    "lyricsBy": "Mas Kimura",
+    "musicBy": "yuichi yagi",
+    "arrangementBy": "yuichi yagi",
+    "imageUrl": "/images/songs/hololive-dreams-song-rebellion.webp",
+    "imageAlt": "Rebellion cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/4254a1f19bc242e2a667d1aa27327c48/Rebellion.png"
+  },
+  {
+    "id": 85,
+    "title": "HI-15",
+    "performer": "hololive Indonesia 1st Generation",
+    "type": "Original",
+    "lyricsBy": "Asuka Ogura(Hifumi,inc.), saji（Hifumi,inc.）,HIROAKI KATO",
+    "musicBy": "Ryohei Sataka",
+    "arrangementBy": "Ryohei Sataka",
+    "imageUrl": "/images/songs/hololive-dreams-song-hi-15.webp",
+    "imageAlt": "HI-15 cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/b41055be06bd4927992075b768193997/HI-15.png"
+  },
+  {
+    "id": 86,
+    "title": "Slap by Step",
+    "performer": "hololive Indonesia 2nd Generation",
+    "type": "Original",
+    "lyricsBy": "Ryosuke Goto, Muhammad Iqbal (ikkubaru)",
+    "musicBy": "Ryosuke Goto",
+    "arrangementBy": "Ryosuke Goto",
+    "imageUrl": "/images/songs/hololive-dreams-song-slap-by-step.webp",
+    "imageAlt": "Slap by Step cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/4dddbc02365243c7a03579e46801d6f0/Slap%20by%20Step.png"
+  },
+  {
+    "id": 87,
+    "title": "save our hearts",
+    "performer": "hololive Indonesia 3rd Generation",
+    "type": "Original",
+    "lyricsBy": "yuzen(Hifumi,inc.), Datenkou",
+    "musicBy": "yuzen(Hifumi,inc.)",
+    "arrangementBy": "yuzen(Hifumi,inc.)",
+    "imageUrl": "/images/songs/hololive-dreams-song-save-our-hearts.webp",
+    "imageAlt": "save our hearts cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/6ed012add32c44feb07d6a94409a0e11/save%20our%20hearts.png"
+  },
+  {
+    "id": 88,
+    "title": "Shunkan Heartbeat",
+    "performer": "ReGLOSS",
+    "type": "Original",
+    "lyricsBy": "OHTORA",
+    "musicBy": "OHTORA,maeshima soshi",
+    "arrangementBy": "maeshima soshi",
+    "imageUrl": "/images/songs/hololive-dreams-song-shunkan-heartbeat.webp",
+    "imageAlt": "Shunkan Heartbeat cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/9e67389df6fe42528f788da304622e18/%E7%9E%AC%E9%96%93%E3%83%8F%E3%83%BC%E3%83%88%E3%83%92%E3%82%99%E3%83%BC%E3%83%88.png"
+  },
+  {
+    "id": 89,
+    "title": "Setsunatick Code",
+    "performer": "SorAZ",
+    "type": "Original",
+    "lyricsBy": "Aiko Takase",
+    "musicBy": "Cher Watanabe",
+    "arrangementBy": "Cher Watanabe",
+    "imageUrl": "/images/songs/hololive-dreams-song-setsunatick-code.webp",
+    "imageAlt": "Setsunatick Code cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/d46005554bbb482b8ef7fdd79840352e/%E5%88%B9%E9%82%A3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B3%E3%83%BC%E3%83%88%E3%82%99.png"
+  },
+  {
+    "id": 90,
+    "title": "Suspect",
+    "performer": "hololive IDOL PROJECT",
+    "type": "Original",
+    "lyricsBy": "Kyota.",
+    "musicBy": "Kyota.",
+    "arrangementBy": "Kyota.",
+    "imageUrl": "/images/songs/hololive-dreams-song-suspect.webp",
+    "imageAlt": "Suspect cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/54adeccae6784b26b6b7f846333b7394/Suspect.png"
+  },
+  {
+    "id": 91,
+    "title": "NAKAMAKA",
+    "performer": "Shiranui Construction",
+    "type": "Original",
+    "lyricsBy": "Kissa Sasaki",
+    "musicBy": "Kissa Sasaki",
+    "arrangementBy": "Kissa Sasaki",
+    "imageUrl": "/images/songs/hololive-dreams-song-nakamaka.webp",
+    "imageAlt": "NAKAMAKA cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2902ebdfa1b7447b8797debb70ef014c/%E3%81%AA%E3%81%8B%E3%81%BE%E6%AD%8C.png"
+  },
+  {
+    "id": 92,
+    "title": "Wicked feat. Mori Calliope",
+    "performer": "Hoshimachi Suisei, Mori Calliope",
+    "type": "Original",
+    "lyricsBy": "Mori Calliope, HIROMI",
+    "musicBy": "Giga",
+    "arrangementBy": "Giga",
+    "imageUrl": "/images/songs/hololive-dreams-song-wicked-feat-mori-calliope.webp",
+    "imageAlt": "Wicked feat. Mori Calliope cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/aee8fd1ff3b94d00bbfec33ba826fa14/Wicked%20feat.%20Mori%20Calliope.png"
+  },
+  {
+    "id": 93,
+    "title": "ONIKEMODANCE",
+    "performer": "AyaFubuMi",
+    "type": "Original",
+    "lyricsBy": "PandaBoY",
+    "musicBy": "PandaBoY",
+    "arrangementBy": "PandaBoY",
+    "imageUrl": "/images/songs/hololive-dreams-song-onikemodance.webp",
+    "imageAlt": "ONIKEMODANCE cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/3cedde32a376460b88595ea86d055574/%E3%81%8A%E3%81%AB%E3%81%91%E3%82%82%E3%81%9F%E3%82%99%E3%82%93%E3%81%99.png"
+  },
+  {
+    "id": 94,
+    "title": "zigokudeaouze!subachocolunatan",
+    "performer": "subachocolunatan",
+    "type": "Original",
+    "lyricsBy": "Shichijo Lettuce",
+    "musicBy": "D.watt",
+    "arrangementBy": "D.watt",
+    "imageUrl": "/images/songs/hololive-dreams-song-zigokudeaouze-subachocolunatan.webp",
+    "imageAlt": "zigokudeaouze!subachocolunatan cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/0aa9e26254744b548374f90afe0f94f6/%E5%9C%B0%E7%8D%84%E3%81%A6%E3%82%99%E4%BC%9A%E3%81%8A%E3%81%86%E3%81%9B%E3%82%99%EF%BC%81%20%E3%82%B9%E3%83%8F%E3%82%99%E3%81%A1%E3%82%87%E3%81%93%E3%82%8B%E3%81%AA%E3%81%9F%E3%82%93.png"
+  },
+  {
+    "id": 95,
+    "title": "ORANGE PARADE feat. Inugami Korone",
+    "performer": "Nekomata Okayu, Inugami Korone",
+    "type": "Original",
+    "lyricsBy": "TOPHAMHAT-KYO",
+    "musicBy": "FAKE TYPE.",
+    "arrangementBy": "DYES IWASAKI",
+    "imageUrl": "/images/songs/hololive-dreams-song-orange-parade-feat-inugami-korone.webp",
+    "imageAlt": "ORANGE PARADE feat. Inugami Korone cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/b02f56c2145440c2ab0181305e5f5ddb/ORANGE%20PARADE%20feat.%E6%88%8C%E7%A5%9E%E3%81%93%E3%82%8D%E3%81%AD.png"
+  },
+  {
+    "id": 96,
+    "title": "I I I",
+    "performer": "Houshou Marine & Kobo Kanaeru",
+    "type": "Original",
+    "lyricsBy": "Sena Kiryuin",
+    "musicBy": "Giga",
+    "arrangementBy": "Giga",
+    "imageUrl": "/images/songs/hololive-dreams-song-i-i-i.webp",
+    "imageAlt": "I I I cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/fe01381ddfc546e190b865f97cb54186/III.png"
+  },
+  {
+    "id": 97,
+    "title": "Shishi Wata Cooking feat. Shishiro Botan",
+    "performer": "Tsunomaki Watame, Shishiro Botan",
+    "type": "Original",
+    "lyricsBy": "MARON (IOSYS)",
+    "musicBy": "REDALiCE",
+    "arrangementBy": "REDALiCE",
+    "imageUrl": "/images/songs/hololive-dreams-song-shishi-wata-cooking-feat-shishiro-botan.webp",
+    "imageAlt": "Shishi Wata Cooking feat. Shishiro Botan cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/276eb83e18dd48a584e8b8e90910c26c/%E3%81%97%E3%81%97%E3%82%8F%E3%81%9F%E3%82%AF%E3%83%83%E3%82%AD%E3%83%B3%E3%82%AF%E3%82%99%20feat.%E7%8D%85%E7%99%BD%E3%81%BB%E3%82%99%E3%81%9F%E3%82%93.png"
+  },
+  {
+    "id": 98,
+    "title": "Touch the hurt again",
+    "performer": "Blue Journey",
+    "type": "Original",
+    "lyricsBy": "Ren Nakai",
+    "musicBy": "Ren Nakai",
+    "arrangementBy": "Raku",
+    "imageUrl": "/images/songs/hololive-dreams-song-touch-the-hurt-again.webp",
+    "imageAlt": "Touch the hurt again cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/4aadcda2d8b14472975ba6218b2533a2/%E3%81%BE%E3%81%9F%E5%82%B7%E3%81%AB%E8%A7%A6%E3%82%8C%E3%82%8B.png"
+  },
+  {
+    "id": 99,
+    "title": "Stay Blue",
+    "performer": "Shiranui Flare & IRyS",
+    "type": "Original",
+    "lyricsBy": "Shingo Endo",
+    "musicBy": "Shingo Endo",
+    "arrangementBy": "Shingo Endo",
+    "imageUrl": "/images/songs/hololive-dreams-song-stay-blue.webp",
+    "imageAlt": "Stay Blue cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/472d6457d9544f97985ab4f32ce53698/%E9%9D%92%E3%81%8F%E5%9C%A8%E3%82%8C.png"
+  },
+  {
+    "id": 100,
+    "title": "Mikkorone×Showtime!!",
+    "performer": "Sakura Miko, Inugami Korone",
+    "type": "Original",
+    "lyricsBy": "MARON (IOSYS)",
+    "musicBy": "ARM (IOSYS)",
+    "arrangementBy": "ARM (IOSYS) ,Akai Ryusei",
+    "imageUrl": "/images/songs/hololive-dreams-song-mikkorone-showtime.webp",
+    "imageAlt": "Mikkorone×Showtime!! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/3198a9b33159456f8da9e76aab145b1b/%E3%81%BF%E3%81%A3%E3%81%93%E3%82%8D%E3%81%AD%C3%97%E3%81%97%E3%82%87%E3%81%86%E3%81%9F%E3%81%84%E3%82%80!!.png"
+  },
+  {
+    "id": 101,
+    "title": "ONINO UTAGE",
+    "performer": "Robocosan",
+    "type": "Cover",
+    "lyricsBy": "TOMONARISORA",
+    "musicBy": "TOMONARISORA",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-onino-utage.webp",
+    "imageAlt": "ONINO UTAGE cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/7a6ff28aa4a044e59609ca3b67f7d274/%E9%AC%BC%E3%83%8E%E5%AE%B4.png"
+  },
+  {
+    "id": 102,
+    "title": "Kimagure Mercy",
+    "performer": "Aki Rosenthal",
+    "type": "Cover",
+    "lyricsBy": "Hachioji P・q*Left",
+    "musicBy": "Hachioji P",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-kimagure-mercy.webp",
+    "imageAlt": "Kimagure Mercy cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/fb3ef5e618954905a1a17d27a46793b0/%E6%B0%97%E3%81%BE%E3%81%8F%E3%82%99%E3%82%8C%E3%83%A1%E3%83%AB%E3%82%B7%E3%82%A3.png"
+  },
+  {
+    "id": 103,
+    "title": "BUTASANDER",
+    "performer": "Akai Haato",
+    "type": "Cover",
+    "lyricsBy": "Yukopi",
+    "musicBy": "Yukopi",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-butasander.webp",
+    "imageAlt": "BUTASANDER cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/766f445536f8457cbf9355666b2572ca/%E3%83%95%E3%82%99%E3%82%BF%E3%82%B5%E3%83%B3%E3%82%BF%E3%82%99%E3%83%BC.png"
+  },
+  {
+    "id": 104,
+    "title": "Sʼil vous President",
+    "performer": "Shirakami Fubuki",
+    "type": "Cover",
+    "lyricsBy": "Nanahoshi Orchestra",
+    "musicBy": "Iwami Takashi",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-s-il-vous-president.webp",
+    "imageAlt": "Sʼil vous President cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/aa0ef353009e410e9905f00c332eceb6/%E3%82%B7%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%99%E3%83%BB%E3%83%95%E3%82%9A%E3%83%AC%E3%82%B7%E3%82%99%E3%83%86%E3%82%99%E3%83%B3%E3%83%88.png"
+  },
+  {
+    "id": 105,
+    "title": "DOUTAN KYOHI",
+    "performer": "Natsuiro Matsuri",
+    "type": "Cover",
+    "lyricsBy": "shito, Gom",
+    "musicBy": "shito",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-doutan-kyohi.webp",
+    "imageAlt": "DOUTAN KYOHI cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/3212911919044327851f30e4ce91919e/%E5%90%8C%E6%8B%85%E2%98%86%E6%8B%92%E5%90%A6.png"
+  },
+  {
+    "id": 106,
+    "title": "Goodbye Declaration",
+    "performer": "Nakiri Ayame",
+    "type": "Cover",
+    "lyricsBy": "Chinozo",
+    "musicBy": "Chinozo",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-goodbye-declaration.webp",
+    "imageAlt": "Goodbye Declaration cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/4ee45e3ce369469d9728d9f7d667e40c/%E3%82%AF%E3%82%99%E3%83%83%E3%83%8F%E3%82%99%E3%82%A4%E5%AE%A3%E8%A8%80.png"
+  },
+  {
+    "id": 107,
+    "title": "Delusion Tax",
+    "performer": "Yuzuki Choco",
+    "type": "Cover",
+    "lyricsBy": "DECO*27",
+    "musicBy": "DECO*27",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-delusion-tax.webp",
+    "imageAlt": "Delusion Tax cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/9c829e0f31d446eca0853b966c7ba53b/%E5%A6%84%E6%83%B3%E7%A8%8E.png"
+  },
+  {
+    "id": 108,
+    "title": "Do my best!",
+    "performer": "Oozora Subaru",
+    "type": "Cover",
+    "lyricsBy": "kinoshita",
+    "musicBy": "kinoshita",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-do-my-best.webp",
+    "imageAlt": "Do my best! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/ad557ed6d4fb46309318a835a268f54b/%E3%81%A8%E3%82%99%E3%81%85%E3%83%BC%E3%81%BE%E3%81%84%E3%81%B8%E3%82%99%E3%81%99%E3%81%A8%EF%BC%81.png"
+  },
+  {
+    "id": 109,
+    "title": "Show",
+    "performer": "Inugami Korone",
+    "type": "Cover",
+    "lyricsBy": "TOPHAMHAT-KYO (FAKE TYPE.)",
+    "musicBy": "Giga & TeddyLoid",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-show.webp",
+    "imageAlt": "Show cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/215b05e6c349422eade0d3ba8fca22da/%E5%94%B1.png"
+  },
+  {
+    "id": 110,
+    "title": "Kaibutsu",
+    "performer": "Shiranui Flare",
+    "type": "Cover",
+    "lyricsBy": "Ayase",
+    "musicBy": "Ayase",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-kaibutsu.webp",
+    "imageAlt": "Kaibutsu cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/7616b53bba924dc3b3edb27c7bbd7918/%E6%80%AA%E7%89%A9.png"
+  },
+  {
+    "id": 111,
+    "title": "Waking Yashinoki",
+    "performer": "Shirogane Noel",
+    "type": "Cover",
+    "lyricsBy": "Yukopi",
+    "musicBy": "Yukopi",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-waking-yashinoki.webp",
+    "imageAlt": "Waking Yashinoki cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/3e42b189415944969acb1edf07c098d8/%E5%AF%9D%E8%B5%B7%E3%81%8D%E3%83%A4%E3%82%B7%E3%81%AE%E6%9C%A8.png"
+  },
+  {
+    "id": 112,
+    "title": "-ERROR",
+    "performer": "Tokoyami Towa",
+    "type": "Cover",
+    "lyricsBy": "niki",
+    "musicBy": "niki",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-error.webp",
+    "imageAlt": "-ERROR cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/f4b2ce0f827c43adb9e9c1254ae53bbb/-ERROR.png"
+  },
+  {
+    "id": 113,
+    "title": "FUWAFUWA TIME",
+    "performer": "Himemori Luna",
+    "type": "Cover",
+    "lyricsBy": "Mio Akiyama",
+    "musicBy": "Hiroyuki Maezawa",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-fuwafuwa-time.webp",
+    "imageAlt": "FUWAFUWA TIME cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/208b03fd092f45309b972d90a4291afc/%E3%81%B5%E3%82%8F%E3%81%B5%E3%82%8F%E6%99%82%E9%96%93.png"
+  },
+  {
+    "id": 114,
+    "title": "The Brave",
+    "performer": "Yukihana Lamy",
+    "type": "Cover",
+    "lyricsBy": "Ayase",
+    "musicBy": "Ayase",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-the-brave.webp",
+    "imageAlt": "The Brave cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/67a1b00b01d645ea9f1fed1585693e0a/%E5%8B%87%E8%80%85.png"
+  },
+  {
+    "id": 115,
+    "title": "Chu,Tayousei.",
+    "performer": "Momosuzu Nene",
+    "type": "Cover",
+    "lyricsBy": "ano/Shuichi Mabe",
+    "musicBy": "Shuichi Mabe",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-chu-tayousei.webp",
+    "imageAlt": "Chu,Tayousei. cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/a5b55b588238462dbefcef9c9e1d7e8d/%E3%81%A1%E3%82%85%E3%80%81%E5%A4%9A%E6%A7%98%E6%80%A7%E3%80%82.png"
+  },
+  {
+    "id": 116,
+    "title": "Non-breath oblige",
+    "performer": "Shishiro Botan",
+    "type": "Cover",
+    "lyricsBy": "PinocchioP",
+    "musicBy": "PinocchioP",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-non-breath-oblige.webp",
+    "imageAlt": "Non-breath oblige cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/14aefece5c4044c39b57b8e150ee89ce/%E3%83%8E%E3%83%B3%E3%83%95%E3%82%99%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%95%E3%82%99%E3%83%AA%E3%83%BC%E3%82%B7%E3%82%99%E3%83%A5.png"
+  },
+  {
+    "id": 117,
+    "title": "ENVY BABY",
+    "performer": "Omaru Polka",
+    "type": "Cover",
+    "lyricsBy": "Kanaria",
+    "musicBy": "Kanaria",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-envy-baby.webp",
+    "imageAlt": "ENVY BABY cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/fb73b6bd556c4c188b2ddf7e50629e37/%E3%82%A8%E3%83%B3%E3%82%A6%E3%82%99%E3%82%A3%E3%83%BC%E3%83%98%E3%82%99%E3%82%A4%E3%83%92%E3%82%99%E3%83%BC.png"
+  },
+  {
+    "id": 118,
+    "title": "God-ish",
+    "performer": "La+ Darknesss",
+    "type": "Cover",
+    "lyricsBy": "PinocchioP",
+    "musicBy": "PinocchioP",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-god-ish.webp",
+    "imageAlt": "God-ish cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/76d3a2b116884d019c7624ff0e700fec/%E7%A5%9E%E3%81%A3%E3%81%BB%E3%82%9A%E3%81%84%E3%81%AA.png"
+  },
+  {
+    "id": 119,
+    "title": "Owl",
+    "performer": "Takane Lui",
+    "type": "Cover",
+    "lyricsBy": "THREEE",
+    "musicBy": "THREEE",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-owl.webp",
+    "imageAlt": "Owl cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/d174e0ce83ff4336a3a7d5d8081b93b7/%E3%83%95%E3%82%AF%E3%83%AD%E3%82%A6%E3%81%95%E3%82%93.png"
+  },
+  {
+    "id": 120,
+    "title": "God knows...",
+    "performer": "Hakui Koyori",
+    "type": "Cover",
+    "lyricsBy": "Aki Hata",
+    "musicBy": "Satoru Kosaki",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-god-knows.webp",
+    "imageAlt": "God knows... cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/d7da0bdb56b04329b610d920e403d560/God%20knows....png"
+  },
+  {
+    "id": 121,
+    "title": "Kyu-kurarin",
+    "performer": "Kazama Iroha",
+    "type": "Cover",
+    "lyricsBy": "Iyowa",
+    "musicBy": "Iyowa",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-kyu-kurarin.webp",
+    "imageAlt": "Kyu-kurarin cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/edcc2bfa89714194a019b000783e6eec/%E3%81%8D%E3%82%85%E3%81%86%E3%81%8F%E3%82%89%E3%82%8A%E3%82%93.png"
+  },
+  {
+    "id": 122,
+    "title": "Snow halation",
+    "performer": "Ayunda Risu",
+    "type": "Cover",
+    "lyricsBy": "Aki Hata",
+    "musicBy": "Takahiro Yamada",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-snow-halation.webp",
+    "imageAlt": "Snow halation cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/34b8e67a4c674617a5e2702d1f5aa39b/Snow%20halation.png"
+  },
+  {
+    "id": 123,
+    "title": "FIRE BIRD",
+    "performer": "Moona Hoshinova",
+    "type": "Cover",
+    "lyricsBy": "Noriyasu Agematsu (Elements Garden)",
+    "musicBy": "Noriyasu Agematsu (Elements Garden)",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-fire-bird.webp",
+    "imageAlt": "FIRE BIRD cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/f74ea8858ee742acbb13723e84fa3a69/FIRE%20BIRD.png"
+  },
+  {
+    "id": 124,
+    "title": "Alien Alien",
+    "performer": "Airani Iofifteen",
+    "type": "Cover",
+    "lyricsBy": "NayutalieN",
+    "musicBy": "NayutalieN",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-alien-alien.webp",
+    "imageAlt": "Alien Alien cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/83d9d0c06ae24054a9194d5d96783cd3/%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3.png"
+  },
+  {
+    "id": 125,
+    "title": "Kyouran Hey Kids!!",
+    "performer": "Kureiji Ollie",
+    "type": "Cover",
+    "lyricsBy": "Yamanaka Takuya",
+    "musicBy": "Yamanaka Takuya",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-kyouran-hey-kids.webp",
+    "imageAlt": "Kyouran Hey Kids!! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/bd9eb8314dbc4045a3cb1926f9ee1b5d/%E7%8B%82%E4%B9%B1%20Hey%20Kids!!.png"
+  },
+  {
+    "id": 126,
+    "title": "Marshall Maximizer",
+    "performer": "Anya Melfissa",
+    "type": "Cover",
+    "lyricsBy": "Hiiragi Magnetite",
+    "musicBy": "Hiiragi Magnetite",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-marshall-maximizer.webp",
+    "imageAlt": "Marshall Maximizer cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/0ce37544905f4d6a9a7e9483eccd4baf/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%9E%E3%82%A4%E3%82%B5%E3%82%99%E3%83%BC.png"
+  },
+  {
+    "id": 127,
+    "title": "Usseewa",
+    "performer": "Pavolia Reine",
+    "type": "Cover",
+    "lyricsBy": "syudou",
+    "musicBy": "syudou",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-usseewa.webp",
+    "imageAlt": "Usseewa cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/0cc6f39d4501422784f044f03dde59a2/%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F.png"
+  },
+  {
+    "id": 128,
+    "title": "KAWAIKUTE GOMEN",
+    "performer": "Vestia Zeta",
+    "type": "Cover",
+    "lyricsBy": "shito",
+    "musicBy": "shito",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-kawaikute-gomen.webp",
+    "imageAlt": "KAWAIKUTE GOMEN cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/88a1965f6e3a438e93c8c9dd40f98760/%E5%8F%AF%E6%84%9B%E3%81%8F%E3%81%A6%E3%81%93%E3%82%99%E3%82%81%E3%82%93.png"
+  },
+  {
+    "id": 129,
+    "title": "Brave Heart",
+    "performer": "Kaela Kovalskia",
+    "type": "Cover",
+    "lyricsBy": "OOMORI Shouko",
+    "musicBy": "OOTA Michihiko",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-brave-heart.webp",
+    "imageAlt": "Brave Heart cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/948407a019c844a8b5f259181f625666/brave%20heart.png"
+  },
+  {
+    "id": 130,
+    "title": "Overdose",
+    "performer": "Kobo Kanaeru",
+    "type": "Cover",
+    "lyricsBy": "natori",
+    "musicBy": "natori",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-overdose.webp",
+    "imageAlt": "Overdose cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/e01de556afba46d9bbc42a6d66dca35d/Overdose.png"
+  },
+  {
+    "id": 131,
+    "title": "The Vampire",
+    "performer": "Takanashi Kiara",
+    "type": "Cover",
+    "lyricsBy": "DECO*27",
+    "musicBy": "DECO*27",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-the-vampire.webp",
+    "imageAlt": "The Vampire cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/3008746180744f25a6678679f370a69c/%E3%82%A6%E3%82%99%E3%82%A1%E3%83%B3%E3%83%8F%E3%82%9A%E3%82%A4%E3%82%A2.png"
+  },
+  {
+    "id": 132,
+    "title": "NAI NAI",
+    "performer": "Ninomae Ina'nis",
+    "type": "Cover",
+    "lyricsBy": "Kei Hayashi/Kegani",
+    "musicBy": "Kegani",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-nai-nai.webp",
+    "imageAlt": "NAI NAI cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/6a14ee3efed245d69f8746c749fc2a4e/%E3%81%AA%E3%81%84%E3%81%AA%E3%81%84.png"
+  },
+  {
+    "id": 133,
+    "title": "IDOL",
+    "performer": "IRyS",
+    "type": "Cover",
+    "lyricsBy": "Ayase",
+    "musicBy": "Ayase",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-idol.webp",
+    "imageAlt": "IDOL cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/226e9abf6c2f447b9602b5c9534efd3c/%E3%82%A2%E3%82%A4%E3%83%88%E3%82%99%E3%83%AB.png"
+  },
+  {
+    "id": 134,
+    "title": "Mafia",
+    "performer": "Ouro Kronii",
+    "type": "Cover",
+    "lyricsBy": "wotaku",
+    "musicBy": "wotaku",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-mafia.webp",
+    "imageAlt": "Mafia cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/9ee0edfb374445ac979e6123d3d653a1/%E3%83%9E%E3%83%95%E3%82%A3%E3%82%A2.png"
+  },
+  {
+    "id": 135,
+    "title": "Los! Los! Los!",
+    "performer": "Hakos Baelz",
+    "type": "Cover",
+    "lyricsBy": "hotaru",
+    "musicBy": "Yuichi Yagi",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-los-los-los.webp",
+    "imageAlt": "Los! Los! Los! cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/71d52a2f421a4b3cb2fdf79fa20a0efb/Los!%20Los!%20Los!.png"
+  },
+  {
+    "id": 136,
+    "title": "Kyoufuu All Back",
+    "performer": "Shiori Novella",
+    "type": "Cover",
+    "lyricsBy": "Yukopi",
+    "musicBy": "Yukopi",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-kyoufuu-all-back.webp",
+    "imageAlt": "Kyoufuu All Back cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/cd4f78004e9048f695e4cc0fb0e70eef/%E5%BC%B7%E9%A2%A8%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8F%E3%82%99%E3%83%83%E3%82%AF.png"
+  },
+  {
+    "id": 137,
+    "title": "The Mirror’s Ripples",
+    "performer": "Koseki Bijou",
+    "type": "Cover",
+    "lyricsBy": "Yoshimasa Terui",
+    "musicBy": "Yoshimasa Terui",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-the-mirror-s-ripples.webp",
+    "imageAlt": "The Mirror’s Ripples cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/8a5368ef82b94b908ffa772b09213c03/%E9%8F%A1%E9%9D%A2%E3%81%AE%E6%B3%A2.png"
+  },
+  {
+    "id": 138,
+    "title": "YUKINO HANA",
+    "performer": "Nerissa Ravencroft",
+    "type": "Cover",
+    "lyricsBy": "Satomi",
+    "musicBy": "Ryoki Matsumoto",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-yukino-hana.webp",
+    "imageAlt": "YUKINO HANA cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/35926d63503b4515abc2df0f1536c700/%E9%9B%AA%E3%81%AE%E8%8F%AF.png"
+  },
+  {
+    "id": 139,
+    "title": "Cute Na Kanojo",
+    "performer": "FUWAMOCO",
+    "type": "Cover",
+    "lyricsBy": "syudou",
+    "musicBy": "syudou",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-cute-na-kanojo.webp",
+    "imageAlt": "Cute Na Kanojo cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/c5cbf7b047a04cd4868066664597385f/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88%E3%81%AA%E3%82%AB%E3%83%8E%E3%82%B7%E3%82%99%E3%83%A7.png"
+  },
+  {
+    "id": 140,
+    "title": "Let Me Be With You",
+    "performer": "FUWAMOCO",
+    "type": "Cover",
+    "lyricsBy": "Katsutoshi Kitagawa",
+    "musicBy": "Katsutoshi Kitagawa",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-let-me-be-with-you.webp",
+    "imageAlt": "Let Me Be With You cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/6dd9488a274746d783e95fd85b07a069/Let%20Me%20Be%20With%20You.png"
+  },
+  {
+    "id": 141,
+    "title": "KANADE",
+    "performer": "Otonose Kanade",
+    "type": "Cover",
+    "lyricsBy": "Takuya Ohashi / Shintaro Tokita",
+    "musicBy": "Takuya Ohashi / Shintaro Tokita",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-kanade.webp",
+    "imageAlt": "KANADE cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/356466be8b924a98b70f66a58e3f96c6/%E5%A5%8F%EF%BC%88%E3%81%8B%E3%81%AA%E3%81%A6%E3%82%99%EF%BC%89.png"
+  },
+  {
+    "id": 142,
+    "title": "Cherry Pop",
+    "performer": "Ichijou Ririka",
+    "type": "Cover",
+    "lyricsBy": "DECO*27",
+    "musicBy": "DECO*27",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-cherry-pop.webp",
+    "imageAlt": "Cherry Pop cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/b52841c57ec84b53890810d15414276d/%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%9B%E3%82%9A%E3%83%83%E3%83%95%E3%82%9A.png"
+  },
+  {
+    "id": 143,
+    "title": "PI PIKASO",
+    "performer": "Juufuutei Raden",
+    "type": "Cover",
+    "lyricsBy": "YAGURA KUNIAKI / HOZAN MUNEMYOUOU / CHANKII MATSUMOTO",
+    "musicBy": "HONMA YUUSUKE",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-pi-pikaso.webp",
+    "imageAlt": "PI PIKASO cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/366d411758e94a1391a5c4d05ff3ec6b/%E3%83%92%E3%82%9A%20%E3%83%92%E3%82%9A%E3%82%AB%E3%82%BD.png"
+  },
+  {
+    "id": 144,
+    "title": "Tsuppari High School Rock'n Roll (Toukou-hen)",
+    "performer": "Todoroki Hajime",
+    "type": "Cover",
+    "lyricsBy": "Tamiya Yoshiyuki",
+    "musicBy": "Tamiya Yoshiyuki",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-tsuppari-high-school-rock-n-roll-toukou-hen.webp",
+    "imageAlt": "Tsuppari High School Rock'n Roll (Toukou-hen) cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/2bfb91702bfb4e2381c954d361737ad2/%E3%83%84%E3%83%83%E3%83%8F%E3%82%9A%E3%83%AAHigh%20School%20Rock'n%20Roll(%E7%99%BB%E6%A0%A1%E7%B7%A8).png"
+  },
+  {
+    "id": 145,
+    "title": "Maware! Setsugetsuka",
+    "performer": "AZKi, Shirakami Fubuki, Houshou Marine",
+    "type": "Cover",
+    "lyricsBy": "Hige Driver",
+    "musicBy": "Hige Driver",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-maware-setsugetsuka.webp",
+    "imageAlt": "Maware! Setsugetsuka cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/51a80ac1e4be42948e122b33d18fdb7d/%E5%9B%9E%E3%83%AC%EF%BC%81%E9%9B%AA%E6%9C%88%E8%8A%B1.png"
+  },
+  {
+    "id": 146,
+    "title": "(Not) A Devil",
+    "performer": "AZKi, Kazama Iroha",
+    "type": "Cover",
+    "lyricsBy": "DECO*27, PinocchioP",
+    "musicBy": "DECO*27, PinocchioP",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-not-a-devil.webp",
+    "imageAlt": "(Not) A Devil cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/9a195340cdc447a0884aa5722e88c61c/%E3%83%86%E3%82%99%E3%83%92%E3%82%99%E3%83%AB%E3%81%97%E3%82%99%E3%82%83%E3%81%AA%E3%81%84%E3%82%82%E3%82%93.png"
+  },
+  {
+    "id": 147,
+    "title": "HAO",
+    "performer": "Tsunomaki Watame, Pavolia Reine",
+    "type": "Cover",
+    "lyricsBy": "DECO*27",
+    "musicBy": "DECO*27",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-hao.webp",
+    "imageAlt": "HAO cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/e50c81583cba4e18930a788fddfb83f6/%E3%83%8F%E3%82%AA.png"
+  },
+  {
+    "id": 148,
+    "title": "Watashi no Ichiban Kawaiitokoro",
+    "performer": "Sakura Miko, Himemori Luna, Airani Iofifteen, Fuwawa Abyssgard, Mococo Abyssgard",
+    "type": "Cover",
+    "lyricsBy": "Sho Yamamoto",
+    "musicBy": "Sho Yamamoto",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-watashi-no-ichiban-kawaiitokoro.webp",
+    "imageAlt": "Watashi no Ichiban Kawaiitokoro cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/a3358231e20d416498b003df2f0fd36a/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E4%B8%80%E7%95%AA%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%81%A8%E3%81%93%E3%82%8D.png"
+  },
+  {
+    "id": 149,
+    "title": "Megitsune",
+    "performer": "hololive English -Advent-",
+    "type": "Cover",
+    "lyricsBy": "NORiMETAL/MK-METAL",
+    "musicBy": "NORiMETAL",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-megitsune.webp",
+    "imageAlt": "Megitsune cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/c52b50b0ecc74d7bb8e0b94606c99c29/%E3%83%A1%E3%82%AD%E3%82%99%E3%83%84%E3%83%8D.png"
+  },
+  {
+    "id": 150,
+    "title": "Hyadain no Jojo Yujo",
+    "performer": "Nekomata Okayu, Inugami Korone",
+    "type": "Cover",
+    "lyricsBy": "Kenichi Maeyamada",
+    "musicBy": "Kenichi Maeyamada",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-hyadain-no-jojo-yujo.webp",
+    "imageAlt": "Hyadain no Jojo Yujo cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/0182d89a0e964522aa93646d231ca057/%E3%83%92%E3%83%A3%E3%82%BF%E3%82%99%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%97%E3%82%99%E3%82%87%E3%83%BC%E3%81%97%E3%82%99%E3%82%87%E3%83%BC%E3%82%86%E3%83%BC%E3%81%97%E3%82%99%E3%82%87%E3%83%BC.png"
+  },
+  {
+    "id": 151,
+    "title": "SAIKAI",
+    "performer": "Hoshimachi Suisei, Moona Hoshinova",
+    "type": "Cover",
+    "lyricsBy": "Ayase",
+    "musicBy": "Ayase",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-saikai.webp",
+    "imageAlt": "SAIKAI cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/f55d809bcd8644fbbf0f0c12078dec83/%E5%86%8D%E4%BC%9A.png"
+  },
+  {
+    "id": 152,
+    "title": "KAMINO MANIMANI",
+    "performer": "Yuzuki Choco, Oozora Subaru, Himemori Luna",
+    "type": "Cover",
+    "lyricsBy": "Rerulili",
+    "musicBy": "Rerulili",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-kamino-manimani.webp",
+    "imageAlt": "KAMINO MANIMANI cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/58a4fe4aa73d435f9cf7730f1c30fc3d/%E7%A5%9E%E3%81%AE%E3%81%BE%E3%81%AB%E3%81%BE%E3%81%AB.png"
+  },
+  {
+    "id": 153,
+    "title": "I~ya I~ya I~ya",
+    "performer": "Takanashi Kiara, Ninomae Ina'nis",
+    "type": "Cover",
+    "lyricsBy": "Neru & z’5",
+    "musicBy": "Neru & z’5",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-i-ya-i-ya-i-ya.webp",
+    "imageAlt": "I~ya I~ya I~ya cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/04a1a0ce80b4451daee200f2faa205f7/%E3%81%84%EF%BD%9E%E3%82%84%E3%81%84%EF%BD%9E%E3%82%84%E3%81%84%EF%BD%9E%E3%82%84.png"
+  },
+  {
+    "id": 154,
+    "title": "Erandekurete Arigatou",
+    "performer": "IRyS, Hakos Baelz",
+    "type": "Cover",
+    "lyricsBy": "shito, Gom",
+    "musicBy": "shito",
+    "arrangementBy": "",
+    "imageUrl": "/images/songs/hololive-dreams-song-erandekurete-arigatou.webp",
+    "imageAlt": "Erandekurete Arigatou cover in the hololive Dreams music catalog",
+    "evidenceSources": [
+      "src-004",
+      "src-flow06-001"
+    ],
+    "lastVerified": "2026-07-24",
+    "sourcePage": "https://www.hololive-dreams.com/en/music",
+    "originalImageUrl": "https://images.microcms-assets.io/assets/f5f18e8e6a3c4c81af28f013b94e7f38/a4f0e49ff76c412ba32a780dc15b358d/%E9%81%B8%E3%82%93%E3%81%A6%E3%82%99%E3%81%8F%E3%82%8C%E3%81%A6%E3%81%82%E3%82%8A%E3%81%8B%E3%82%99%E3%81%A8%E3%81%86%E3%80%82.png"
+  }
+]

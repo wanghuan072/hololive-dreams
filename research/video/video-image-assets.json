@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "flow": "07-video-content-supplement",
+    "retrievedAt": "2026-07-24T00:00:00+08:00",
+    "assetCount": 6,
+    "method": "YouTube-provided thumbnails only; no video or audio downloaded"
+  },
+  "assets": [
+    {
+      "videoId": "KWkNV57HJe4",
+      "title": "【完全版】『ホロライブドリームス』ゲームトレーラー / “hololive Dreams” – Full GAME TRAILER",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "sourceVideoUrl": "https://www.youtube.com/watch?v=KWkNV57HJe4",
+      "timecode": "YouTube-provided video thumbnail",
+      "originalThumbnailUrl": "https://i.ytimg.com/vi/KWkNV57HJe4/maxresdefault.jpg",
+      "localPath": "public/images/video/hololive-dreams-full-game-trailer.jpg",
+      "publicPath": "/images/video/hololive-dreams-full-game-trailer.jpg",
+      "alt": "Official hololive Dreams full game trailer preview",
+      "usage": [
+        "/",
+        "/wiki/systems"
+      ],
+      "dimensionsStrategy": "Rendered responsively at 16:9 with explicit container aspect ratio",
+      "byteSize": 288248,
+      "contentType": "image/jpeg",
+      "decision": "adopted"
+    },
+    {
+      "videoId": "QGKxCTMnl78",
+      "title": "『ホロライブドリームス』リズムゲーム紹介PV /  “hololive Dreams” – Rhythm Game PV",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "sourceVideoUrl": "https://www.youtube.com/watch?v=QGKxCTMnl78",
+      "timecode": "YouTube-provided video thumbnail",
+      "originalThumbnailUrl": "https://i.ytimg.com/vi/QGKxCTMnl78/maxresdefault.jpg",
+      "localPath": "public/images/video/hololive-dreams-rhythm-game-pv.jpg",
+      "publicPath": "/images/video/hololive-dreams-rhythm-game-pv.jpg",
+      "alt": "Official hololive Dreams rhythm game preview",
+      "usage": [
+        "/guides/rhythm-timing",
+        "/guides/create-chart"
+      ],
+      "dimensionsStrategy": "Rendered responsively at 16:9 with explicit container aspect ratio",
+      "byteSize": 369053,
+      "contentType": "image/jpeg",
+      "decision": "adopted"
+    },
+    {
+      "videoId": "u-QXXcO2Wzg",
+      "title": "【#ホロドリ】EXPO STAGEまとめ ホッピン・ロープ編｜hololive SUPER EXPO 2026",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "sourceVideoUrl": "https://www.youtube.com/watch?v=u-QXXcO2Wzg",
+      "timecode": "YouTube-provided video thumbnail",
+      "originalThumbnailUrl": "https://i.ytimg.com/vi/u-QXXcO2Wzg/maxresdefault.jpg",
+      "localPath": "public/images/video/hololive-dreams-hoppin-rope-video.jpg",
+      "publicPath": "/images/video/hololive-dreams-hoppin-rope-video.jpg",
+      "alt": "Official Hoppin' Rope gameplay demonstration preview",
+      "usage": [
+        "/guides/minigames"
+      ],
+      "dimensionsStrategy": "Rendered responsively at 16:9 with explicit container aspect ratio",
+      "byteSize": 299451,
+      "contentType": "image/jpeg",
+      "decision": "adopted"
+    },
+    {
+      "videoId": "9OxaIDpEhXo",
+      "title": "【#ホロドリ】EXPO STAGEまとめ そろえてクッキング編｜hololive SUPER EXPO 2026",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "sourceVideoUrl": "https://www.youtube.com/watch?v=9OxaIDpEhXo",
+      "timecode": "YouTube-provided video thumbnail",
+      "originalThumbnailUrl": "https://i.ytimg.com/vi/9OxaIDpEhXo/maxresdefault.jpg",
+      "localPath": "public/images/video/hololive-dreams-cooking-video.jpg",
+      "publicPath": "/images/video/hololive-dreams-cooking-video.jpg",
+      "alt": "Official Colliect Cooking gameplay demonstration preview",
+      "usage": [
+        "/guides/minigames"
+      ],
+      "dimensionsStrategy": "Rendered responsively at 16:9 with explicit container aspect ratio",
+      "byteSize": 240119,
+      "contentType": "image/jpeg",
+      "decision": "adopted"
+    },
+    {
+      "videoId": "-8QISHiERDI",
+      "title": "【#ホロドリ】EXPO STAGEまとめ メガサーキット編｜hololive SUPER EXPO 2026",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "sourceVideoUrl": "https://www.youtube.com/watch?v=-8QISHiERDI",
+      "timecode": "YouTube-provided video thumbnail",
+      "originalThumbnailUrl": "https://i.ytimg.com/vi/-8QISHiERDI/maxresdefault.jpg",
+      "localPath": "public/images/video/hololive-dreams-mega-circuit-video.jpg",
+      "publicPath": "/images/video/hololive-dreams-mega-circuit-video.jpg",
+      "alt": "Official MEGA CIRCUIT gameplay demonstration preview",
+      "usage": [
+        "/guides/minigames"
+      ],
+      "dimensionsStrategy": "Rendered responsively at 16:9 with explicit container aspect ratio",
+      "byteSize": 232777,
+      "contentType": "image/jpeg",
+      "decision": "adopted"
+    },
+    {
+      "videoId": "J1uOs1pAQMw",
+      "title": "【#ホロドリ】プレイステージ！①  〜みんなでゲームを遊んでみよう！〜 まとめ動画｜hololive SUPER EXPO 2026",
+      "channel": "hololive Dreams ホロライブドリームス",
+      "sourceVideoUrl": "https://www.youtube.com/watch?v=J1uOs1pAQMw",
+      "timecode": "YouTube-provided video thumbnail",
+      "originalThumbnailUrl": "https://i.ytimg.com/vi/J1uOs1pAQMw/maxresdefault.jpg",
+      "localPath": "public/images/video/hololive-dreams-gameplay-stage-video.jpg",
+      "publicPath": "/images/video/hololive-dreams-gameplay-stage-video.jpg",
+      "alt": "Official hololive Dreams gameplay stage preview",
+      "usage": [
+        "/guides/getting-started",
+        "/guides/dream-park-progression"
+      ],
+      "dimensionsStrategy": "Rendered responsively at 16:9 with explicit container aspect ratio",
+      "byteSize": 269241,
+      "contentType": "image/jpeg",
+      "decision": "adopted"
+    }
+  ]
+}

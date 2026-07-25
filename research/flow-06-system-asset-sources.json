@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "flow": "06-full-web-content-supplement",
+    "accessedAt": "2026-07-24T00:00:00+08:00",
+    "assetCount": 5
+  },
+  "assets": [
+    {
+      "id": "rhythm-live",
+      "sourcePage": "https://www.hololive-dreams.com/en/system",
+      "sourcePath": "/_vercel/image?url=_astro%2Fimg_rhythm.CzuXqCE3.png&w=3840&q=100",
+      "fileName": "hololive-dreams-rhythm-live.webp",
+      "alt": "Rhythm Live gameplay shown on the official hololive Dreams system page",
+      "usage": [
+        "/wiki/systems",
+        "/guides/rhythm-timing",
+        "/guides/create-chart"
+      ],
+      "originalUrl": "https://www.hololive-dreams.com/_vercel/image?url=_astro%2Fimg_rhythm.CzuXqCE3.png&w=3840&q=100",
+      "localPath": "public/images/official-system/hololive-dreams-rhythm-live.webp",
+      "publicPath": "/images/official-system/hololive-dreams-rhythm-live.webp",
+      "byteSize": 323354,
+      "contentType": "image/webp",
+      "status": "adopted"
+    },
+    {
+      "id": "hoppin-rope",
+      "sourcePage": "https://www.hololive-dreams.com/en/system",
+      "sourcePath": "/_vercel/image?url=_astro%2Fimg_minigame.C549Ix8y.png&w=3840&q=100",
+      "fileName": "hololive-dreams-hoppin-rope.webp",
+      "alt": "Hoppin' Rope group minigame shown on the official system page",
+      "usage": [
+        "/guides/minigames"
+      ],
+      "originalUrl": "https://www.hololive-dreams.com/_vercel/image?url=_astro%2Fimg_minigame.C549Ix8y.png&w=3840&q=100",
+      "localPath": "public/images/official-system/hololive-dreams-hoppin-rope.webp",
+      "publicPath": "/images/official-system/hololive-dreams-hoppin-rope.webp",
+      "byteSize": 386234,
+      "contentType": "image/webp",
+      "status": "adopted"
+    },
+    {
+      "id": "invitation-ticket",
+      "sourcePage": "https://www.hololive-dreams.com/en/system",
+      "sourcePath": "/_vercel/image?url=_astro%2Fquest_screenshot2.DObaaW6D.png&w=3840&q=100",
+      "fileName": "hololive-dreams-invitation-ticket.webp",
+      "alt": "Invitation ticket screen from the official hololive Dreams system page",
+      "usage": [
+        "/guides/unlock-holomems"
+      ],
+      "originalUrl": "https://www.hololive-dreams.com/_vercel/image?url=_astro%2Fquest_screenshot2.DObaaW6D.png&w=3840&q=100",
+      "localPath": "public/images/official-system/hololive-dreams-invitation-ticket.webp",
+      "publicPath": "/images/official-system/hololive-dreams-invitation-ticket.webp",
+      "byteSize": 144064,
+      "contentType": "image/webp",
+      "status": "adopted"
+    },
+    {
+      "id": "team-board",
+      "sourcePage": "https://www.hololive-dreams.com/en/system",
+      "sourcePath": "/_vercel/image?url=_astro%2Fpoint2_img1_land.CZ2QXkEE.png&w=3840&q=100",
+      "fileName": "hololive-dreams-team-board.webp",
+      "alt": "Holomem team and skill synergy screen from the official system page",
+      "usage": [
+        "/guides/team-building-holomem-board"
+      ],
+      "originalUrl": "https://www.hololive-dreams.com/_vercel/image?url=_astro%2Fpoint2_img1_land.CZ2QXkEE.png&w=3840&q=100",
+      "localPath": "public/images/official-system/hololive-dreams-team-board.webp",
+      "publicPath": "/images/official-system/hololive-dreams-team-board.webp",
+      "byteSize": 709474,
+      "contentType": "image/webp",
+      "status": "adopted"
+    },
+    {
+      "id": "dream-park-developed",
+      "sourcePage": "https://www.hololive-dreams.com/en/park",
+      "sourcePath": "/_vercel/image?url=_astro%2F12.CEFYW6a3.png&w=3840&q=100",
+      "fileName": "hololive-dreams-developed-park.webp",
+      "alt": "A developed Dream Park stage from the official hololive Dreams park page",
+      "usage": [
+        "/guides/dream-park-progression"
+      ],
+      "originalUrl": "https://www.hololive-dreams.com/_vercel/image?url=_astro%2F12.CEFYW6a3.png&w=3840&q=100",
+      "localPath": "public/images/official-system/hololive-dreams-developed-park.webp",
+      "publicPath": "/images/official-system/hololive-dreams-developed-park.webp",
+      "byteSize": 268202,
+      "contentType": "image/webp",
+      "status": "adopted"
+    }
+  ]
+}

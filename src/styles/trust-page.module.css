@@ -1,0 +1,120 @@
+.page {
+  padding: 48px 0 28px;
+}
+
+.reading {
+  width: min(100% - 40px, 70ch);
+  margin-inline: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: color-mix(in srgb, var(--surface) 92%, white);
+  padding: 28px 22px 32px;
+  box-shadow: var(--shadow-soft);
+}
+
+.kicker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent-soft) 42%, white);
+  padding: 5px 11px;
+  color: var(--accent-dark);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.kicker::before {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--stage-gold);
+  content: "";
+}
+
+.reading h1 {
+  margin-bottom: 18px;
+  font-size: clamp(2.1rem, 6.5vw, 3.2rem);
+  font-weight: 800;
+  line-height: 1.08;
+  letter-spacing: -0.025em;
+  background-image: linear-gradient(118deg, #2a2448 0%, #e0236a 42%, #0d7f96 100%);
+  background-clip: text;
+  color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.lead {
+  margin-bottom: 34px;
+  color: var(--muted);
+  font-size: 1.08rem;
+}
+
+.section {
+  scroll-margin-top: 90px;
+  border-top: 1px dashed var(--border-strong);
+  padding: 26px 0 8px;
+}
+
+.section h2 {
+  margin-bottom: 11px;
+  font-size: 1.45rem;
+}
+
+.section h3 {
+  margin: 20px 0 8px;
+  font-size: 1.05rem;
+}
+
+.section p,
+.section li {
+  color: var(--muted);
+}
+
+.section ul,
+.section ol {
+  padding-left: 24px;
+}
+
+.section li {
+  padding: 4px 0 4px 6px;
+}
+
+.routeBox {
+  margin-top: 28px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background:
+    linear-gradient(135deg, color-mix(in srgb, var(--surface-pink) 55%, white), var(--surface-alt));
+  padding: 18px;
+}
+
+.routeBox h2 {
+  margin-bottom: 8px;
+  font-size: 1.2rem;
+}
+
+.routeBox p {
+  color: var(--muted);
+}
+
+.routeBox a {
+  font-weight: 800;
+}
+
+.date {
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+@media (width > 768px) {
+  .reading {
+    width: min(100% - 64px, 70ch);
+    padding: 36px 40px 40px;
+  }
+}
