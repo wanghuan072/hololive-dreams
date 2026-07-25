@@ -1,11 +1,14 @@
 import type { Metadata, Viewport } from "next";
 import { M_PLUS_Rounded_1c, Nunito } from "next/font/google";
+import Script from "next/script";
 import { AppFooter } from "@/components/AppFooter";
 import { AppHeader } from "@/components/AppHeader";
 import { site } from "@/data/site";
 import { pageSeo } from "@/seo/pageSeo";
 import { JsonLd, websiteSchema } from "@/seo/structuredData";
 import "./globals.css";
+
+const GA_MEASUREMENT_ID = "G-E7TPWWH1VG";
 
 const mPlusRounded = M_PLUS_Rounded_1c({
   subsets: ["latin"],
@@ -62,6 +65,18 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${mPlusRounded.variable} ${nunito.variable}`}>
       <body>
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '${GA_MEASUREMENT_ID}');
+          `}
+        </Script>
         <JsonLd data={websiteSchema} />
         <AppHeader />
         {children}

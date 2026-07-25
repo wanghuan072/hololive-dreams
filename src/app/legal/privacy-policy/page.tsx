@@ -44,10 +44,11 @@ export default function PrivacyPolicyPage() {
         <section className={styles.section}>
           <h2>Cookies, analytics, and advertising</h2>
           <p>
-            The current website does not set first-party advertising or analytics
-            cookies. If those services are introduced later, this policy will be
-            revised before they are enabled. Browser settings can be used to delete or
-            block cookies where supported.
+            This website uses Google Analytics (gtag.js, measurement ID G-E7TPWWH1VG)
+            to understand aggregate traffic and page usage. Google may process device,
+            browser, and page-view information under its own terms and privacy policy.
+            The site does not currently set separate first-party advertising cookies.
+            Browser settings can be used to delete or block cookies where supported.
           </p>
         </section>
 
