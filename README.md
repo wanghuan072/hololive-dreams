@@ -1,124 +1,104 @@
-# hololive Dreams Reference
+# hololive Dreams Player Guide
 
-An independent English guide, wiki, and reference site for the `hololive dreams` search topic. The site serves US / Global English readers and is not affiliated with COVER Corporation, hololive production, QualiArts, or the game publisher.
+[hololive-dreams.org](https://hololive-dreams.org) is an English player guide for **hololive Dreams**, bringing the game’s characters, songs, systems, updates, and practical walkthroughs together in one place.
 
-## Stack
+## About hololive Dreams
 
-- Next.js 16 App Router
-- React 19
-- TypeScript
-- CSS Modules
-- Local JSON/TypeScript content data
+hololive Dreams combines rhythm gameplay with character growth, quests, park development, creative tools, and multiplayer minigames. Rhythm Lives are only one part of the experience: the rewards and progress earned across the game help players expand Dream Park, meet more playable characters, strengthen teams, and open new activities.
 
-## Local commands
+The game is designed for different play styles. Rhythm fans can work through increasingly demanding charts, collectors can build a favorite roster, and relaxed players can explore quests, park features, songs, and minigames at their own pace.
 
-```bash
-npm install
-npm run dev
-npm run lint
-npm run typecheck
-npm run build
-npm run start
-```
+## Game Highlights
 
-These commands are defined in `package.json`. The project currently has no deployment configuration and has not been deployed or committed by the staged workflow.
+- **Rhythm Live:** Play songs across EASY, NORMAL, HARD, and EXPERT chart difficulties.
+- **Dream Park:** Develop facilities and follow objectives that connect the game’s major systems.
+- **Playable characters:** Meet characters through Holomem Quests and build teams around the members you enjoy.
+- **Character growth:** Use team formation and the Holomem Board to improve performance and progression.
+- **Large song catalog:** Explore original songs and covers with individual track pages, credits, videos, and related characters.
+- **Create Chart:** Build and test custom rhythm charts for a more creative way to enjoy the music.
+- **Minigames:** Play short solo, cooperative, and competitive activities outside Rhythm Live.
+- **Flexible difficulty:** Start with a readable chart, adjust timing and note speed, and move upward when your accuracy becomes consistent.
 
-## Public pages
+## How to Start Playing
 
-- Home: `/`
-- Reference: `/wiki`, `/holomems`, 54 `/holomems/<slug>` member profiles, `/songs`, 154 `/songs/<slug>` song records, `/wiki/systems`
-- Guides: `/guides` plus two statically generated guide detail routes
-- Platform and support: `/download`, `/system-requirements`, `/help`
-- Freshness and release: `/updates`
-- Gameplay guide: `/hololive-dreams-gameplay`
-- Trust and policy: `/about`, `/contact`, `/editorial-policy`, `/privacy`, `/terms`, `/copyright`
+1. Choose a favorite playable character during the opening selection.
+2. Complete the first Rhythm Live on a comfortable difficulty.
+3. Follow the active Holomem Quest instead of opening every system at once.
+4. Claim quest rewards and use the guided route to meet more characters.
+5. Develop Dream Park when the opening objectives introduce its facilities.
+6. Build a stable team and read each Holomem Board effect before spending resources.
+7. Return to familiar songs to compare timing, accuracy, team changes, and score growth.
+8. Explore custom charts and minigames after the main progression loop feels familiar.
 
-The sitemap contains 224 indexable public routes. The generated framework 404 route is not included.
+New players can follow the [hololive Dreams Beginner Guide](https://hololive-dreams.org/guides/getting-started) for a more detailed first-session route.
 
-## Technical SEO
+## Website Navigation
 
-- Site defaults and placeholder state: `src/data/site.ts`
-- Page titles, descriptions, canonicals, Open Graph, and Twitter Cards: `src/seo/pageSeo.ts`
-- Indexable route inventory: `src/seo/sitemap.ts`
-- JSON-LD helpers: `src/seo/structuredData.tsx`
-- Next.js sitemap route: `src/app/sitemap.ts`
-- Next.js robots route: `src/app/robots.ts`
-- Runtime validation: `scripts/validate-routes.mjs`
+Every main navigation page is listed below.
 
-All indexable pages use a unique English title and description, a self-referencing canonical, Open Graph metadata, and a Twitter large-image card. A site-level `WebSite` JSON-LD object is rendered globally. Guide pages add visible-content-backed `WebPage`, `BreadcrumbList`, and `FAQPage` data. Member profiles and song records add `WebPage` and `BreadcrumbList` data. The gameplay guide also adds visible-content-backed `FAQPage` data.
+| Page | What you can find |
+| --- | --- |
+| [Home](https://hololive-dreams.org/) | A quick introduction to the game, current roster and song totals, frequently asked questions, and recommended starting points. |
+| [Wiki](https://hololive-dreams.org/wiki) | A player-friendly overview of Dream Park, Rhythm Live, quests, character growth, custom charts, minigames, and connected systems. |
+| [Characters](https://hololive-dreams.org/characters) | Browse the playable roster by branch and open individual pages with character details, group context, and related songs. |
+| [Songs](https://hololive-dreams.org/songs) | Search the current music catalog by title or performer, filter originals and covers, and open track pages with credits and videos. |
+| [Guides](https://hololive-dreams.org/guides) | Read practical walkthroughs for the opening hours, rhythm timing, note speed, scoring, progression, and team decisions. |
+| [Updates](https://hololive-dreams.org/updates) | Follow dated game and catalog changes without mixing older launch information with the current state of the game. |
+| [Gameplay](https://hololive-dreams.org/hololive-dreams-gameplay) | Learn how the core gameplay loop works, including Rhythm Live difficulties, Dream Park, quests, teams, custom charts, and minigames. |
 
-## Sitemap and robots
+## Recommended Guides and Reference Pages
 
-- Sitemap URL: `/sitemap.xml`
-- Robots URL: `/robots.txt`
-- Generation: native Next.js metadata routes
-- Sitemap source: the 224-route inventory in `src/seo/sitemap.ts`
-- Robots behavior: public crawling allowed, with the sitemap URL declared
+- [Beginner Guide](https://hololive-dreams.org/guides/getting-started) — Follow the opening route, learn when each system matters, and avoid wasting early resources.
+- [Rhythm Timing and Scoring Guide](https://hololive-dreams.org/guides/rhythm-timing) — Tune note speed, diagnose early or late inputs, improve accuracy, and compare team effects.
+- [Game Systems](https://hololive-dreams.org/wiki/systems) — See how Rhythm Lives, quests, Dream Park, teams, growth, and rewards connect.
+- [System Requirements](https://hololive-dreams.org/system-requirements) — Review platform and PC requirement information before installing or troubleshooting the game.
 
-No `lastmod` values are emitted because the project does not yet have a durable per-page publication history suitable for automated sitemap dates.
+## Frequently Asked Questions
 
-## Social and identity assets
+### Is hololive Dreams free to play?
 
-- Default Open Graph image: `/images/og-image.png`
-- OG image status: project-local 1200×630 social image
-- Default site logo: `/images/logo.png`
-- Favicon: `/images/ico.ico`
+Yes. hololive Dreams is free to play with optional in-game purchases.
 
-## Production domain and email
+### Which platforms support hololive Dreams?
 
-The configured production origin is `https://hololive-dreams.org`. Technical SEO uses this origin for:
+The game is available on PC, iOS, and Android. Device performance and storage needs can vary, so check the [System Requirements](https://hololive-dreams.org/system-requirements) page before downloading.
 
-- canonicals;
-- sitemap URLs;
-- the robots sitemap directive;
-- Open Graph URLs;
-- JSON-LD URLs.
+### Do I need strong rhythm-game skills?
 
-The configured editorial email is `wyong@hololive-dreams.org`.
+No. Start on EASY or NORMAL with a familiar song. Use a readable note speed, repeat the same chart before changing settings, and move to a higher difficulty only when the lane feels controlled.
 
-Before launch, confirm the origin TLS certificate and email delivery, then test every canonical, sitemap URL, robots directive, social URL, structured-data URL, and visible contact reference on the public host.
+### How many Rhythm Live difficulties are available?
 
-## Legal and footer
+The current song listings show four difficulties: EASY, NORMAL, HARD, and EXPERT.
 
-The site exposes these policy and identity pages:
+### How many playable characters are listed?
 
-- Privacy Policy: `/privacy`
-- Terms of Service: `/terms`
-- Copyright Notice: `/copyright`
-- About Us: `/about`
-- Contact Us: `/contact`
-- Editorial method: `/editorial-policy`
+The current guide includes 54 playable character pages across the Japan, Indonesia, and English branches. Visit the [Characters](https://hololive-dreams.org/characters) page to browse them.
 
-All five required Legal links appear in the footer with `rel="nofollow noopener noreferrer"`. The footer and Copyright page use `Copyright © 2026 hololive Dreams Reference. All rights reserved.`
+### How many songs are included?
 
-The current Privacy and Terms text describes a site without analytics, ads, accounts, forms, payments, or uploads. Re-review both pages if production hosting, analytics, advertising, forms, or other data-processing services are added.
+The current catalog contains 154 tracks, including originals and covers. Because the catalog can change, use the [Songs](https://hololive-dreams.org/songs) and [Updates](https://hololive-dreams.org/updates) pages for the latest listed total.
 
-## Content and media boundaries
+### Does the game include multiplayer?
 
-- Game facts prioritize official and platform sources recorded in `research/sources.json`.
-- Member detail pages combine the official hololive Dreams roster, 54 canonical hololive production talent profiles, their available official profile fields/Q&A, and the dated in-game music catalog. Refresh the official profile dataset with `npm run sync:profiles`.
-- Talent-profile facts are kept separate from member-specific game mechanics; no unsupported card tier, skill value, unlock route, or recommended build is inferred.
-- Community material may identify questions but is not used as a stable factual source without verification.
-- Official video previews use local YouTube-provided thumbnails and external links; no video/audio is hosted and no player is embedded.
-- Song data is a dated July 24, 2026 official catalog snapshot. Each of the 154 entries has a detail route with credits, exact-performer catalog context, roster links where names match directly, and related entries; lyrics are not reproduced.
-- Game names, artwork, screenshots, videos, music, talent names, and trademarks remain with their respective owners.
+Yes. Selected minigames support cooperative or competitive multiplayer, while other activities can be played solo.
 
-## Manual pre-launch checklist
+### What should I do if my rhythm inputs feel early or late?
 
-1. Fix the production origin TLS error and confirm HTTPS returns the site.
-2. Configure and test MX records for `wyong@hololive-dreams.org`.
-3. Build the site and crawl all 224 sitemap URLs on the final origin.
-4. Confirm each canonical, `og:url`, sitemap entry, robots sitemap directive, and JSON-LD URL uses the final origin.
-5. Validate generated JSON-LD with Schema.org or a suitable rich-result validator; FAQ rich-result display is not guaranteed.
-6. Test the 1200×630 social image from the deployed public URL.
-7. Recheck Privacy and Terms against the actual hosting, analytics, advertising, and contact setup.
-8. Confirm video embeds and current media assets still load.
-9. Perform responsive, accessibility, performance, and browser QA before any deployment.
+Keep the song, difficulty, device, and audio route unchanged for at least two test runs. Adjust note speed for readability first, then change timing only when the same early or late pattern repeats. The [Rhythm Timing and Scoring Guide](https://hololive-dreams.org/guides/rhythm-timing) provides a complete troubleshooting order.
 
-## Known unresolved items
+### Where should a new player begin?
 
-- The domain resolves through Cloudflare but currently returns HTTP 525.
-- No MX record was detected for the supplied email domain.
-- Android has no single universal minimum recorded for all devices.
-- A stable official English account-transfer procedure is not available.
-- The catalog and game-support facts are date-sensitive and require future refreshes.
+Complete the opening Live, follow the highlighted quest route, and let the game introduce Dream Park, character invitations, teams, and growth systems in order. The [Beginner Guide](https://hololive-dreams.org/guides/getting-started) explains the full route.
+
+## Legal and Website Information
+
+| Page | Description |
+| --- | --- |
+| [Privacy Policy](https://hololive-dreams.org/legal/privacy-policy) | Explains how website visits, technical information, and privacy questions are handled. |
+| [Terms of Service](https://hololive-dreams.org/legal/terms-of-service) | Describes acceptable website use, content limitations, and visitor responsibilities. |
+| [Copyright](https://hololive-dreams.org/legal/copyright) | Explains how game names, characters, artwork, music, videos, and other protected material are treated. |
+| [About Us](https://hololive-dreams.org/legal/about-us) | Introduces the purpose of the player guide and the type of information it provides. |
+| [Contact Us](https://hololive-dreams.org/legal/contact-us) | Provides the website contact route for corrections, accessibility concerns, copyright questions, and player feedback. |
+
+Visit **[hololive-dreams.org](https://hololive-dreams.org)** to explore the complete player guide.
