@@ -7,7 +7,7 @@ const shorten = (value, maxLength) => {
   const slice = text.slice(0, Math.max(1, maxLength - 1));
   const lastSpace = slice.lastIndexOf(" ");
   const end = lastSpace > Math.floor(maxLength * 0.55) ? lastSpace : slice.length;
-  return `${slice.slice(0, end).trim()}…`;
+  return `${slice.slice(0, end).trim()}...`;
 };
 
 export const fitSeoTitle = (value) => {
@@ -44,7 +44,7 @@ export const fitSeoDescription = (value) => {
   }
 
   if (description.length > 160) {
-    description = shorten(description, 159).replace(/[…,:;]$/, "");
+    description = shorten(description, 159).replace(/[.,?:;]$/, "");
     description = `${description}.`;
   }
 

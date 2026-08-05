@@ -280,6 +280,200 @@ const guideCatalog: Omit<Guide, "tdk">[] = [
     conflictStatus: "open",
     lastVerified: "2026-07-25",
   },
+  {
+    id: 3,
+    title: "hololive Dreams Gacha Guide: Pity, Rates, and 5-Star Pulls",
+    publishDate: "2026-08-05",
+    imageUrl: "/images/video/hololive-dreams-gacha-pity-rates-video.jpg",
+    imageAlt: "hololive Dreams gacha pity and rates guide thumbnail",
+    seo: {
+      title: "hololive Dreams Gacha Guide: Pity and Rates",
+      description:
+        "Track hololive Dreams gacha pulls, pity wording, rates, first-pull value, SSR terms, and limited banners without wasting currency.",
+      keywords: [
+        "hololive Dreams gacha pity",
+        "hololive Dreams gacha rates",
+        "hololive Dreams SSR",
+      ],
+    },
+    addressBar: "hololive-dreams-gacha-pity-rates",
+    intent: "Check banner rules before spending pull currency",
+    stage: "Gacha systems",
+    readTime: "10 min",
+    summary:
+      "Read the banner details first, separate guaranteed starter rewards from pity, and judge first pulls by current rarity, role value, and reroll time instead of launch-day hype.",
+    detailsHtml:
+      "<p>The useful rule is simple: do not treat every guarantee as pity. hololive Dreams can show starter selectors, guaranteed-ticket rewards, limited banners, and normal draw rates in different places. Check the current banner details before you spend.</p>",
+    sections: [
+      {
+        heading: "How gacha works in hololive Dreams",
+        body:
+          "The gacha loop is built around banners, pull currency, rarity outcomes, and account-start rewards. A banner is the active pool. Rates are the odds shown for that pool. A guarantee is a stated reward condition. Pity is a repeat-pull counter that forces or upgrades a result after enough misses. Those terms are often mixed together in community posts, so read the in-client banner details before making a spending plan.",
+        steps: [
+          "Open the active banner and read its Details or Rates panel before pulling.",
+          "Confirm whether the banner is normal, limited, starter, or event-limited.",
+          "Separate free tickets, starter selectors, and paid currency in your notes.",
+          "Record your pull count only for the banner where the rule is displayed.",
+        ],
+        note:
+          "As of this update, I could not verify one universal pity number across every banner. Treat any exact pity threshold as banner-specific unless the current banner text says otherwise.",
+      },
+      {
+        heading: "Pity, guarantee, and limited banner checks",
+        body:
+          "A pity counter is only useful when you know whether it carries over, resets, or applies to one limited pool. If the banner only promises a guaranteed rarity ticket or starter choice, that is not the same as a pity counter. Before spending deep, check three fields: top-rarity rate, guaranteed condition, and banner end timing. If any of those are missing, spend as if there is no safety net.",
+        steps: [
+          "Look for exact wording such as guaranteed, exchange, step-up, or pity.",
+          "Check whether the guarantee names a rarity, a character, or only a ticket type.",
+          "Confirm whether limited banner currency expires or converts after the banner.",
+          "Stop pulling when the next milestone is unclear or outside your budget.",
+        ],
+      },
+      {
+        heading: "5-star, SSR, and highest-rarity terms",
+        body:
+          "Players use 5-star, SSR, and highest rarity as shorthand for premium pulls. Do not assume those labels are interchangeable across every menu, translation, or community guide. The safe method is to compare the rarity icon and in-game skill text on the card you actually pulled. A rare pull with a weak role fit can be worse for your account than a slightly lower rarity that solves a team problem now.",
+        steps: [
+          "Match community terms to the current in-game rarity icon.",
+          "Read the skill text before locking the card into your main team.",
+          "Compare leader value, member value, and upgrade cost separately.",
+          "Keep one stable rhythm team while testing new high-rarity cards.",
+        ],
+        note:
+          "INFERRED: community searches around Holodori often use 5-star and SSR for the top gacha outcome. Verify the exact local label in your client before trading or rerolling around that term.",
+      },
+      {
+        heading: "Best first-pull and reroll decision",
+        body:
+          "The best first pull is the one that saves time over the next few hours. Prioritize a top-rarity card that has a clear team role, supports songs you can already clear, or reduces early progression friction. Do not reroll for a name alone if the reroll cycle takes longer than the value it gives back. If the game offers a highest-rarity starter choice, use it to cover your weakest role instead of duplicating a card type you already have.",
+        steps: [
+          "Time one complete reroll cycle before deciding whether rerolling is worth it.",
+          "Keep the account when the pull gives a top-rarity card with a usable role.",
+          "Reset only when the first result is both low rarity and poor role coverage.",
+          "Stop rerolling once the gain is smaller than the playtime you are losing.",
+        ],
+      },
+      {
+        heading: "Currency spending rules that prevent waste",
+        body:
+          "Most gacha mistakes come from spending before the banner rules are visible. Keep premium currency for banners with confirmed targets, confirmed rate-up language, or confirmed guarantee value. Spend free tickets when their pool is fixed and cannot be saved for a better event. If the client updates, recheck rates even when the banner name looks familiar.",
+        steps: [
+          "Spend expiring tickets first if their banner pool is locked.",
+          "Save premium currency when the target rate or guarantee is not listed.",
+          "Avoid single pulls near a known milestone unless the rule confirms they count.",
+          "Screenshot the banner rules before a deep pull session.",
+        ],
+      },
+    ],
+    related: [
+      { label: "Build a stable first team", href: "/guides/getting-started" },
+      { label: "Review teams and Holomem Board systems", href: "/wiki/systems" },
+      { label: "Browse playable characters", href: "/characters" },
+      { label: "Check songs for team testing", href: "/songs" },
+    ],
+    evidenceSources: ["yt--XTh3CQU7Aw", "src-003", "src-020"],
+    confidence: "mixed",
+    conflictStatus: "open",
+    lastVerified: "2026-08-05",
+  },
+  {
+    id: 4,
+    title: "hololive Dreams Multiplayer Guide: Unlock Timing and Servers",
+    publishDate: "2026-08-05",
+    imageUrl: "/images/video/hololive-dreams-multiplayer-unlock-video.jpg",
+    imageAlt: "hololive Dreams multiplayer unlock and server guide thumbnail",
+    seo: {
+      title: "hololive Dreams Multiplayer Unlock Guide",
+      description:
+        "Check when hololive Dreams multiplayer appears, what server and account conditions matter, and how to troubleshoot co-op or friend rooms.",
+      keywords: [
+        "hololive Dreams multiplayer",
+        "Holodori multiplayer unlock",
+        "hololive Dreams server",
+      ],
+    },
+    addressBar: "hololive-dreams-multiplayer-unlock",
+    intent: "Find why multiplayer is missing, locked, or failing to connect",
+    stage: "Co-op access",
+    readTime: "9 min",
+    summary:
+      "Clear the opening route until minigames and online options appear, then check account link, app version, server availability, and room flow before blaming your device.",
+    detailsHtml:
+      "<p>Multiplayer is not the first system to optimize. Treat it as a progression and account-state check: finish the tutorial route, unlock the mode that supports shared play, then verify server and friend-room conditions.</p>",
+    sections: [
+      {
+        heading: "When multiplayer becomes available",
+        body:
+          "hololive Dreams presents its systems through the opening route. Multiplayer is tied to modes that support playing with other people, especially side activities and shared rooms, rather than the first rhythm chart you clear. If the multiplayer button or room option is missing, continue the highlighted quest path until Dream Park, minigames, and account features are introduced.",
+        steps: [
+          "Finish the opening Live and any mandatory story prompts.",
+          "Follow the active quest until Dream Park and minigame menus are introduced.",
+          "Open the mode menu and check whether solo, friend, or online room options appear.",
+          "If no room option appears, progress one more stated objective before troubleshooting.",
+        ],
+        note:
+          "INFERRED: I could not verify a fixed player-level unlock number from the current public sources. Use the quest/menu state in your build as the reliable unlock check.",
+      },
+      {
+        heading: "Server and account prerequisites",
+        body:
+          "Connection problems usually come from account state before they come from team power. Make sure the client is updated, the account is logged in or linked as required, and the selected server or region is available. If you play on Steam, complete account-linking prompts before testing friend rooms. If you play on mobile, check whether your region has the same live service state as the person you are joining.",
+        steps: [
+          "Restart after updating so the client and server version match.",
+          "Confirm account login or Steam/account linking before opening multiplayer.",
+          "Check server maintenance or launch notices if rooms fail for everyone.",
+          "Have both players use the same game version and region where applicable.",
+        ],
+      },
+      {
+        heading: "Friends and room flow",
+        body:
+          "Use a clean room test before diagnosing advanced issues. One player should host, the other should join with the exact room method shown by the current UI. Do not change regions, devices, and accounts during the same test. If a friend cannot see the room, confirm that both accounts have reached the same unlock state and that the host did not create a solo-only session.",
+        steps: [
+          "Host a room from a mode that explicitly supports multiplayer.",
+          "Send the room method exactly as displayed by the client.",
+          "Join immediately before the room expires or starts.",
+          "If joining fails, swap host once to isolate account or network problems.",
+        ],
+      },
+      {
+        heading: "Common multiplayer blockers",
+        body:
+          "The usual blockers are locked progression, outdated client data, account-link failure, region mismatch, maintenance, and unstable network routing. Test them in that order. Randomly reinstalling the game should be the last step because it does not fix a locked menu, a server outage, or a friend who is on a different build.",
+        steps: [
+          "Check whether the multiplayer menu is unlocked on both accounts.",
+          "Confirm both players are on the latest patch.",
+          "Retry after a full restart if login or linking just completed.",
+          "Test a different host before changing network settings.",
+          "Use official maintenance channels if multiple accounts fail at the same step.",
+        ],
+        note:
+          "Do not share account credentials to solve linking or multiplayer access. Use the platform's normal account recovery flow if the link state is wrong.",
+      },
+      {
+        heading: "What to do when multiplayer still fails",
+        body:
+          "Once progression and account state are clean, isolate network variables. Keep one account, one region, and one mode unchanged while testing. If only one player fails, the issue is likely local account, NAT, firewall, or device connection. If every player fails in the same menu, treat it as server-side until an update proves otherwise.",
+        steps: [
+          "Test one known multiplayer mode with one friend.",
+          "Change only the host, then retest.",
+          "Try a stable wired or strong Wi-Fi connection if available.",
+          "Capture the error text, timestamp, platform, region, and app version.",
+          "Wait for maintenance resolution when the same error affects multiple accounts.",
+        ],
+      },
+    ],
+    related: [
+      { label: "Follow the beginner route first", href: "/guides/getting-started" },
+      { label: "Understand minigames and Dream Park", href: "/wiki/systems" },
+      { label: "Check performance and timing issues", href: "/guides/rhythm-timing" },
+      { label: "Track current updates", href: "/updates" },
+    ],
+    evidenceSources: ["yt-d1Gv4bRhLgg", "src-003", "src-021"],
+    confidence: "mixed",
+    conflictStatus: "open",
+    lastVerified: "2026-08-05",
+  },
 ];
 
 export const guides: Guide[] = guideCatalog.map((guide) => ({
@@ -333,6 +527,40 @@ export const guideFaqs: Record<
       question: "What makes a useful custom chart test?",
       answer:
         "Use a short section, a clear beat, the intended input method, and normal playback speed. Difficulty should come from readable musical patterns.",
+    },
+  ],
+  "hololive-dreams-gacha-pity-rates": [
+    {
+      question: "Does hololive Dreams have pity?",
+      answer:
+        "Do not assume a universal pity threshold. Check the current banner details for a named pity, exchange, step-up, or guarantee rule before spending.",
+    },
+    {
+      question: "Are 5-star and SSR the same in Holodori?",
+      answer:
+        "Treat them as community shorthand until you match the term to the current in-game rarity icon and skill text.",
+    },
+    {
+      question: "What is the best first pull in hololive Dreams?",
+      answer:
+        "Keep a first pull when it gives a high-rarity card with a useful team role and saves more time than another reroll cycle would cost.",
+    },
+  ],
+  "hololive-dreams-multiplayer-unlock": [
+    {
+      question: "When does multiplayer unlock in hololive Dreams?",
+      answer:
+        "Clear the opening route until Dream Park, minigames, and online or room options appear. I could not verify one fixed level requirement across current public sources.",
+    },
+    {
+      question: "Why can't I join multiplayer in hololive Dreams?",
+      answer:
+        "Check unlock state, account linking, app version, region/server availability, room type, and host stability in that order.",
+    },
+    {
+      question: "Can I play hololive Dreams with friends?",
+      answer:
+        "Yes, use modes that expose friend or room flow. Make sure both accounts have the same unlock state and compatible client version before testing invites.",
     },
   ],
 };

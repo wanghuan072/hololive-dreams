@@ -11,8 +11,9 @@ import styles from "./page.module.css";
 export const metadata: Metadata = metadataFor("guides", "/guides");
 
 const lanes = [
-  { label: "Learn the full loop", ids: [1] },
+  { label: "Learn the full loop", ids: [1, 4] },
   { label: "Improve every Live", ids: [2] },
+  { label: "Spend pulls cleanly", ids: [3] },
 ];
 
 export default function GuidesPage() {
